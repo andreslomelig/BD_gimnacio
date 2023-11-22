@@ -1,0 +1,246 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\stdlib-list-0.8.0-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/LICENSE",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/METADATA",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/RECORD",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/WHEEL",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/stdlib_list-0.8.0.dist-info/top_level.txt",
+    "Lib/site-packages/stdlib_list/__init__.py",
+    "Lib/site-packages/stdlib_list/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/stdlib_list/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/stdlib_list/__pycache__/base.cpython-38.pyc",
+    "Lib/site-packages/stdlib_list/__pycache__/fetch.cpython-38.pyc",
+    "Lib/site-packages/stdlib_list/_version.py",
+    "Lib/site-packages/stdlib_list/base.py",
+    "Lib/site-packages/stdlib_list/fetch.py",
+    "Lib/site-packages/stdlib_list/lists/2.6.txt",
+    "Lib/site-packages/stdlib_list/lists/2.7.txt",
+    "Lib/site-packages/stdlib_list/lists/3.2.txt",
+    "Lib/site-packages/stdlib_list/lists/3.3.txt",
+    "Lib/site-packages/stdlib_list/lists/3.4.txt",
+    "Lib/site-packages/stdlib_list/lists/3.5.txt",
+    "Lib/site-packages/stdlib_list/lists/3.6.txt",
+    "Lib/site-packages/stdlib_list/lists/3.7.txt",
+    "Lib/site-packages/stdlib_list/lists/3.8.txt",
+    "Lib/site-packages/stdlib_list/lists/3.9.txt",
+    ".nonadmin"
+  ],
+  "fn": "stdlib-list-0.8.0-py38haa95532_0.conda",
+  "legacy_bz2_md5": "62e3a57df99b23c420e60d68c2b8f25a",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\stdlib-list-0.8.0-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "ae49dad288c245041c5764675209a10c",
+  "name": "stdlib-list",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\stdlib-list-0.8.0-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "098746dabf2f699b1458484933d2f938bce8188f0577a41cf369d590baaa686b",
+        "sha256_in_prefix": "098746dabf2f699b1458484933d2f938bce8188f0577a41cf369d590baaa686b",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "dd25aab7acdc8369539de875ab40d00a9a0ff3aef9d55a303ed51274e3b12113",
+        "sha256_in_prefix": "dd25aab7acdc8369539de875ab40d00a9a0ff3aef9d55a303ed51274e3b12113",
+        "size_in_bytes": 2491
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ba110ade74b912f7ebbcd2e05034fd2025e5a3ee46da4f58372fe7a2e67c8c9c",
+        "sha256_in_prefix": "ba110ade74b912f7ebbcd2e05034fd2025e5a3ee46da4f58372fe7a2e67c8c9c",
+        "size_in_bytes": 2043
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a7b4d282548fc7a85ead382198fc2498090f551b199eb50231d4bb233d631d95",
+        "sha256_in_prefix": "a7b4d282548fc7a85ead382198fc2498090f551b199eb50231d4bb233d631d95",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list-0.8.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2327ea6f226741c83b975ab3bc6b4a0a77098cd65b7cf625c1f08d82200690c7",
+        "sha256_in_prefix": "2327ea6f226741c83b975ab3bc6b4a0a77098cd65b7cf625c1f08d82200690c7",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e28c26418e56188ce8943e6d9349c85f27589ae77fd98327b8f833f06deee1a5",
+        "sha256_in_prefix": "e28c26418e56188ce8943e6d9349c85f27589ae77fd98327b8f833f06deee1a5",
+        "size_in_bytes": 298
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "388581da7d66c09cbe3deb289bb005319011a757202b65fde6c0cebea2c587c1",
+        "sha256_in_prefix": "388581da7d66c09cbe3deb289bb005319011a757202b65fde6c0cebea2c587c1",
+        "size_in_bytes": 356
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/__pycache__/_version.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2c6c8e4a4672dc81255502a2364e11c014f8d02f5b7dd3e4f16154f724883dff",
+        "sha256_in_prefix": "2c6c8e4a4672dc81255502a2364e11c014f8d02f5b7dd3e4f16154f724883dff",
+        "size_in_bytes": 457
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/__pycache__/base.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2fc4c95e832208dfca867b6e8c458f869fcc0309d66026a2ec032d4e4e36d946",
+        "sha256_in_prefix": "2fc4c95e832208dfca867b6e8c458f869fcc0309d66026a2ec032d4e4e36d946",
+        "size_in_bytes": 3648
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/__pycache__/fetch.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b56e69fd0b957c5a329e0e596b21268ec64816fe5e7afea50c9eb90b84167b9",
+        "sha256_in_prefix": "2b56e69fd0b957c5a329e0e596b21268ec64816fe5e7afea50c9eb90b84167b9",
+        "size_in_bytes": 2796
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/_version.py",
+        "path_type": "hardlink",
+        "sha256": "3d94ccd8997a73459ed9f5a6698ed0aa19af5f269b5a652fb7a32b40f73b5fd6",
+        "sha256_in_prefix": "3d94ccd8997a73459ed9f5a6698ed0aa19af5f269b5a652fb7a32b40f73b5fd6",
+        "size_in_bytes": 519
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/base.py",
+        "path_type": "hardlink",
+        "sha256": "331ee2365af31892f0fa0f7a05ff187db7151800a346094f5b0274cc6293b25a",
+        "sha256_in_prefix": "331ee2365af31892f0fa0f7a05ff187db7151800a346094f5b0274cc6293b25a",
+        "size_in_bytes": 2963
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/fetch.py",
+        "path_type": "hardlink",
+        "sha256": "0e08690607a090cbb2396cfac53c97ca15a97a7c72508ceb915429d97b73973b",
+        "sha256_in_prefix": "0e08690607a090cbb2396cfac53c97ca15a97a7c72508ceb915429d97b73973b",
+        "size_in_bytes": 2388
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/2.6.txt",
+        "path_type": "hardlink",
+        "sha256": "a492691fbba9f95b910798285ef818f8707f5fb28342e46789b0411ca78ccf79",
+        "sha256_in_prefix": "a492691fbba9f95b910798285ef818f8707f5fb28342e46789b0411ca78ccf79",
+        "size_in_bytes": 4720
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/2.7.txt",
+        "path_type": "hardlink",
+        "sha256": "af5fe2e8c36765e529f9164ead8d7bfa238ffb29867ed22bc790cbc25cbccd3e",
+        "sha256_in_prefix": "af5fe2e8c36765e529f9164ead8d7bfa238ffb29867ed22bc790cbc25cbccd3e",
+        "size_in_bytes": 27222
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.2.txt",
+        "path_type": "hardlink",
+        "sha256": "aeba023cb85c7c5c2b6a42ed5b85acf76ce651758d20eeb42c9b70915ecc1b18",
+        "sha256_in_prefix": "aeba023cb85c7c5c2b6a42ed5b85acf76ce651758d20eeb42c9b70915ecc1b18",
+        "size_in_bytes": 3514
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.3.txt",
+        "path_type": "hardlink",
+        "sha256": "5c4268afa03e86d176b15e9df5d749bd062332684587fe205ce39113a4e5fb02",
+        "sha256_in_prefix": "5c4268afa03e86d176b15e9df5d749bd062332684587fe205ce39113a4e5fb02",
+        "size_in_bytes": 3618
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.4.txt",
+        "path_type": "hardlink",
+        "sha256": "704a503f5d149234df8521a2f39e2eba11e3b3bb7651b10b2de1456f3aefd8e9",
+        "sha256_in_prefix": "704a503f5d149234df8521a2f39e2eba11e3b3bb7651b10b2de1456f3aefd8e9",
+        "size_in_bytes": 31024
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.5.txt",
+        "path_type": "hardlink",
+        "sha256": "589589931dc183c05ac6447b17af57558449e12b01a32607a79276eeacb66f4c",
+        "sha256_in_prefix": "589589931dc183c05ac6447b17af57558449e12b01a32607a79276eeacb66f4c",
+        "size_in_bytes": 32711
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.6.txt",
+        "path_type": "hardlink",
+        "sha256": "04eba3ecf993703ab3b564c4e645d398e74e0853e1ae5f196681d2edd9127ce3",
+        "sha256_in_prefix": "04eba3ecf993703ab3b564c4e645d398e74e0853e1ae5f196681d2edd9127ce3",
+        "size_in_bytes": 34003
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.7.txt",
+        "path_type": "hardlink",
+        "sha256": "d825f95529c2824befc1c496cbcd7274ee6164c288df080c874fa08140311742",
+        "sha256_in_prefix": "d825f95529c2824befc1c496cbcd7274ee6164c288df080c874fa08140311742",
+        "size_in_bytes": 35238
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.8.txt",
+        "path_type": "hardlink",
+        "sha256": "3a8b8e5470ccae35c20f555cef1050a4005426d650833d1e9c35201c0e43010c",
+        "sha256_in_prefix": "3a8b8e5470ccae35c20f555cef1050a4005426d650833d1e9c35201c0e43010c",
+        "size_in_bytes": 36209
+      },
+      {
+        "_path": "Lib/site-packages/stdlib_list/lists/3.9.txt",
+        "path_type": "hardlink",
+        "sha256": "0bf6c388c3e3790f7f9d0d45c7628ce0c339fcf7ea6c5a024ffad3c2e305823d",
+        "sha256_in_prefix": "0bf6c388c3e3790f7f9d0d45c7628ce0c339fcf7ea6c5a024ffad3c2e305823d",
+        "size_in_bytes": 16244
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "stdlib-list",
+  "sha256": "0776df0545903c92788f60ccc1373e77d05751912755dcb391d19c2cb6d6bac9",
+  "size": 28317,
+  "subdir": "win-64",
+  "timestamp": 1676903085317,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/stdlib-list-0.8.0-py38haa95532_0.conda",
+  "version": "0.8.0"
+}

@@ -1,0 +1,763 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libogg-1.3.2-3",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libogg-0.dll",
+    "Library/mingw-w64/include/ogg/config_types.h",
+    "Library/mingw-w64/include/ogg/ogg.h",
+    "Library/mingw-w64/include/ogg/os_types.h",
+    "Library/mingw-w64/lib/libogg.a",
+    "Library/mingw-w64/lib/libogg.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/ogg.pc",
+    "Library/mingw-w64/share/aclocal/ogg.m4",
+    "Library/mingw-w64/share/doc/libogg/fish_xiph_org.png",
+    "Library/mingw-w64/share/doc/libogg/framing.html",
+    "Library/mingw-w64/share/doc/libogg/index.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/bitpacking.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/datastructures.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/decoding.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/encoding.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/general.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/index.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_iovec_t.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_packet.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_packet_clear.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_bos.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_checksum_set.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_continued.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_eos.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_granulepos.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_packets.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_pageno.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_serialno.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_version.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_check.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_clear.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_destroy.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_eos.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_flush.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_flush_fill.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_init.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_iovecin.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_packetin.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_packetout.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_packetpeek.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_pagein.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_pageout.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_pageout_fill.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_reset.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_reset_serialno.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_state.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_buffer.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_check.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_clear.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_destroy.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_init.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_pageout.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_pageseek.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_reset.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_state.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_wrote.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_adv.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_adv1.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_bits.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_buffer.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_bytes.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_get_buffer.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_look.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_look1.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_read.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_read1.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_readinit.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_reset.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_write.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writealign.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writecheck.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writeclear.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writecopy.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writeinit.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writetrunc.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/overview.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/reference.html",
+    "Library/mingw-w64/share/doc/libogg/libogg/style.css",
+    "Library/mingw-w64/share/doc/libogg/multiplex1.png",
+    "Library/mingw-w64/share/doc/libogg/ogg-multiplex.html",
+    "Library/mingw-w64/share/doc/libogg/oggstream.html",
+    "Library/mingw-w64/share/doc/libogg/packets.png",
+    "Library/mingw-w64/share/doc/libogg/pages.png",
+    "Library/mingw-w64/share/doc/libogg/rfc3533.txt",
+    "Library/mingw-w64/share/doc/libogg/rfc5334.txt",
+    "Library/mingw-w64/share/doc/libogg/skeleton.html",
+    "Library/mingw-w64/share/doc/libogg/stream.png",
+    "Library/mingw-w64/share/doc/libogg/vorbisword2.png",
+    "Library/mingw-w64/share/doc/libogg/white-ogg.png",
+    "Library/mingw-w64/share/doc/libogg/white-xifish.png",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-libogg-1.3.2-3.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libogg-1.3.2-3",
+    "type": 1
+  },
+  "md5": "1ee2fa142adba8203c7f20e411ca629f",
+  "name": "m2w64-libogg",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libogg-1.3.2-3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libogg-0.dll",
+        "path_type": "hardlink",
+        "sha256": "3d6918902803d9a238e3cbe17da5ac2c0efc249065055c169e8e29e4237e5a24",
+        "sha256_in_prefix": "3d6918902803d9a238e3cbe17da5ac2c0efc249065055c169e8e29e4237e5a24",
+        "size_in_bytes": 30607
+      },
+      {
+        "_path": "Library/mingw-w64/include/ogg/config_types.h",
+        "path_type": "hardlink",
+        "sha256": "74aa46f220754c0d655e20cf9e7b4590cf973212dd35672a544101ad0e046760",
+        "sha256_in_prefix": "74aa46f220754c0d655e20cf9e7b4590cf973212dd35672a544101ad0e046760",
+        "size_in_bytes": 499
+      },
+      {
+        "_path": "Library/mingw-w64/include/ogg/ogg.h",
+        "path_type": "hardlink",
+        "sha256": "5558fe6901803400e7b5252d1f507426cabeba1eff376398e78865a7e733380c",
+        "sha256_in_prefix": "5558fe6901803400e7b5252d1f507426cabeba1eff376398e78865a7e733380c",
+        "size_in_bytes": 8433
+      },
+      {
+        "_path": "Library/mingw-w64/include/ogg/os_types.h",
+        "path_type": "hardlink",
+        "sha256": "303cf73e434eb960bc561c9e71d713ecc3614b45004ba575f8106d5491fb77c8",
+        "sha256_in_prefix": "303cf73e434eb960bc561c9e71d713ecc3614b45004ba575f8106d5491fb77c8",
+        "size_in_bytes": 4271
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libogg.a",
+        "path_type": "hardlink",
+        "sha256": "f9589241ea1694fcfe2e19aa5d6f418f4225060a84a9de2604eb69e6fb95ee6d",
+        "sha256_in_prefix": "f9589241ea1694fcfe2e19aa5d6f418f4225060a84a9de2604eb69e6fb95ee6d",
+        "size_in_bytes": 20326
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libogg.dll.a",
+        "path_type": "hardlink",
+        "sha256": "381ff52d97623ed9174bcfc3fd8c210fcd18a1895c03e5d314489dd204c2354f",
+        "sha256_in_prefix": "381ff52d97623ed9174bcfc3fd8c210fcd18a1895c03e5d314489dd204c2354f",
+        "size_in_bytes": 45156
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/ogg.pc",
+        "path_type": "hardlink",
+        "sha256": "811c2f331d8178c2554b0e1a07ddec8fc04217bdf3baf9db146b94aecb68d564",
+        "sha256_in_prefix": "811c2f331d8178c2554b0e1a07ddec8fc04217bdf3baf9db146b94aecb68d564",
+        "size_in_bytes": 273
+      },
+      {
+        "_path": "Library/mingw-w64/share/aclocal/ogg.m4",
+        "path_type": "hardlink",
+        "sha256": "e348f10e33a348a893065b604b35f7b781428f2369a28b6fbb996d49adaf4bb8",
+        "sha256_in_prefix": "e348f10e33a348a893065b604b35f7b781428f2369a28b6fbb996d49adaf4bb8",
+        "size_in_bytes": 3957
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/fish_xiph_org.png",
+        "path_type": "hardlink",
+        "sha256": "d9d43ccd360e8a2b5785d0b21061141cbca284c7fc378202fc139c47670ce0d9",
+        "sha256_in_prefix": "d9d43ccd360e8a2b5785d0b21061141cbca284c7fc378202fc139c47670ce0d9",
+        "size_in_bytes": 2536
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/framing.html",
+        "path_type": "hardlink",
+        "sha256": "f1f021228e4d5acc28c9029f254278402493fefb50e3f936ddd7dda8ee632d96",
+        "sha256_in_prefix": "f1f021228e4d5acc28c9029f254278402493fefb50e3f936ddd7dda8ee632d96",
+        "size_in_bytes": 14507
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/index.html",
+        "path_type": "hardlink",
+        "sha256": "2321a15771c7ce3714d3599e0e0c9363f4cabc4c2c9d5663e46008cbb4397ac7",
+        "sha256_in_prefix": "2321a15771c7ce3714d3599e0e0c9363f4cabc4c2c9d5663e46008cbb4397ac7",
+        "size_in_bytes": 1839
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/bitpacking.html",
+        "path_type": "hardlink",
+        "sha256": "b08d1dc221c64e116b77be6009eb434d3173fb2a70e5d0d1228b1e9f57c9b046",
+        "sha256_in_prefix": "b08d1dc221c64e116b77be6009eb434d3173fb2a70e5d0d1228b1e9f57c9b046",
+        "size_in_bytes": 3377
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/datastructures.html",
+        "path_type": "hardlink",
+        "sha256": "7ba90c0baa8ed92ef1177de5ab64b9d7d33e5a603420d799fc86e59366e7e70e",
+        "sha256_in_prefix": "7ba90c0baa8ed92ef1177de5ab64b9d7d33e5a603420d799fc86e59366e7e70e",
+        "size_in_bytes": 1711
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/decoding.html",
+        "path_type": "hardlink",
+        "sha256": "2b2f95836c48ce11cb192965a37f3dcea11bbd6f5eb51ef29824806cb70639b0",
+        "sha256_in_prefix": "2b2f95836c48ce11cb192965a37f3dcea11bbd6f5eb51ef29824806cb70639b0",
+        "size_in_bytes": 4005
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/encoding.html",
+        "path_type": "hardlink",
+        "sha256": "e58d81cd89cf655ec3c5f3acfa731e45866a38230843abb7a5f71553b9b972c0",
+        "sha256_in_prefix": "e58d81cd89cf655ec3c5f3acfa731e45866a38230843abb7a5f71553b9b972c0",
+        "size_in_bytes": 2878
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/general.html",
+        "path_type": "hardlink",
+        "sha256": "b95b3c686502ce90beb951cf83e12cfe10232002184b214f15fc3f5ab3119078",
+        "sha256_in_prefix": "b95b3c686502ce90beb951cf83e12cfe10232002184b214f15fc3f5ab3119078",
+        "size_in_bytes": 3666
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/index.html",
+        "path_type": "hardlink",
+        "sha256": "12c29bf3230ca440682a18ca53a250ee2091044f01a8860b04cf93468a56bcf5",
+        "sha256_in_prefix": "12c29bf3230ca440682a18ca53a250ee2091044f01a8860b04cf93468a56bcf5",
+        "size_in_bytes": 1052
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_iovec_t.html",
+        "path_type": "hardlink",
+        "sha256": "311cf237298310d729c63498758d391d854132be666001b954812876405dc2f7",
+        "sha256_in_prefix": "311cf237298310d729c63498758d391d854132be666001b954812876405dc2f7",
+        "size_in_bytes": 1384
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_packet.html",
+        "path_type": "hardlink",
+        "sha256": "0510eec25b6bf2ce26d1d4a2e83da857c32ba9c532d4ea4df99d9a10cceba636",
+        "sha256_in_prefix": "0510eec25b6bf2ce26d1d4a2e83da857c32ba9c532d4ea4df99d9a10cceba636",
+        "size_in_bytes": 2249
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_packet_clear.html",
+        "path_type": "hardlink",
+        "sha256": "a6dc8f6752497490fbfe95ed5adc8107f455c6464be748cc46ad95787d4267f3",
+        "sha256_in_prefix": "a6dc8f6752497490fbfe95ed5adc8107f455c6464be748cc46ad95787d4267f3",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page.html",
+        "path_type": "hardlink",
+        "sha256": "bb50231f183e71122f2a2d603b9181410de71ab84982987424256cd2b7ec7a8d",
+        "sha256_in_prefix": "bb50231f183e71122f2a2d603b9181410de71ab84982987424256cd2b7ec7a8d",
+        "size_in_bytes": 2209
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_bos.html",
+        "path_type": "hardlink",
+        "sha256": "22b8716083b47a08d10a14d2ed91d1cdb31048788aadaf4a4079407b6da0eeda",
+        "sha256_in_prefix": "22b8716083b47a08d10a14d2ed91d1cdb31048788aadaf4a4079407b6da0eeda",
+        "size_in_bytes": 1372
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_checksum_set.html",
+        "path_type": "hardlink",
+        "sha256": "d9447a12727c6465b05c23c89df797f719edd07fbfd213920dedaf71ddf33d45",
+        "sha256_in_prefix": "d9447a12727c6465b05c23c89df797f719edd07fbfd213920dedaf71ddf33d45",
+        "size_in_bytes": 1207
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_continued.html",
+        "path_type": "hardlink",
+        "sha256": "f92fabe1a14b6be427952d5500514001dd78ab6212b17e72c1397280475b39e9",
+        "sha256_in_prefix": "f92fabe1a14b6be427952d5500514001dd78ab6212b17e72c1397280475b39e9",
+        "size_in_bytes": 1404
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_eos.html",
+        "path_type": "hardlink",
+        "sha256": "fbd983670d43872928ddd824e6a90f4ba1b81f3cd2d00400c3401d7589b32895",
+        "sha256_in_prefix": "fbd983670d43872928ddd824e6a90f4ba1b81f3cd2d00400c3401d7589b32895",
+        "size_in_bytes": 1369
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_granulepos.html",
+        "path_type": "hardlink",
+        "sha256": "22c4855f9fe6f7da7a1d1e56784fbd52115abb9fd185c81e6233a131e04a4254",
+        "sha256_in_prefix": "22c4855f9fe6f7da7a1d1e56784fbd52115abb9fd185c81e6233a131e04a4254",
+        "size_in_bytes": 1555
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_packets.html",
+        "path_type": "hardlink",
+        "sha256": "ebb0f2bb742ac08dee0824b3497994f5bee872c6ba657d16e023fd10500189d3",
+        "sha256_in_prefix": "ebb0f2bb742ac08dee0824b3497994f5bee872c6ba657d16e023fd10500189d3",
+        "size_in_bytes": 1841
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_pageno.html",
+        "path_type": "hardlink",
+        "sha256": "5262e98da6a5aa5735301ca257b72e643d0a601b0e0bb5f5b65707dd4aefa703",
+        "sha256_in_prefix": "5262e98da6a5aa5735301ca257b72e643d0a601b0e0bb5f5b65707dd4aefa703",
+        "size_in_bytes": 1334
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_serialno.html",
+        "path_type": "hardlink",
+        "sha256": "60c8dd7b1d978adcb1e670e3a676c362785c549e39ac5dd097db2229ce16ea56",
+        "sha256_in_prefix": "60c8dd7b1d978adcb1e670e3a676c362785c549e39ac5dd097db2229ce16ea56",
+        "size_in_bytes": 1387
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_page_version.html",
+        "path_type": "hardlink",
+        "sha256": "9fd5dd207a3c6631443830fcd6879fbb329f2a3b2d2e30c8758304ecd508a5b9",
+        "sha256_in_prefix": "9fd5dd207a3c6631443830fcd6879fbb329f2a3b2d2e30c8758304ecd508a5b9",
+        "size_in_bytes": 1508
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_check.html",
+        "path_type": "hardlink",
+        "sha256": "d2c14a280754a1060f07068221d5965330e2fd720f6d569bbaaba80415474561",
+        "sha256_in_prefix": "d2c14a280754a1060f07068221d5965330e2fd720f6d569bbaaba80415474561",
+        "size_in_bytes": 2302
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_clear.html",
+        "path_type": "hardlink",
+        "sha256": "5f3a2f4f23127988e9aacdd68fcdce5dc4fae786dad9347d61000e0eeb3b84cd",
+        "sha256_in_prefix": "5f3a2f4f23127988e9aacdd68fcdce5dc4fae786dad9347d61000e0eeb3b84cd",
+        "size_in_bytes": 1457
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_destroy.html",
+        "path_type": "hardlink",
+        "sha256": "ae975c289e91be17d273ad198c134da4affa32592fb9f473f699320c266487fd",
+        "sha256_in_prefix": "ae975c289e91be17d273ad198c134da4affa32592fb9f473f699320c266487fd",
+        "size_in_bytes": 1717
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_eos.html",
+        "path_type": "hardlink",
+        "sha256": "ff297ff574fb60b46d867873fe6db0fbdb206feea012d89dafe7a7ea3c2d6174",
+        "sha256_in_prefix": "ff297ff574fb60b46d867873fe6db0fbdb206feea012d89dafe7a7ea3c2d6174",
+        "size_in_bytes": 1394
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_flush.html",
+        "path_type": "hardlink",
+        "sha256": "8798c1628decf0c9c44eb09540370e97b3cec17a35d8833c0925288298c7f44b",
+        "sha256_in_prefix": "8798c1628decf0c9c44eb09540370e97b3cec17a35d8833c0925288298c7f44b",
+        "size_in_bytes": 2620
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_flush_fill.html",
+        "path_type": "hardlink",
+        "sha256": "8b81d3eae08ffbdc18aa3b96270331f599e7d6f6f0ba9adf0886b6910df70651",
+        "sha256_in_prefix": "8b81d3eae08ffbdc18aa3b96270331f599e7d6f6f0ba9adf0886b6910df70651",
+        "size_in_bytes": 2775
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_init.html",
+        "path_type": "hardlink",
+        "sha256": "a1904d8573f131122e08b82fd050df1d23bae42d82bf8d6cd650d259cda7f176",
+        "sha256_in_prefix": "a1904d8573f131122e08b82fd050df1d23bae42d82bf8d6cd650d259cda7f176",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_iovecin.html",
+        "path_type": "hardlink",
+        "sha256": "ad256b0b08a54f953d5a760df87953fbb1f3ee5bfef54d6066b02e3c4a238f4b",
+        "sha256_in_prefix": "ad256b0b08a54f953d5a760df87953fbb1f3ee5bfef54d6066b02e3c4a238f4b",
+        "size_in_bytes": 2412
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_packetin.html",
+        "path_type": "hardlink",
+        "sha256": "37072a99d4cf97fd447d1857fe0b0e614f8539597ddd3782f44a8e3fcc2b0490",
+        "sha256_in_prefix": "37072a99d4cf97fd447d1857fe0b0e614f8539597ddd3782f44a8e3fcc2b0490",
+        "size_in_bytes": 1879
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_packetout.html",
+        "path_type": "hardlink",
+        "sha256": "6e7c12657a53e4b83d1e8272a41a79d3a5c42ae4a25183d245611da1ce11c170",
+        "sha256_in_prefix": "6e7c12657a53e4b83d1e8272a41a79d3a5c42ae4a25183d245611da1ce11c170",
+        "size_in_bytes": 2951
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_packetpeek.html",
+        "path_type": "hardlink",
+        "sha256": "3baf857f3d6446b2e0913e6cbd3b7275b3c1662b4ac553a6577ad3e7525b7b08",
+        "sha256_in_prefix": "3baf857f3d6446b2e0913e6cbd3b7275b3c1662b4ac553a6577ad3e7525b7b08",
+        "size_in_bytes": 2307
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_pagein.html",
+        "path_type": "hardlink",
+        "sha256": "27e9515fc40ac96277884747f22c7888b6870f4b4b5c877bfd9953d3cec591fd",
+        "sha256_in_prefix": "27e9515fc40ac96277884747f22c7888b6870f4b4b5c877bfd9953d3cec591fd",
+        "size_in_bytes": 2175
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_pageout.html",
+        "path_type": "hardlink",
+        "sha256": "72bb141d6c9ae941d4c84c48845cfcafc484a59d14b023b768101a66f38ba3b8",
+        "sha256_in_prefix": "72bb141d6c9ae941d4c84c48845cfcafc484a59d14b023b768101a66f38ba3b8",
+        "size_in_bytes": 2760
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_pageout_fill.html",
+        "path_type": "hardlink",
+        "sha256": "52a90f1aaf8ad9bf724138eb9841861f8a3b048a3f47723e4c9526b30a022527",
+        "sha256_in_prefix": "52a90f1aaf8ad9bf724138eb9841861f8a3b048a3f47723e4c9526b30a022527",
+        "size_in_bytes": 2982
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_reset.html",
+        "path_type": "hardlink",
+        "sha256": "de84cc22da90fdfe6aaa13af8144376cc71312d76f5a5b0162dce406c62e4091",
+        "sha256_in_prefix": "de84cc22da90fdfe6aaa13af8144376cc71312d76f5a5b0162dce406c62e4091",
+        "size_in_bytes": 1376
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_reset_serialno.html",
+        "path_type": "hardlink",
+        "sha256": "6d59f98a41fcc87dfb35bf11cea303ebcc0e7f6750cf1db8755f3c9737b442a9",
+        "sha256_in_prefix": "6d59f98a41fcc87dfb35bf11cea303ebcc0e7f6750cf1db8755f3c9737b442a9",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_stream_state.html",
+        "path_type": "hardlink",
+        "sha256": "e85e4147e0b793487f55dd79942396dedf65bcdfff2812a976e7f881b9551599",
+        "sha256_in_prefix": "e85e4147e0b793487f55dd79942396dedf65bcdfff2812a976e7f881b9551599",
+        "size_in_bytes": 4359
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_buffer.html",
+        "path_type": "hardlink",
+        "sha256": "4fb81018bcf92f9be7b0ffcf125d9df897af51f17adc4fee6b4a4fffee5b85a3",
+        "sha256_in_prefix": "4fb81018bcf92f9be7b0ffcf125d9df897af51f17adc4fee6b4a4fffee5b85a3",
+        "size_in_bytes": 2063
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_check.html",
+        "path_type": "hardlink",
+        "sha256": "88cf89a6017f041853754f012f8dd01638ce4a49127f73e0230e713dbefb75bb",
+        "sha256_in_prefix": "88cf89a6017f041853754f012f8dd01638ce4a49127f73e0230e713dbefb75bb",
+        "size_in_bytes": 2262
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_clear.html",
+        "path_type": "hardlink",
+        "sha256": "452811e74cc1c1b1a7008f4316e9225b32fccf3736a86d1f74d94469d14ea2f4",
+        "sha256_in_prefix": "452811e74cc1c1b1a7008f4316e9225b32fccf3736a86d1f74d94469d14ea2f4",
+        "size_in_bytes": 1713
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_destroy.html",
+        "path_type": "hardlink",
+        "sha256": "d2b8226acda3e8e4312458cd4a2df36f46e48e629657f03ae397eb761604ae5f",
+        "sha256_in_prefix": "d2b8226acda3e8e4312458cd4a2df36f46e48e629657f03ae397eb761604ae5f",
+        "size_in_bytes": 1730
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_init.html",
+        "path_type": "hardlink",
+        "sha256": "1cb33d0af1f3f790624a519614ff9239202e9cbc93138cf3f7dab224b7800949",
+        "sha256_in_prefix": "1cb33d0af1f3f790624a519614ff9239202e9cbc93138cf3f7dab224b7800949",
+        "size_in_bytes": 1615
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_pageout.html",
+        "path_type": "hardlink",
+        "sha256": "9e42f3db72fb526e12ca4d9d75c99b2504487fbfa1c1f94d820e7ba4184b8c7a",
+        "sha256_in_prefix": "9e42f3db72fb526e12ca4d9d75c99b2504487fbfa1c1f94d820e7ba4184b8c7a",
+        "size_in_bytes": 2521
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_pageseek.html",
+        "path_type": "hardlink",
+        "sha256": "a3e6585f447bb5694a2780c741cddc174f7c049776c0581eafc6d7b8d75d3522",
+        "sha256_in_prefix": "a3e6585f447bb5694a2780c741cddc174f7c049776c0581eafc6d7b8d75d3522",
+        "size_in_bytes": 1997
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_reset.html",
+        "path_type": "hardlink",
+        "sha256": "e9abae4b359dd020b4e3bb41a0a3175474d6d40c28d8410d48903200cddd525a",
+        "sha256_in_prefix": "e9abae4b359dd020b4e3bb41a0a3175474d6d40c28d8410d48903200cddd525a",
+        "size_in_bytes": 1488
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_state.html",
+        "path_type": "hardlink",
+        "sha256": "b88386ef81f6405325205bec75d735ee1ae4ca9f48c9fcc9bda1fb2a95dccdc6",
+        "sha256_in_prefix": "b88386ef81f6405325205bec75d735ee1ae4ca9f48c9fcc9bda1fb2a95dccdc6",
+        "size_in_bytes": 2235
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/ogg_sync_wrote.html",
+        "path_type": "hardlink",
+        "sha256": "abde643eb62abaefe685220d84009d291b6eae74cf783035d20e33dbc8df1d7a",
+        "sha256_in_prefix": "abde643eb62abaefe685220d84009d291b6eae74cf783035d20e33dbc8df1d7a",
+        "size_in_bytes": 2020
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_adv.html",
+        "path_type": "hardlink",
+        "sha256": "f8f0718be913118a6f8fefe3f68d2096e73e6a380eceb0d59eb4512f5eb36270",
+        "sha256_in_prefix": "f8f0718be913118a6f8fefe3f68d2096e73e6a380eceb0d59eb4512f5eb36270",
+        "size_in_bytes": 1371
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_adv1.html",
+        "path_type": "hardlink",
+        "sha256": "261c6ade76cef4bd5ee9ad05cff3d83e97c15381ed313d60f281f4d105fde92a",
+        "sha256_in_prefix": "261c6ade76cef4bd5ee9ad05cff3d83e97c15381ed313d60f281f4d105fde92a",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_bits.html",
+        "path_type": "hardlink",
+        "sha256": "e537c48de728d96e31123222069e62c94f28434cdfcfb3710964fb06ec2b27b8",
+        "sha256_in_prefix": "e537c48de728d96e31123222069e62c94f28434cdfcfb3710964fb06ec2b27b8",
+        "size_in_bytes": 1425
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_buffer.html",
+        "path_type": "hardlink",
+        "sha256": "169e7903b5119d5e7b791401dcf20d5a638446ccad9bbadc28220f5f35ec9f9c",
+        "sha256_in_prefix": "169e7903b5119d5e7b791401dcf20d5a638446ccad9bbadc28220f5f35ec9f9c",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_bytes.html",
+        "path_type": "hardlink",
+        "sha256": "6bb81027a8f7248897d8d19c80b8fd0fcefb48d588a844c74e727390507026ff",
+        "sha256_in_prefix": "6bb81027a8f7248897d8d19c80b8fd0fcefb48d588a844c74e727390507026ff",
+        "size_in_bytes": 1725
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_get_buffer.html",
+        "path_type": "hardlink",
+        "sha256": "2ad911f08ef4306ea58b1a72c61e31d6549a4a20575054f060645efcf6bef35e",
+        "sha256_in_prefix": "2ad911f08ef4306ea58b1a72c61e31d6549a4a20575054f060645efcf6bef35e",
+        "size_in_bytes": 1415
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_look.html",
+        "path_type": "hardlink",
+        "sha256": "97c3d30f51626f67fce4b91ee4b9ac4414814ba4f46cdb46858a24612880212a",
+        "sha256_in_prefix": "97c3d30f51626f67fce4b91ee4b9ac4414814ba4f46cdb46858a24612880212a",
+        "size_in_bytes": 1625
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_look1.html",
+        "path_type": "hardlink",
+        "sha256": "1ea960d14da0412f9470b5d0e0bca0e4654e1ead5e3fa1e54eba07cd9b865ee7",
+        "sha256_in_prefix": "1ea960d14da0412f9470b5d0e0bca0e4654e1ead5e3fa1e54eba07cd9b865ee7",
+        "size_in_bytes": 1438
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_read.html",
+        "path_type": "hardlink",
+        "sha256": "b87564fe536275f4917ebdc899a57e372b7adec7279a7eb07270f64422e3918f",
+        "sha256_in_prefix": "b87564fe536275f4917ebdc899a57e372b7adec7279a7eb07270f64422e3918f",
+        "size_in_bytes": 1553
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_read1.html",
+        "path_type": "hardlink",
+        "sha256": "40af6a3862c68cd984f7718a269e97e78a0ae8e9b0828221eaff1ad3d8cf8ad3",
+        "sha256_in_prefix": "40af6a3862c68cd984f7718a269e97e78a0ae8e9b0828221eaff1ad3d8cf8ad3",
+        "size_in_bytes": 1530
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_readinit.html",
+        "path_type": "hardlink",
+        "sha256": "ebf7526edc2479be7c43a9cfd873f5a9fea5fce0e3f83c860db881d972c3ef10",
+        "sha256_in_prefix": "ebf7526edc2479be7c43a9cfd873f5a9fea5fce0e3f83c860db881d972c3ef10",
+        "size_in_bytes": 1690
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_reset.html",
+        "path_type": "hardlink",
+        "sha256": "9eb476a67f4e2c9eed58f801559052e66332b879fd47ba6cd5b342823c646d4d",
+        "sha256_in_prefix": "9eb476a67f4e2c9eed58f801559052e66332b879fd47ba6cd5b342823c646d4d",
+        "size_in_bytes": 1364
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_write.html",
+        "path_type": "hardlink",
+        "sha256": "3fa75be5ccf222389717bc86ad01b78d6886ac107d4f1e09394524a396fb2d43",
+        "sha256_in_prefix": "3fa75be5ccf222389717bc86ad01b78d6886ac107d4f1e09394524a396fb2d43",
+        "size_in_bytes": 1652
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writealign.html",
+        "path_type": "hardlink",
+        "sha256": "b6b86b1b3cabbb8a36b45a1b91b97a931a04ae37d3175b3b362c2b8622def1e5",
+        "sha256_in_prefix": "b6b86b1b3cabbb8a36b45a1b91b97a931a04ae37d3175b3b362c2b8622def1e5",
+        "size_in_bytes": 1504
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writecheck.html",
+        "path_type": "hardlink",
+        "sha256": "959a4a41c3cdb4bea2a1476a3ad9b7affbe46e590bcc71ea7f29bfdc5c13bc8b",
+        "sha256_in_prefix": "959a4a41c3cdb4bea2a1476a3ad9b7affbe46e590bcc71ea7f29bfdc5c13bc8b",
+        "size_in_bytes": 2586
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writeclear.html",
+        "path_type": "hardlink",
+        "sha256": "f1e795f64e3b000eb02a8642a98dc11d791caa0f73a1beccdb0a7ff3b197a3a6",
+        "sha256_in_prefix": "f1e795f64e3b000eb02a8642a98dc11d791caa0f73a1beccdb0a7ff3b197a3a6",
+        "size_in_bytes": 1381
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writecopy.html",
+        "path_type": "hardlink",
+        "sha256": "c6c6a420d760649e44f13bd51192104257ade35e06e21716d49e58b015d60b13",
+        "sha256_in_prefix": "c6c6a420d760649e44f13bd51192104257ade35e06e21716d49e58b015d60b13",
+        "size_in_bytes": 1699
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writeinit.html",
+        "path_type": "hardlink",
+        "sha256": "77ba6ff7c1e681c3cc43f71609e1b8a5da25929adc96523bb4de40f35df1074d",
+        "sha256_in_prefix": "77ba6ff7c1e681c3cc43f71609e1b8a5da25929adc96523bb4de40f35df1074d",
+        "size_in_bytes": 1490
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/oggpack_writetrunc.html",
+        "path_type": "hardlink",
+        "sha256": "8b5e59be2a2245c64dc7fe8e71aba0f94fbee7d48156830f3c99f80587bfd37a",
+        "sha256_in_prefix": "8b5e59be2a2245c64dc7fe8e71aba0f94fbee7d48156830f3c99f80587bfd37a",
+        "size_in_bytes": 1539
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/overview.html",
+        "path_type": "hardlink",
+        "sha256": "678f7499fe5fd618049f6873841193ba2d3bb1f60317ea07c187abf756750128",
+        "sha256_in_prefix": "678f7499fe5fd618049f6873841193ba2d3bb1f60317ea07c187abf756750128",
+        "size_in_bytes": 1124
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/reference.html",
+        "path_type": "hardlink",
+        "sha256": "2ae706596ff30f12fdf80b4b1741aa0b9734c16b9390e219e1364aef4ed9a4cf",
+        "sha256_in_prefix": "2ae706596ff30f12fdf80b4b1741aa0b9734c16b9390e219e1364aef4ed9a4cf",
+        "size_in_bytes": 4209
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/libogg/style.css",
+        "path_type": "hardlink",
+        "sha256": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "sha256_in_prefix": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/multiplex1.png",
+        "path_type": "hardlink",
+        "sha256": "758b4c95cf431c5b5f5803c56a2eb5c6f8311656ac253e6e7546a1d3515fa177",
+        "sha256_in_prefix": "758b4c95cf431c5b5f5803c56a2eb5c6f8311656ac253e6e7546a1d3515fa177",
+        "size_in_bytes": 54409
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/ogg-multiplex.html",
+        "path_type": "hardlink",
+        "sha256": "a338726d6ad47abe535a39c9e79401509f34cbb63da1f1c1adc934b112b6fd51",
+        "sha256_in_prefix": "a338726d6ad47abe535a39c9e79401509f34cbb63da1f1c1adc934b112b6fd51",
+        "size_in_bytes": 18924
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/oggstream.html",
+        "path_type": "hardlink",
+        "sha256": "13f0f1d6bf519afc26e36a47f1a8cdc2ac0f19f7c1a66a155bc81425ec7f6de8",
+        "sha256_in_prefix": "13f0f1d6bf519afc26e36a47f1a8cdc2ac0f19f7c1a66a155bc81425ec7f6de8",
+        "size_in_bytes": 23738
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/packets.png",
+        "path_type": "hardlink",
+        "sha256": "47bb12b97020c711cfce816f409a2305ca6b8df3141b8f321262f9885e04d49c",
+        "sha256_in_prefix": "47bb12b97020c711cfce816f409a2305ca6b8df3141b8f321262f9885e04d49c",
+        "size_in_bytes": 19776
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/pages.png",
+        "path_type": "hardlink",
+        "sha256": "6d39711e662b28c990516b88fa23c0f71791881f421dcd158e15ee9280a4cbfd",
+        "sha256_in_prefix": "6d39711e662b28c990516b88fa23c0f71791881f421dcd158e15ee9280a4cbfd",
+        "size_in_bytes": 43547
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/rfc3533.txt",
+        "path_type": "hardlink",
+        "sha256": "f170265303dd32d026611f7e080338d15d5456643d1d4c22f2c32046860c5476",
+        "sha256_in_prefix": "f170265303dd32d026611f7e080338d15d5456643d1d4c22f2c32046860c5476",
+        "size_in_bytes": 32045
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/rfc5334.txt",
+        "path_type": "hardlink",
+        "sha256": "de42494701e2acb01585d3c2668c7057238a573d4d0dbc482f8a3a853079950d",
+        "sha256_in_prefix": "de42494701e2acb01585d3c2668c7057238a573d4d0dbc482f8a3a853079950d",
+        "size_in_bytes": 27018
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/skeleton.html",
+        "path_type": "hardlink",
+        "sha256": "587c2d528014a7acf2b7e0003e70194872deb562a63918d1edf8df8e9e219a71",
+        "sha256_in_prefix": "587c2d528014a7acf2b7e0003e70194872deb562a63918d1edf8df8e9e219a71",
+        "size_in_bytes": 15166
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/stream.png",
+        "path_type": "hardlink",
+        "sha256": "7aef2906fe37b86abe53a3aa668be1881d73ef3b8efc7762a9e354e5edf6a63a",
+        "sha256_in_prefix": "7aef2906fe37b86abe53a3aa668be1881d73ef3b8efc7762a9e354e5edf6a63a",
+        "size_in_bytes": 2254
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/vorbisword2.png",
+        "path_type": "hardlink",
+        "sha256": "f97e4fdc963779b4bbcf1c86ae9cf586d69010f11aa0d142ee0f4b6955d1635e",
+        "sha256_in_prefix": "f97e4fdc963779b4bbcf1c86ae9cf586d69010f11aa0d142ee0f4b6955d1635e",
+        "size_in_bytes": 1394
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/white-ogg.png",
+        "path_type": "hardlink",
+        "sha256": "a8cd12b9700b2e503261cef7529e3c7f3b27b433b90f3b5f14636aba602ab2a8",
+        "sha256_in_prefix": "a8cd12b9700b2e503261cef7529e3c7f3b27b433b90f3b5f14636aba602ab2a8",
+        "size_in_bytes": 2652
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libogg/white-xifish.png",
+        "path_type": "hardlink",
+        "sha256": "393224c5730de09be8a1c9a8a0a6d53add3d77caebc8603e8e033eb527b15a35",
+        "sha256_in_prefix": "393224c5730de09be8a1c9a8a0a6d53add3d77caebc8603e8e033eb527b15a35",
+        "size_in_bytes": 965
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4e4615ed0ba3860aec3b91e150cc63d79c4c3bcfef61eb757c042aeeaffb1934",
+  "size": 210354,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libogg-1.3.2-3.tar.bz2",
+  "version": "1.3.2"
+}

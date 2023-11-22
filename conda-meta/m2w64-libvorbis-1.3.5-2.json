@@ -1,0 +1,1253 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "m2w64-libogg",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libvorbis-1.3.5-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libvorbis-0.dll",
+    "Library/mingw-w64/bin/libvorbisenc-2.dll",
+    "Library/mingw-w64/bin/libvorbisfile-3.dll",
+    "Library/mingw-w64/include/vorbis/codec.h",
+    "Library/mingw-w64/include/vorbis/vorbisenc.h",
+    "Library/mingw-w64/include/vorbis/vorbisfile.h",
+    "Library/mingw-w64/lib/libvorbis.a",
+    "Library/mingw-w64/lib/libvorbis.dll.a",
+    "Library/mingw-w64/lib/libvorbisenc.a",
+    "Library/mingw-w64/lib/libvorbisenc.dll.a",
+    "Library/mingw-w64/lib/libvorbisfile.a",
+    "Library/mingw-w64/lib/libvorbisfile.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/vorbis.pc",
+    "Library/mingw-w64/lib/pkgconfig/vorbisenc.pc",
+    "Library/mingw-w64/lib/pkgconfig/vorbisfile.pc",
+    "Library/mingw-w64/share/aclocal/vorbis.m4",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/doxygen-build.stamp",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/eightphase.png",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/fish_xiph_org.png",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/floor1_inverse_dB_table.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/floorval.png",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/fourphase.png",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/framing.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/helper.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/index.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/index.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/overview.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/reference.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/return.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/style.css",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_blockout.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_buffer.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_headerout.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_wrote.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_bitrate_addblock.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_bitrate_flushpacket.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_block.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_block_clear.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_block_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_add.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_add_tag.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_clear.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_query.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_query_count.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_commentheader_out.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_dsp_clear.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_dsp_state.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_granule_time.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info_blocksize.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info_clear.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_packet_blocksize.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_blockin.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_halfrate.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_halfrate_p.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_headerin.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_idheader.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_lapout.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_pcmout.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_read.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_restart.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_trackonly.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_version_string.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/oggstream.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/programming.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/rfc5215.txt",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/rfc5215.xml",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/squarepolar.png",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/stereo.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/stream.png",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/v-comment.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbis-clip.txt",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbis-errors.txt",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbis-fidelity.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/changes.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/examples.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/index.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/ovectl_ratemanage2_arg.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/ovectl_ratemanage_arg.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/overview.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/reference.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/style.css",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_ctl.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_init_vbr.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_setup_init.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_setup_managed.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_setup_vbr.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/OggVorbis_File.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/callbacks.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/chaining_example_c.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/chainingexample.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/crosslap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/datastructures.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/decoding.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/example.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/exampleindex.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/fileinfo.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/index.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/initialization.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_bitrate.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_bitrate_instant.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_callbacks.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_clear.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_comment.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_crosslap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_fopen.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_info.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_open.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_open_callbacks.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek_lap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek_page.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek_page_lap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_tell.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_total.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_seek.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_seek_lap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_tell.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_total.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_read.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_read_filter.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_read_float.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_seekable.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_serialnumber.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_streams.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_test.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_test_callbacks.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_test_open.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek_lap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek_page.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek_page_lap.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_tell.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_total.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/overview.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/reference.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seekexample.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seeking.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seeking_example_c.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seeking_test_c.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seekingexample.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/style.css",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/threads.html",
+    "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/vorbisfile_example_c.html",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-libvorbis-1.3.5-2.tar.bz2",
+  "license": "custom",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libvorbis-1.3.5-2",
+    "type": 1
+  },
+  "md5": "a7ae5a7ca8a0e39abf22a259828b2c8b",
+  "name": "m2w64-libvorbis",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libvorbis-1.3.5-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libvorbis-0.dll",
+        "path_type": "hardlink",
+        "sha256": "b007d798a727f92939c4f671b941f648cb83c3880183828bea7d462eaa9faa3f",
+        "sha256_in_prefix": "b007d798a727f92939c4f671b941f648cb83c3880183828bea7d462eaa9faa3f",
+        "size_in_bytes": 185513
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libvorbisenc-2.dll",
+        "path_type": "hardlink",
+        "sha256": "5d1c7b0ab6d85aac88b6ab793558dd2263eb71b8c7496a7244e76d87f4cbb547",
+        "sha256_in_prefix": "5d1c7b0ab6d85aac88b6ab793558dd2263eb71b8c7496a7244e76d87f4cbb547",
+        "size_in_bytes": 582539
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libvorbisfile-3.dll",
+        "path_type": "hardlink",
+        "sha256": "e6f22e99b74be85d64e42b9b3ce373db5220c0949d2045650105008714717918",
+        "sha256_in_prefix": "e6f22e99b74be85d64e42b9b3ce373db5220c0949d2045650105008714717918",
+        "size_in_bytes": 41851
+      },
+      {
+        "_path": "Library/mingw-w64/include/vorbis/codec.h",
+        "path_type": "hardlink",
+        "sha256": "171cf40cc79e84d63edafada9471b13a23c91bbeddf2c67854af7cc9c47f8333",
+        "sha256_in_prefix": "171cf40cc79e84d63edafada9471b13a23c91bbeddf2c67854af7cc9c47f8333",
+        "size_in_bytes": 8449
+      },
+      {
+        "_path": "Library/mingw-w64/include/vorbis/vorbisenc.h",
+        "path_type": "hardlink",
+        "sha256": "400446a6b596fc121e6f703e90f4a1fa5e1b9980fc400e7c2c21b9bf77b9fd48",
+        "sha256_in_prefix": "400446a6b596fc121e6f703e90f4a1fa5e1b9980fc400e7c2c21b9bf77b9fd48",
+        "size_in_bytes": 17056
+      },
+      {
+        "_path": "Library/mingw-w64/include/vorbis/vorbisfile.h",
+        "path_type": "hardlink",
+        "sha256": "6acf0e58516c1821cc19d35c57dab335fc4a607c1c8fe04a1c42b839dfb99399",
+        "sha256_in_prefix": "6acf0e58516c1821cc19d35c57dab335fc4a607c1c8fe04a1c42b839dfb99399",
+        "size_in_bytes": 8057
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libvorbis.a",
+        "path_type": "hardlink",
+        "sha256": "98d86f3b7cb1a37ad0cfb231475f70278e7c6b6ccf912b2a4ada7a5cffa13f40",
+        "sha256_in_prefix": "98d86f3b7cb1a37ad0cfb231475f70278e7c6b6ccf912b2a4ada7a5cffa13f40",
+        "size_in_bytes": 201156
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libvorbis.dll.a",
+        "path_type": "hardlink",
+        "sha256": "a01e76756b30d9d7f194d17ddb73408eb78518bf70c1af1419a231778ed938df",
+        "sha256_in_prefix": "a01e76756b30d9d7f194d17ddb73408eb78518bf70c1af1419a231778ed938df",
+        "size_in_bytes": 74476
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libvorbisenc.a",
+        "path_type": "hardlink",
+        "sha256": "2f384951b75fe7447149d4fd71a949b50070dc0e98abd1ef24bd0b8270b94292",
+        "sha256_in_prefix": "2f384951b75fe7447149d4fd71a949b50070dc0e98abd1ef24bd0b8270b94292",
+        "size_in_bytes": 692238
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libvorbisenc.dll.a",
+        "path_type": "hardlink",
+        "sha256": "f9a8c103e1ec8b7ebdca2fb59f9237e512958ad4454300944ce6931352d8345f",
+        "sha256_in_prefix": "f9a8c103e1ec8b7ebdca2fb59f9237e512958ad4454300944ce6931352d8345f",
+        "size_in_bytes": 4822
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libvorbisfile.a",
+        "path_type": "hardlink",
+        "sha256": "825fa3c68c0cc34c553ad2615db44f039d8b12e21d1d55f991fe0e8d5c1b2ac9",
+        "sha256_in_prefix": "825fa3c68c0cc34c553ad2615db44f039d8b12e21d1d55f991fe0e8d5c1b2ac9",
+        "size_in_bytes": 27818
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libvorbisfile.dll.a",
+        "path_type": "hardlink",
+        "sha256": "3d31aac2dcb8fd490d686b64352a78a342de4a2186fa67d0fb957639c6fe3e09",
+        "sha256_in_prefix": "3d31aac2dcb8fd490d686b64352a78a342de4a2186fa67d0fb957639c6fe3e09",
+        "size_in_bytes": 22890
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/vorbis.pc",
+        "path_type": "hardlink",
+        "sha256": "a78682553c61d9eef852ea09e0184b4be6e0d0867257f7b2f071be344102f93f",
+        "sha256_in_prefix": "a78682553c61d9eef852ea09e0184b4be6e0d0867257f7b2f071be344102f93f",
+        "size_in_bytes": 315
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/vorbisenc.pc",
+        "path_type": "hardlink",
+        "sha256": "babf1c573c23dbe997baffa7e76a520d3db1414950209d27278ba0e735ad0756",
+        "sha256_in_prefix": "babf1c573c23dbe997baffa7e76a520d3db1414950209d27278ba0e735ad0756",
+        "size_in_bytes": 376
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/vorbisfile.pc",
+        "path_type": "hardlink",
+        "sha256": "c89ec43002ef778c20e357851f37768f43e5aa02639bd1022abc01c937518cc9",
+        "sha256_in_prefix": "c89ec43002ef778c20e357851f37768f43e5aa02639bd1022abc01c937518cc9",
+        "size_in_bytes": 402
+      },
+      {
+        "_path": "Library/mingw-w64/share/aclocal/vorbis.m4",
+        "path_type": "hardlink",
+        "sha256": "cf48b40f1ef8a389d66159ed927ee2f9e17ec91ad3ee936da4645899988b31f5",
+        "sha256_in_prefix": "cf48b40f1ef8a389d66159ed927ee2f9e17ec91ad3ee936da4645899988b31f5",
+        "size_in_bytes": 4861
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/doxygen-build.stamp",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/eightphase.png",
+        "path_type": "hardlink",
+        "sha256": "d928eafbe5f5500e16dc4d9a9b6743844332d5ad7496e1cd1ac3b8ee29667c93",
+        "sha256_in_prefix": "d928eafbe5f5500e16dc4d9a9b6743844332d5ad7496e1cd1ac3b8ee29667c93",
+        "size_in_bytes": 11130
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/fish_xiph_org.png",
+        "path_type": "hardlink",
+        "sha256": "5ad6acc08e81978952f0817231f9166983fec952540eab966cba493ff73e7ac8",
+        "sha256_in_prefix": "5ad6acc08e81978952f0817231f9166983fec952540eab966cba493ff73e7ac8",
+        "size_in_bytes": 2503
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/floor1_inverse_dB_table.html",
+        "path_type": "hardlink",
+        "sha256": "c927f4e480473932b03c925840bab2013c5e90fbe62ab0ad8d3d6330c06ae801",
+        "sha256_in_prefix": "c927f4e480473932b03c925840bab2013c5e90fbe62ab0ad8d3d6330c06ae801",
+        "size_in_bytes": 5421
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/floorval.png",
+        "path_type": "hardlink",
+        "sha256": "4d61c1e956f0acfc909189e101117dc8781c92721172b5f1bdff5a433d981f04",
+        "sha256_in_prefix": "4d61c1e956f0acfc909189e101117dc8781c92721172b5f1bdff5a433d981f04",
+        "size_in_bytes": 2545
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/fourphase.png",
+        "path_type": "hardlink",
+        "sha256": "1cac06a3999801ac928ccc6d612167dc99b70b5468fae2bfffc8a93593d810de",
+        "sha256_in_prefix": "1cac06a3999801ac928ccc6d612167dc99b70b5468fae2bfffc8a93593d810de",
+        "size_in_bytes": 9992
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/framing.html",
+        "path_type": "hardlink",
+        "sha256": "a7e8f7f719af5e58ad08d257d4baf1eb5b69849ba88f1223c8a844bee53871bb",
+        "sha256_in_prefix": "a7e8f7f719af5e58ad08d257d4baf1eb5b69849ba88f1223c8a844bee53871bb",
+        "size_in_bytes": 14691
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/helper.html",
+        "path_type": "hardlink",
+        "sha256": "7421fc6baf4a58c901a241e26dc5916a51284ad88d4f71cf9b92a71a78668247",
+        "sha256_in_prefix": "7421fc6baf4a58c901a241e26dc5916a51284ad88d4f71cf9b92a71a78668247",
+        "size_in_bytes": 5733
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/index.html",
+        "path_type": "hardlink",
+        "sha256": "50b13a9656e3a596394a3da476e0c3f904d61299b0973375799af44bb025af08",
+        "sha256_in_prefix": "50b13a9656e3a596394a3da476e0c3f904d61299b0973375799af44bb025af08",
+        "size_in_bytes": 2252
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/index.html",
+        "path_type": "hardlink",
+        "sha256": "1c425d8f4903611df55cf7d2f1168b813ab69c4279580925893b55169c75cb37",
+        "sha256_in_prefix": "1c425d8f4903611df55cf7d2f1168b813ab69c4279580925893b55169c75cb37",
+        "size_in_bytes": 1266
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/overview.html",
+        "path_type": "hardlink",
+        "sha256": "3cab63c9b82fdbea51ab93821be55ae856e0acfb09c6064593bb0d9fcb117760",
+        "sha256_in_prefix": "3cab63c9b82fdbea51ab93821be55ae856e0acfb09c6064593bb0d9fcb117760",
+        "size_in_bytes": 5971
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/reference.html",
+        "path_type": "hardlink",
+        "sha256": "03b4561267abb5a19be32bb615ff6bc28f242664f1713f9510192b045e764e92",
+        "sha256_in_prefix": "03b4561267abb5a19be32bb615ff6bc28f242664f1713f9510192b045e764e92",
+        "size_in_bytes": 3737
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/return.html",
+        "path_type": "hardlink",
+        "sha256": "0994a23e7e71db9595b1d80a38a48fe18c978b9f4a810e8c6e9b253d9280fd6d",
+        "sha256_in_prefix": "0994a23e7e71db9595b1d80a38a48fe18c978b9f4a810e8c6e9b253d9280fd6d",
+        "size_in_bytes": 2269
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/style.css",
+        "path_type": "hardlink",
+        "sha256": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "sha256_in_prefix": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis.html",
+        "path_type": "hardlink",
+        "sha256": "dc913bea51b48f39450578a0b9fb36e2dc303a83858a7e49bf46cf87767d592e",
+        "sha256_in_prefix": "dc913bea51b48f39450578a0b9fb36e2dc303a83858a7e49bf46cf87767d592e",
+        "size_in_bytes": 2646
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_blockout.html",
+        "path_type": "hardlink",
+        "sha256": "2935836bb3b4ad86d209e014e94d401316e0aa0cc4e037db69127d6725044c7d",
+        "sha256_in_prefix": "2935836bb3b4ad86d209e014e94d401316e0aa0cc4e037db69127d6725044c7d",
+        "size_in_bytes": 2113
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_buffer.html",
+        "path_type": "hardlink",
+        "sha256": "2e6f47d08f371bdf116f072fef35d70103e919d1b1de874df0fc33c9d4f0e5f2",
+        "sha256_in_prefix": "2e6f47d08f371bdf116f072fef35d70103e919d1b1de874df0fc33c9d4f0e5f2",
+        "size_in_bytes": 2132
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_headerout.html",
+        "path_type": "hardlink",
+        "sha256": "f236f131c0cca2aec1d868a9edc8882291cfa8c0c6cac0fdc791a6148d253d1d",
+        "sha256_in_prefix": "f236f131c0cca2aec1d868a9edc8882291cfa8c0c6cac0fdc791a6148d253d1d",
+        "size_in_bytes": 2613
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_init.html",
+        "path_type": "hardlink",
+        "sha256": "8c7af39b5bb038db018133e36e4439ed64577470edfbeed3606b7e0b7eeaa8db",
+        "sha256_in_prefix": "8c7af39b5bb038db018133e36e4439ed64577470edfbeed3606b7e0b7eeaa8db",
+        "size_in_bytes": 1582
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_analysis_wrote.html",
+        "path_type": "hardlink",
+        "sha256": "0c4cb051455971cb8d5f55980d8d78e20d63d60d55d0f83fdcad2f534e7d7980",
+        "sha256_in_prefix": "0c4cb051455971cb8d5f55980d8d78e20d63d60d55d0f83fdcad2f534e7d7980",
+        "size_in_bytes": 2052
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_bitrate_addblock.html",
+        "path_type": "hardlink",
+        "sha256": "7fb3bb17c614a84c71bd1d0d07bcdecc3d91ee1f60ab86512d175f3823359f0a",
+        "sha256_in_prefix": "7fb3bb17c614a84c71bd1d0d07bcdecc3d91ee1f60ab86512d175f3823359f0a",
+        "size_in_bytes": 1893
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_bitrate_flushpacket.html",
+        "path_type": "hardlink",
+        "sha256": "1edc39a5e20fe5c13d65068977469c7e72ff0db739fe9d5242c52d3bd178149a",
+        "sha256_in_prefix": "1edc39a5e20fe5c13d65068977469c7e72ff0db739fe9d5242c52d3bd178149a",
+        "size_in_bytes": 2126
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_block.html",
+        "path_type": "hardlink",
+        "sha256": "5726cfab69072cb6c16bea2d050ff1604a16513f81e8e241d7a43ded2a261467",
+        "sha256_in_prefix": "5726cfab69072cb6c16bea2d050ff1604a16513f81e8e241d7a43ded2a261467",
+        "size_in_bytes": 1578
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_block_clear.html",
+        "path_type": "hardlink",
+        "sha256": "35fc48b4e86fce21bf120e8f7cbc9a52e7fba29537b6391e9a57904edac0bd89",
+        "sha256_in_prefix": "35fc48b4e86fce21bf120e8f7cbc9a52e7fba29537b6391e9a57904edac0bd89",
+        "size_in_bytes": 1310
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_block_init.html",
+        "path_type": "hardlink",
+        "sha256": "f6f247eb543b535b011d8961d23ced09a0179629b2703f5ace8ecc91ecdc82f0",
+        "sha256_in_prefix": "f6f247eb543b535b011d8961d23ced09a0179629b2703f5ace8ecc91ecdc82f0",
+        "size_in_bytes": 1570
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment.html",
+        "path_type": "hardlink",
+        "sha256": "c3102ed6d08bc0cfc980adf8a0db352e386fb872e7073fbb8fa167597d2006d3",
+        "sha256_in_prefix": "c3102ed6d08bc0cfc980adf8a0db352e386fb872e7073fbb8fa167597d2006d3",
+        "size_in_bytes": 2959
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_add.html",
+        "path_type": "hardlink",
+        "sha256": "d885a5af43ac9c5a5ebc4cee5b6bc19edfc0710e4dffd771b24dd60c31350106",
+        "sha256_in_prefix": "d885a5af43ac9c5a5ebc4cee5b6bc19edfc0710e4dffd771b24dd60c31350106",
+        "size_in_bytes": 1803
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_add_tag.html",
+        "path_type": "hardlink",
+        "sha256": "dd72274ad1b678664cb9f14c084da5de42bf7c79801369e3007d7a62d7279bcf",
+        "sha256_in_prefix": "dd72274ad1b678664cb9f14c084da5de42bf7c79801369e3007d7a62d7279bcf",
+        "size_in_bytes": 2053
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_clear.html",
+        "path_type": "hardlink",
+        "sha256": "1a56a1a464ad6e1c6894c3720e6bfa9df589aeb4343d9dc15f7f40f1ffea4e73",
+        "sha256_in_prefix": "1a56a1a464ad6e1c6894c3720e6bfa9df589aeb4343d9dc15f7f40f1ffea4e73",
+        "size_in_bytes": 1850
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_init.html",
+        "path_type": "hardlink",
+        "sha256": "7e8cd02e870122d28af74ce5984d32e24d100300c145a533c1403af1f1798c73",
+        "sha256_in_prefix": "7e8cd02e870122d28af74ce5984d32e24d100300c145a533c1403af1f1798c73",
+        "size_in_bytes": 1971
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_query.html",
+        "path_type": "hardlink",
+        "sha256": "ced21db7b44c4be92023c4b0a7bc1084c692b2159639eaca2798a6ec59d88d5e",
+        "sha256_in_prefix": "ced21db7b44c4be92023c4b0a7bc1084c692b2159639eaca2798a6ec59d88d5e",
+        "size_in_bytes": 1992
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_comment_query_count.html",
+        "path_type": "hardlink",
+        "sha256": "79ba3888ceb8cdae1feb98ce08960895ab9bb8a52bb70abcec93c966d5e6b2d2",
+        "sha256_in_prefix": "79ba3888ceb8cdae1feb98ce08960895ab9bb8a52bb70abcec93c966d5e6b2d2",
+        "size_in_bytes": 1637
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_commentheader_out.html",
+        "path_type": "hardlink",
+        "sha256": "58998ec77c9480707882eb025742313f908c7222dcddb342e1e2caac67b51297",
+        "sha256_in_prefix": "58998ec77c9480707882eb025742313f908c7222dcddb342e1e2caac67b51297",
+        "size_in_bytes": 1498
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_dsp_clear.html",
+        "path_type": "hardlink",
+        "sha256": "cfd307c66fcf35440615e7d7f652a710a00841459efd91a2e96bfb8c5961ff42",
+        "sha256_in_prefix": "cfd307c66fcf35440615e7d7f652a710a00841459efd91a2e96bfb8c5961ff42",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_dsp_state.html",
+        "path_type": "hardlink",
+        "sha256": "0c2e92e87eb9578842ae64e6ed651907e3761f711642439c77898fac2eaf355b",
+        "sha256_in_prefix": "0c2e92e87eb9578842ae64e6ed651907e3761f711642439c77898fac2eaf355b",
+        "size_in_bytes": 1368
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_granule_time.html",
+        "path_type": "hardlink",
+        "sha256": "69ec96ab550067f2d25d99a0ed8158765dd1b5ba5bf0b6c0f3f3167e8b71e653",
+        "sha256_in_prefix": "69ec96ab550067f2d25d99a0ed8158765dd1b5ba5bf0b6c0f3f3167e8b71e653",
+        "size_in_bytes": 1530
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info.html",
+        "path_type": "hardlink",
+        "sha256": "35fed01ae06eb5be440e8f9a3b2cbb09703476486d5b43da3a96e1936c09db60",
+        "sha256_in_prefix": "35fed01ae06eb5be440e8f9a3b2cbb09703476486d5b43da3a96e1936c09db60",
+        "size_in_bytes": 2400
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info_blocksize.html",
+        "path_type": "hardlink",
+        "sha256": "a0be2a4eb3b70662197a44b3cac7af8a5dea9889eb82e8b6036be7cc96f5e023",
+        "sha256_in_prefix": "a0be2a4eb3b70662197a44b3cac7af8a5dea9889eb82e8b6036be7cc96f5e023",
+        "size_in_bytes": 1592
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info_clear.html",
+        "path_type": "hardlink",
+        "sha256": "a45da5b42fa6e4f6b2b2f6fd89694cacb8c592424edb904dc36bc5e7b6e5cea3",
+        "sha256_in_prefix": "a45da5b42fa6e4f6b2b2f6fd89694cacb8c592424edb904dc36bc5e7b6e5cea3",
+        "size_in_bytes": 1296
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_info_init.html",
+        "path_type": "hardlink",
+        "sha256": "a466addd4a4979c4ff9d1414bfd61658207a3ee37ee5265de56818658632f225",
+        "sha256_in_prefix": "a466addd4a4979c4ff9d1414bfd61658207a3ee37ee5265de56818658632f225",
+        "size_in_bytes": 1344
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_packet_blocksize.html",
+        "path_type": "hardlink",
+        "sha256": "71590a4cc348a13b3b27fb47366c2400f5841f5f5ea5f4002c4c156b34c898fc",
+        "sha256_in_prefix": "71590a4cc348a13b3b27fb47366c2400f5841f5f5ea5f4002c4c156b34c898fc",
+        "size_in_bytes": 1639
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis.html",
+        "path_type": "hardlink",
+        "sha256": "533018633f736fbac61e8e0ccddce0dd5eea3fe85ec7c9af24bfdac4c1b36c87",
+        "sha256_in_prefix": "533018633f736fbac61e8e0ccddce0dd5eea3fe85ec7c9af24bfdac4c1b36c87",
+        "size_in_bytes": 1789
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_blockin.html",
+        "path_type": "hardlink",
+        "sha256": "181b276b27165994bf383698ddc78c31cb44871b6e8dee07edf0403ae2d296c6",
+        "sha256_in_prefix": "181b276b27165994bf383698ddc78c31cb44871b6e8dee07edf0403ae2d296c6",
+        "size_in_bytes": 1836
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_halfrate.html",
+        "path_type": "hardlink",
+        "sha256": "d1f58bedfe9496a3df8a53a7076b265e4eab461d751c7102c2627fd345ee7cbd",
+        "sha256_in_prefix": "d1f58bedfe9496a3df8a53a7076b265e4eab461d751c7102c2627fd345ee7cbd",
+        "size_in_bytes": 1693
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_halfrate_p.html",
+        "path_type": "hardlink",
+        "sha256": "e6dcc9472764b1994438af2cc1a2db95dffff4806625a52ad7589b9df0c8e0fa",
+        "sha256_in_prefix": "e6dcc9472764b1994438af2cc1a2db95dffff4806625a52ad7589b9df0c8e0fa",
+        "size_in_bytes": 1521
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_headerin.html",
+        "path_type": "hardlink",
+        "sha256": "5c40f3f7182dd507fca200c7440a96682f50b390a44f3ca4f5b98c7a98e22347",
+        "sha256_in_prefix": "5c40f3f7182dd507fca200c7440a96682f50b390a44f3ca4f5b98c7a98e22347",
+        "size_in_bytes": 2328
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_idheader.html",
+        "path_type": "hardlink",
+        "sha256": "fe98c2772b8171bd11ae34e82364ccad0d718be4e6c5740d92bd509e914d0eb2",
+        "sha256_in_prefix": "fe98c2772b8171bd11ae34e82364ccad0d718be4e6c5740d92bd509e914d0eb2",
+        "size_in_bytes": 1520
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_init.html",
+        "path_type": "hardlink",
+        "sha256": "14d886742fc864cd856c3e84d4a48afe7d748e336d96df2d9735869c48376c8b",
+        "sha256_in_prefix": "14d886742fc864cd856c3e84d4a48afe7d748e336d96df2d9735869c48376c8b",
+        "size_in_bytes": 1729
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_lapout.html",
+        "path_type": "hardlink",
+        "sha256": "60de0e3ca4c5243c21075f660c02046cb4e41679d374e180992f6ee78ae998f9",
+        "sha256_in_prefix": "60de0e3ca4c5243c21075f660c02046cb4e41679d374e180992f6ee78ae998f9",
+        "size_in_bytes": 2252
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_pcmout.html",
+        "path_type": "hardlink",
+        "sha256": "641e325057bdb144e91cef4f45eabbd78ab70c334fd7ecb3f8c7d29566b10109",
+        "sha256_in_prefix": "641e325057bdb144e91cef4f45eabbd78ab70c334fd7ecb3f8c7d29566b10109",
+        "size_in_bytes": 2280
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_read.html",
+        "path_type": "hardlink",
+        "sha256": "6298ebc6dc3f21a9a4c8091215117070707d86f27c3fef7f5089dcbfc4ada638",
+        "sha256_in_prefix": "6298ebc6dc3f21a9a4c8091215117070707d86f27c3fef7f5089dcbfc4ada638",
+        "size_in_bytes": 1658
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_restart.html",
+        "path_type": "hardlink",
+        "sha256": "5047e0bcd92ca5d302d994772cab46f596f333c765a5fcabef5236ea5c1343a0",
+        "sha256_in_prefix": "5047e0bcd92ca5d302d994772cab46f596f333c765a5fcabef5236ea5c1343a0",
+        "size_in_bytes": 1518
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_synthesis_trackonly.html",
+        "path_type": "hardlink",
+        "sha256": "23fb76192950af62fa7e3b5414469ca4e0c2b2be73795fea23dc30034f14f688",
+        "sha256_in_prefix": "23fb76192950af62fa7e3b5414469ca4e0c2b2be73795fea23dc30034f14f688",
+        "size_in_bytes": 1862
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/libvorbis/vorbis_version_string.html",
+        "path_type": "hardlink",
+        "sha256": "973086f20a1bb1b7e31452e43417c1bfd24fdcbb30ce3e2cc8ad4b181ec5791f",
+        "sha256_in_prefix": "973086f20a1bb1b7e31452e43417c1bfd24fdcbb30ce3e2cc8ad4b181ec5791f",
+        "size_in_bytes": 1380
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/oggstream.html",
+        "path_type": "hardlink",
+        "sha256": "f81186b2eb0f831e84c5f3f47e6a5d83b64153d1e22804632438cb5471c20324",
+        "sha256_in_prefix": "f81186b2eb0f831e84c5f3f47e6a5d83b64153d1e22804632438cb5471c20324",
+        "size_in_bytes": 8626
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/programming.html",
+        "path_type": "hardlink",
+        "sha256": "f88a8d15429d197cecdcba29009f64cf2d0e8ad41e5581aae776065c5e234444",
+        "sha256_in_prefix": "f88a8d15429d197cecdcba29009f64cf2d0e8ad41e5581aae776065c5e234444",
+        "size_in_bytes": 18842
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/rfc5215.txt",
+        "path_type": "hardlink",
+        "sha256": "960c9717754928303eca6c2c4eb448c29cadaee23c538d6978b0ed602c2c8a40",
+        "sha256_in_prefix": "960c9717754928303eca6c2c4eb448c29cadaee23c538d6978b0ed602c2c8a40",
+        "size_in_bytes": 54327
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/rfc5215.xml",
+        "path_type": "hardlink",
+        "sha256": "fae93ab5ed0921626c1a4d29f8aa8f4f82aa3e870f6b30c1f7d6b2efeccb03d1",
+        "sha256_in_prefix": "fae93ab5ed0921626c1a4d29f8aa8f4f82aa3e870f6b30c1f7d6b2efeccb03d1",
+        "size_in_bytes": 48010
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/squarepolar.png",
+        "path_type": "hardlink",
+        "sha256": "419c59a5ad7bbc9bf1196ef26d2f3f861d054e2aeb57b7162ba0ae123ad46f44",
+        "sha256_in_prefix": "419c59a5ad7bbc9bf1196ef26d2f3f861d054e2aeb57b7162ba0ae123ad46f44",
+        "size_in_bytes": 8406
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/stereo.html",
+        "path_type": "hardlink",
+        "sha256": "acfefd68ee5608dab999b35d85e24afee7140180b572c66c629f740e48dfb3c9",
+        "sha256_in_prefix": "acfefd68ee5608dab999b35d85e24afee7140180b572c66c629f740e48dfb3c9",
+        "size_in_bytes": 16577
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/stream.png",
+        "path_type": "hardlink",
+        "sha256": "f9a97cafda7a5fcbd50b565632766ed665f3d67f2f84708652579f2018b6051c",
+        "sha256_in_prefix": "f9a97cafda7a5fcbd50b565632766ed665f3d67f2f84708652579f2018b6051c",
+        "size_in_bytes": 2171
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/v-comment.html",
+        "path_type": "hardlink",
+        "sha256": "d5c1a8dcb9188cddd3eaf91c107d9c97f62e752dd1997abdf53a9b963d9120d1",
+        "sha256_in_prefix": "d5c1a8dcb9188cddd3eaf91c107d9c97f62e752dd1997abdf53a9b963d9120d1",
+        "size_in_bytes": 9081
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbis-clip.txt",
+        "path_type": "hardlink",
+        "sha256": "ae8ec3dafa7993f601729edb1d64c0fa8631e747da687754424c3f0dc230b0ea",
+        "sha256_in_prefix": "ae8ec3dafa7993f601729edb1d64c0fa8631e747da687754424c3f0dc230b0ea",
+        "size_in_bytes": 7021
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbis-errors.txt",
+        "path_type": "hardlink",
+        "sha256": "c3bbc4e290bd446ab1dd6385cf938a7f6ae860348b68d067bc676890db7c4a82",
+        "sha256_in_prefix": "c3bbc4e290bd446ab1dd6385cf938a7f6ae860348b68d067bc676890db7c4a82",
+        "size_in_bytes": 2730
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbis-fidelity.html",
+        "path_type": "hardlink",
+        "sha256": "ce317d437e3d3350e5fd8850b3049e2e09f391427e63eaaefc1b8518bb4e00c9",
+        "sha256_in_prefix": "ce317d437e3d3350e5fd8850b3049e2e09f391427e63eaaefc1b8518bb4e00c9",
+        "size_in_bytes": 6666
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/changes.html",
+        "path_type": "hardlink",
+        "sha256": "b4bc1cd296620b464c2deadbb1479c74186bcb589d127fb06f181c65e47af2cb",
+        "sha256_in_prefix": "b4bc1cd296620b464c2deadbb1479c74186bcb589d127fb06f181c65e47af2cb",
+        "size_in_bytes": 3655
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/examples.html",
+        "path_type": "hardlink",
+        "sha256": "e841d3add720e3987f6a016079e04f74f211be85f7abc332e2a3226ff18ead7d",
+        "sha256_in_prefix": "e841d3add720e3987f6a016079e04f74f211be85f7abc332e2a3226ff18ead7d",
+        "size_in_bytes": 4988
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/index.html",
+        "path_type": "hardlink",
+        "sha256": "9c3f687f136cdf73e190786079b54b381cfe60075eeacd7a22cccc59a93c76c4",
+        "sha256_in_prefix": "9c3f687f136cdf73e190786079b54b381cfe60075eeacd7a22cccc59a93c76c4",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/ovectl_ratemanage2_arg.html",
+        "path_type": "hardlink",
+        "sha256": "a17317e9dda3906f935eaa38cd094e37d5fffb04e86d20ca87a67b66b3717e03",
+        "sha256_in_prefix": "a17317e9dda3906f935eaa38cd094e37d5fffb04e86d20ca87a67b66b3717e03",
+        "size_in_bytes": 2614
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/ovectl_ratemanage_arg.html",
+        "path_type": "hardlink",
+        "sha256": "ec916d299e31bf3a85c26fb4378514c8c7459f883babda779185c6f4297969b6",
+        "sha256_in_prefix": "ec916d299e31bf3a85c26fb4378514c8c7459f883babda779185c6f4297969b6",
+        "size_in_bytes": 3297
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/overview.html",
+        "path_type": "hardlink",
+        "sha256": "2c51b2388e0637cebc5a08cbc8496ee53036b2d54f0b94669a0547c54cacf47d",
+        "sha256_in_prefix": "2c51b2388e0637cebc5a08cbc8496ee53036b2d54f0b94669a0547c54cacf47d",
+        "size_in_bytes": 15801
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/reference.html",
+        "path_type": "hardlink",
+        "sha256": "30c9381b7902cb42e99ef6b63b73baa41306c918cc5cde79c91b289a6dffffab",
+        "sha256_in_prefix": "30c9381b7902cb42e99ef6b63b73baa41306c918cc5cde79c91b289a6dffffab",
+        "size_in_bytes": 1663
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/style.css",
+        "path_type": "hardlink",
+        "sha256": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "sha256_in_prefix": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_ctl.html",
+        "path_type": "hardlink",
+        "sha256": "d2066d99fb80d40e20fcd797cc6a84252420ae434509d7637dce75e4737ff1eb",
+        "sha256_in_prefix": "d2066d99fb80d40e20fcd797cc6a84252420ae434509d7637dce75e4737ff1eb",
+        "size_in_bytes": 6162
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_init.html",
+        "path_type": "hardlink",
+        "sha256": "5ef3992edaedfb3dcce6e31abdbdd7aaf189a5d47fef861d7482a897cf52a595",
+        "sha256_in_prefix": "5ef3992edaedfb3dcce6e31abdbdd7aaf189a5d47fef861d7482a897cf52a595",
+        "size_in_bytes": 2707
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_init_vbr.html",
+        "path_type": "hardlink",
+        "sha256": "1d42b903a5340988190317e64bce2022f6a7da903f5d4b4429c50e4f4987f809",
+        "sha256_in_prefix": "1d42b903a5340988190317e64bce2022f6a7da903f5d4b4429c50e4f4987f809",
+        "size_in_bytes": 2315
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_setup_init.html",
+        "path_type": "hardlink",
+        "sha256": "9cd4793d2b3d0d00fe4b14952eaf58680972cea7a13a8308238f6cbef8e505ac",
+        "sha256_in_prefix": "9cd4793d2b3d0d00fe4b14952eaf58680972cea7a13a8308238f6cbef8e505ac",
+        "size_in_bytes": 2671
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_setup_managed.html",
+        "path_type": "hardlink",
+        "sha256": "bd7dd9b4e3cd782db873490cd07f7eb3f2d155997dcb442fef7f3e353f602ee0",
+        "sha256_in_prefix": "bd7dd9b4e3cd782db873490cd07f7eb3f2d155997dcb442fef7f3e353f602ee0",
+        "size_in_bytes": 3086
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisenc/vorbis_encode_setup_vbr.html",
+        "path_type": "hardlink",
+        "sha256": "8e701782f4115173aa8d7c2a5d8bfbe507eb068e30d353ab0ca21204b465f8de",
+        "sha256_in_prefix": "8e701782f4115173aa8d7c2a5d8bfbe507eb068e30d353ab0ca21204b465f8de",
+        "size_in_bytes": 2683
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/OggVorbis_File.html",
+        "path_type": "hardlink",
+        "sha256": "6b33bbe0b647fff685310b492b6200380202ddba82dc1c4f05548e3d6f0fc93a",
+        "sha256_in_prefix": "6b33bbe0b647fff685310b492b6200380202ddba82dc1c4f05548e3d6f0fc93a",
+        "size_in_bytes": 4967
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/callbacks.html",
+        "path_type": "hardlink",
+        "sha256": "37d2b445d48029abb55ac95d01a1980d24c18a76933c0f748629d7c2fa20b99a",
+        "sha256_in_prefix": "37d2b445d48029abb55ac95d01a1980d24c18a76933c0f748629d7c2fa20b99a",
+        "size_in_bytes": 4846
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/chaining_example_c.html",
+        "path_type": "hardlink",
+        "sha256": "c35ed58e841b3df86efe299e746d16aa72d7be93d6fad751d241e730220baae6",
+        "sha256_in_prefix": "c35ed58e841b3df86efe299e746d16aa72d7be93d6fad751d241e730220baae6",
+        "size_in_bytes": 3043
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/chainingexample.html",
+        "path_type": "hardlink",
+        "sha256": "e34616c90e1ac86ad8128f7447a7dddeb0a4e1da9eedacc7067ff2ba48e30c82",
+        "sha256_in_prefix": "e34616c90e1ac86ad8128f7447a7dddeb0a4e1da9eedacc7067ff2ba48e30c82",
+        "size_in_bytes": 5542
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/crosslap.html",
+        "path_type": "hardlink",
+        "sha256": "3b980a44922b78ee1e3a008553e8adc508e669ba8ce1755ea2463472f4f96f10",
+        "sha256_in_prefix": "3b980a44922b78ee1e3a008553e8adc508e669ba8ce1755ea2463472f4f96f10",
+        "size_in_bytes": 5368
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/datastructures.html",
+        "path_type": "hardlink",
+        "sha256": "935df791b368c0cac5d40ee29211bda891b04ef05c93b978929f0e79721e5b12",
+        "sha256_in_prefix": "935df791b368c0cac5d40ee29211bda891b04ef05c93b978929f0e79721e5b12",
+        "size_in_bytes": 2442
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/decoding.html",
+        "path_type": "hardlink",
+        "sha256": "a5d5d80819d439abbe9788fbbe95f24812fbbc0f1df233fded36d0526e8e7c48",
+        "sha256_in_prefix": "a5d5d80819d439abbe9788fbbe95f24812fbbc0f1df233fded36d0526e8e7c48",
+        "size_in_bytes": 3367
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/example.html",
+        "path_type": "hardlink",
+        "sha256": "451be12733dfaded4fd6b43e7ca7d6c4aeecd61a08ebaffc148256a3cbe491c5",
+        "sha256_in_prefix": "451be12733dfaded4fd6b43e7ca7d6c4aeecd61a08ebaffc148256a3cbe491c5",
+        "size_in_bytes": 5489
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/exampleindex.html",
+        "path_type": "hardlink",
+        "sha256": "3cdc9fe61dae8ade3a69e8ba21aaf9e68d4a3079a3842f6bcda52d27a88e37c5",
+        "sha256_in_prefix": "3cdc9fe61dae8ade3a69e8ba21aaf9e68d4a3079a3842f6bcda52d27a88e37c5",
+        "size_in_bytes": 1057
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/fileinfo.html",
+        "path_type": "hardlink",
+        "sha256": "222bfc74a223df99a76f6911cc62ebf7801980cd447806fe3ab13526307b3d92",
+        "sha256_in_prefix": "222bfc74a223df99a76f6911cc62ebf7801980cd447806fe3ab13526307b3d92",
+        "size_in_bytes": 3651
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/index.html",
+        "path_type": "hardlink",
+        "sha256": "e09e2914d8bf9194a8a0fc19cb48a96617034026c1e6e6e93c5ede70962a3bf0",
+        "sha256_in_prefix": "e09e2914d8bf9194a8a0fc19cb48a96617034026c1e6e6e93c5ede70962a3bf0",
+        "size_in_bytes": 1421
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/initialization.html",
+        "path_type": "hardlink",
+        "sha256": "fef7e4bba011de14e1e9570769b526a25ceae1010307bd266d7d5323e0b1e373",
+        "sha256_in_prefix": "fef7e4bba011de14e1e9570769b526a25ceae1010307bd266d7d5323e0b1e373",
+        "size_in_bytes": 5125
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_bitrate.html",
+        "path_type": "hardlink",
+        "sha256": "40897e641aa1788ede1010402b1eeca9b608a0adafd2813b5675e4fdb96299d3",
+        "sha256_in_prefix": "40897e641aa1788ede1010402b1eeca9b608a0adafd2813b5675e4fdb96299d3",
+        "size_in_bytes": 2519
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_bitrate_instant.html",
+        "path_type": "hardlink",
+        "sha256": "2c6e4d4b128dd4c2d57d3f20a31db54182bc79fbb83bafd9b52b691cdfe4f2c1",
+        "sha256_in_prefix": "2c6e4d4b128dd4c2d57d3f20a31db54182bc79fbb83bafd9b52b691cdfe4f2c1",
+        "size_in_bytes": 1770
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_callbacks.html",
+        "path_type": "hardlink",
+        "sha256": "40eea811b2be3d7b3bf4df502a2305fec936d92849a226c894c731dbff0e2350",
+        "sha256_in_prefix": "40eea811b2be3d7b3bf4df502a2305fec936d92849a226c894c731dbff0e2350",
+        "size_in_bytes": 4408
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_clear.html",
+        "path_type": "hardlink",
+        "sha256": "7a5608fd38b5c6ff5eeef3302e67baa3b3e5d543c05a9938d7fd5c09735ed589",
+        "sha256_in_prefix": "7a5608fd38b5c6ff5eeef3302e67baa3b3e5d543c05a9938d7fd5c09735ed589",
+        "size_in_bytes": 2197
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_comment.html",
+        "path_type": "hardlink",
+        "sha256": "1681c1b0562712428b515ed94ae3106f14309ac3ff9f06642fe2243886902de9",
+        "sha256_in_prefix": "1681c1b0562712428b515ed94ae3106f14309ac3ff9f06642fe2243886902de9",
+        "size_in_bytes": 1913
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_crosslap.html",
+        "path_type": "hardlink",
+        "sha256": "dc23836c032304846334562391cb9df32517b61ced63b66836ba8430a1aea708",
+        "sha256_in_prefix": "dc23836c032304846334562391cb9df32517b61ced63b66836ba8430a1aea708",
+        "size_in_bytes": 3404
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_fopen.html",
+        "path_type": "hardlink",
+        "sha256": "75a51f28cd9135ca7a1c1197d2288b2793fdfa7e01fb5173785e0e8ed166c20e",
+        "sha256_in_prefix": "75a51f28cd9135ca7a1c1197d2288b2793fdfa7e01fb5173785e0e8ed166c20e",
+        "size_in_bytes": 4387
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_info.html",
+        "path_type": "hardlink",
+        "sha256": "a87ac9bc71b8e26401ba58307c8242c922526888a22bfc1f8725ecc04ebd97a7",
+        "sha256_in_prefix": "a87ac9bc71b8e26401ba58307c8242c922526888a22bfc1f8725ecc04ebd97a7",
+        "size_in_bytes": 1981
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_open.html",
+        "path_type": "hardlink",
+        "sha256": "92a55d369aa56711799bad855145c8a9216804efb3133aec4826aa091060ad89",
+        "sha256_in_prefix": "92a55d369aa56711799bad855145c8a9216804efb3133aec4826aa091060ad89",
+        "size_in_bytes": 7508
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_open_callbacks.html",
+        "path_type": "hardlink",
+        "sha256": "af43bcce336aa15ed7444ca9e41e5d41fcbb73af6649c672f14ccf7548b4ac05",
+        "sha256_in_prefix": "af43bcce336aa15ed7444ca9e41e5d41fcbb73af6649c672f14ccf7548b4ac05",
+        "size_in_bytes": 6117
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek.html",
+        "path_type": "hardlink",
+        "sha256": "3edee41670b16bd52472be28bf9a89f9c098dadaa6c7324a22d9a821fe38bf8c",
+        "sha256_in_prefix": "3edee41670b16bd52472be28bf9a89f9c098dadaa6c7324a22d9a821fe38bf8c",
+        "size_in_bytes": 2211
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek_lap.html",
+        "path_type": "hardlink",
+        "sha256": "cdaae942cb7f2c08df66aa91c844f4b98c5bd0e65c830b45715c51ec88f1252d",
+        "sha256_in_prefix": "cdaae942cb7f2c08df66aa91c844f4b98c5bd0e65c830b45715c51ec88f1252d",
+        "size_in_bytes": 3318
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek_page.html",
+        "path_type": "hardlink",
+        "sha256": "f5a725a0843bbaafc5cd69b6ca7671fec43f0c6169094c7db8f3f0b27200d0b8",
+        "sha256_in_prefix": "f5a725a0843bbaafc5cd69b6ca7671fec43f0c6169094c7db8f3f0b27200d0b8",
+        "size_in_bytes": 2501
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_seek_page_lap.html",
+        "path_type": "hardlink",
+        "sha256": "469c9d55ba933756a54648185e47d83735455f35adc4ba31cfb2817f48e445e9",
+        "sha256_in_prefix": "469c9d55ba933756a54648185e47d83735455f35adc4ba31cfb2817f48e445e9",
+        "size_in_bytes": 3651
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_tell.html",
+        "path_type": "hardlink",
+        "sha256": "0b3369a41738624518843a0e604b25a78364c14917bb82be7bf0c7c903277df9",
+        "sha256_in_prefix": "0b3369a41738624518843a0e604b25a78364c14917bb82be7bf0c7c903277df9",
+        "size_in_bytes": 1474
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_pcm_total.html",
+        "path_type": "hardlink",
+        "sha256": "7568901e6dc0d819f41dccb337c791208fc57bbbb35b979d6f0b9b076eabaa0a",
+        "sha256_in_prefix": "7568901e6dc0d819f41dccb337c791208fc57bbbb35b979d6f0b9b076eabaa0a",
+        "size_in_bytes": 1801
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_seek.html",
+        "path_type": "hardlink",
+        "sha256": "6790aecbfac35928cac6803814892999e79251f5cfb461b706d4b08068d96f20",
+        "sha256_in_prefix": "6790aecbfac35928cac6803814892999e79251f5cfb461b706d4b08068d96f20",
+        "size_in_bytes": 2289
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_seek_lap.html",
+        "path_type": "hardlink",
+        "sha256": "ab90d885afbf426a36c0b7da9ab87962347ece991c03e9b3f62862b374d57f00",
+        "sha256_in_prefix": "ab90d885afbf426a36c0b7da9ab87962347ece991c03e9b3f62862b374d57f00",
+        "size_in_bytes": 3439
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_tell.html",
+        "path_type": "hardlink",
+        "sha256": "608c44b8b3c8ceafab28909a4933b7414cb8bfa2fbd5bb861cabeaab137940dd",
+        "sha256_in_prefix": "608c44b8b3c8ceafab28909a4933b7414cb8bfa2fbd5bb861cabeaab137940dd",
+        "size_in_bytes": 1819
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_raw_total.html",
+        "path_type": "hardlink",
+        "sha256": "b028c4be6304e90b986bbf01efa79bc4c5a224c1dabe20e81bdccc226b3dc195",
+        "sha256_in_prefix": "b028c4be6304e90b986bbf01efa79bc4c5a224c1dabe20e81bdccc226b3dc195",
+        "size_in_bytes": 1834
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_read.html",
+        "path_type": "hardlink",
+        "sha256": "8b935bd5f446ad37f349bdda8dbf47ad1f631f1e0e751095f6aefc0d48d1c6dd",
+        "sha256_in_prefix": "8b935bd5f446ad37f349bdda8dbf47ad1f631f1e0e751095f6aefc0d48d1c6dd",
+        "size_in_bytes": 5418
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_read_filter.html",
+        "path_type": "hardlink",
+        "sha256": "b1aee892691a522d7899b8e84115a646e0a16a9e0eda275c9bb7a4e1cdc20092",
+        "sha256_in_prefix": "b1aee892691a522d7899b8e84115a646e0a16a9e0eda275c9bb7a4e1cdc20092",
+        "size_in_bytes": 3810
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_read_float.html",
+        "path_type": "hardlink",
+        "sha256": "4b33cd08af425f86ed95734c32b5994cae55aae99b1d9862f0e292f5378001de",
+        "sha256_in_prefix": "4b33cd08af425f86ed95734c32b5994cae55aae99b1d9862f0e292f5378001de",
+        "size_in_bytes": 2969
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_seekable.html",
+        "path_type": "hardlink",
+        "sha256": "2106022879cd932e5d38df2345aaae1d667f044a9b3b26270793fdd4d33b4975",
+        "sha256_in_prefix": "2106022879cd932e5d38df2345aaae1d667f044a9b3b26270793fdd4d33b4975",
+        "size_in_bytes": 1422
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_serialnumber.html",
+        "path_type": "hardlink",
+        "sha256": "4c5ee5b969e9d372157e02c0aca5f40a852538ee696623a8d157d3df5146a7d5",
+        "sha256_in_prefix": "4c5ee5b969e9d372157e02c0aca5f40a852538ee696623a8d157d3df5146a7d5",
+        "size_in_bytes": 1814
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_streams.html",
+        "path_type": "hardlink",
+        "sha256": "d726527c433e23186860fc23426abd4b4fd5a52ade793477837677f5f5972916",
+        "sha256_in_prefix": "d726527c433e23186860fc23426abd4b4fd5a52ade793477837677f5f5972916",
+        "size_in_bytes": 1463
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_test.html",
+        "path_type": "hardlink",
+        "sha256": "beb611fd62d38d8c70e5115d5e1360951c762eb6e1dba332eb8ee675b3b9007c",
+        "sha256_in_prefix": "beb611fd62d38d8c70e5115d5e1360951c762eb6e1dba332eb8ee675b3b9007c",
+        "size_in_bytes": 3606
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_test_callbacks.html",
+        "path_type": "hardlink",
+        "sha256": "28bdd681929ca733b7523daee577b36d47f27f5911eaf986a881fc6d06facc9c",
+        "sha256_in_prefix": "28bdd681929ca733b7523daee577b36d47f27f5911eaf986a881fc6d06facc9c",
+        "size_in_bytes": 4107
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_test_open.html",
+        "path_type": "hardlink",
+        "sha256": "ada00895edb84c77ab39202246b451847709cca6312f2e32f3bfb1ccaae7c535",
+        "sha256_in_prefix": "ada00895edb84c77ab39202246b451847709cca6312f2e32f3bfb1ccaae7c535",
+        "size_in_bytes": 1936
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek.html",
+        "path_type": "hardlink",
+        "sha256": "99f1fa27790d601c04a50106777920d8d127eacd763ef7a82172af96506c788e",
+        "sha256_in_prefix": "99f1fa27790d601c04a50106777920d8d127eacd763ef7a82172af96506c788e",
+        "size_in_bytes": 2262
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek_lap.html",
+        "path_type": "hardlink",
+        "sha256": "1a27951730e2e66bcc0d44b059366e64b68e1f0518a3d2af0c5bcaf0bd1f71ce",
+        "sha256_in_prefix": "1a27951730e2e66bcc0d44b059366e64b68e1f0518a3d2af0c5bcaf0bd1f71ce",
+        "size_in_bytes": 3315
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek_page.html",
+        "path_type": "hardlink",
+        "sha256": "3b174268b7a419c42d7d427b2dcc77370b5a79d367f6b0ef39ede6a0e827bbd5",
+        "sha256_in_prefix": "3b174268b7a419c42d7d427b2dcc77370b5a79d367f6b0ef39ede6a0e827bbd5",
+        "size_in_bytes": 2467
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_seek_page_lap.html",
+        "path_type": "hardlink",
+        "sha256": "03b4a25df01849cebbab58cc9138660021685cac24f113fb52adf783b0580898",
+        "sha256_in_prefix": "03b4a25df01849cebbab58cc9138660021685cac24f113fb52adf783b0580898",
+        "size_in_bytes": 3683
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_tell.html",
+        "path_type": "hardlink",
+        "sha256": "1b303135ba8cc7bbb4837343b224ba4a2300d29fbceb42b0f950c6be0b52aa78",
+        "sha256_in_prefix": "1b303135ba8cc7bbb4837343b224ba4a2300d29fbceb42b0f950c6be0b52aa78",
+        "size_in_bytes": 1495
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/ov_time_total.html",
+        "path_type": "hardlink",
+        "sha256": "11a03dc92f58080ad9bd8d5aca02682f51b1d434d78e47c236d2808e263809ef",
+        "sha256_in_prefix": "11a03dc92f58080ad9bd8d5aca02682f51b1d434d78e47c236d2808e263809ef",
+        "size_in_bytes": 1815
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/overview.html",
+        "path_type": "hardlink",
+        "sha256": "865042c77e36ce1f4b18da825f6a3718b35ea80f6bc9e0ff8eb0c67b6e5573df",
+        "sha256_in_prefix": "865042c77e36ce1f4b18da825f6a3718b35ea80f6bc9e0ff8eb0c67b6e5573df",
+        "size_in_bytes": 1764
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/reference.html",
+        "path_type": "hardlink",
+        "sha256": "f6309f13d55e6c101b98da4137520f3cf03b07a93161e8783c97208a6158ca1e",
+        "sha256_in_prefix": "f6309f13d55e6c101b98da4137520f3cf03b07a93161e8783c97208a6158ca1e",
+        "size_in_bytes": 3157
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seekexample.html",
+        "path_type": "hardlink",
+        "sha256": "b9d038b86fc23438aab0badf191ddac326ed7badb4e25a8f5053354b6a45209d",
+        "sha256_in_prefix": "b9d038b86fc23438aab0badf191ddac326ed7badb4e25a8f5053354b6a45209d",
+        "size_in_bytes": 4215
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seeking.html",
+        "path_type": "hardlink",
+        "sha256": "0e4db156454c77daf4525cac661c15e57a0d69ae4b46d28445642ab489b1c234",
+        "sha256_in_prefix": "0e4db156454c77daf4525cac661c15e57a0d69ae4b46d28445642ab489b1c234",
+        "size_in_bytes": 4750
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seeking_example_c.html",
+        "path_type": "hardlink",
+        "sha256": "4320971892e332c802f8b4176d3588559037e1003abd879b71fa2fbcd00f0f24",
+        "sha256_in_prefix": "4320971892e332c802f8b4176d3588559037e1003abd879b71fa2fbcd00f0f24",
+        "size_in_bytes": 2013
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seeking_test_c.html",
+        "path_type": "hardlink",
+        "sha256": "4320971892e332c802f8b4176d3588559037e1003abd879b71fa2fbcd00f0f24",
+        "sha256_in_prefix": "4320971892e332c802f8b4176d3588559037e1003abd879b71fa2fbcd00f0f24",
+        "size_in_bytes": 2013
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/seekingexample.html",
+        "path_type": "hardlink",
+        "sha256": "48c6de3ed14e87cf75f341a046e815e35adfe2a9ff7df5122ccb3b5aee6d0da5",
+        "sha256_in_prefix": "48c6de3ed14e87cf75f341a046e815e35adfe2a9ff7df5122ccb3b5aee6d0da5",
+        "size_in_bytes": 5211
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/style.css",
+        "path_type": "hardlink",
+        "sha256": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "sha256_in_prefix": "dce5d3639396566c572515801a5e5599a894bdfe875796c26d44000187840e7d",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/threads.html",
+        "path_type": "hardlink",
+        "sha256": "be2430bfdb7d72cedac5e309649fd1298d206a8697e7b89a9e8e7efabed0224f",
+        "sha256_in_prefix": "be2430bfdb7d72cedac5e309649fd1298d206a8697e7b89a9e8e7efabed0224f",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libvorbis-1.3.5/vorbisfile/vorbisfile_example_c.html",
+        "path_type": "hardlink",
+        "sha256": "2d85d43e6fc085289411cf254ea0fd3e104b92aefe9094ca49da630fec161250",
+        "sha256_in_prefix": "2d85d43e6fc085289411cf254ea0fd3e104b92aefe9094ca49da630fec161250",
+        "size_in_bytes": 2450
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3762dcdf9b7ceebca8e5c52fd32ce2a031558ea65e82119e8ca553d96c584391",
+  "size": 491162,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libvorbis-1.3.5-2.tar.bz2",
+  "version": "1.3.5"
+}

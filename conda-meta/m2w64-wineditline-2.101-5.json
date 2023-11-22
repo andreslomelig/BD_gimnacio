@@ -1,0 +1,91 @@
+{
+  "build": "5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-wineditline-2.101-5",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/edit.dll",
+    "Library/mingw-w64/bin/edit_test.exe",
+    "Library/mingw-w64/bin/edit_test_dll.exe",
+    "Library/mingw-w64/include/editline/readline.h",
+    "Library/mingw-w64/lib/libedit.dll.a",
+    "Library/mingw-w64/lib/libedit_static.a",
+    "Library/mingw-w64/share/licenses/wineditline/LICENSE",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-wineditline-2.101-5.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-wineditline-2.101-5",
+    "type": 1
+  },
+  "md5": "e998ddf70fd878bc0f81fbd173070ac7",
+  "name": "m2w64-wineditline",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-wineditline-2.101-5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/edit.dll",
+        "path_type": "hardlink",
+        "sha256": "9fbb3fdc58331a3fc9499c99bf57a9d870b382dbcdb724cbb28e146477ef4886",
+        "sha256_in_prefix": "9fbb3fdc58331a3fc9499c99bf57a9d870b382dbcdb724cbb28e146477ef4886",
+        "size_in_bytes": 40446
+      },
+      {
+        "_path": "Library/mingw-w64/bin/edit_test.exe",
+        "path_type": "hardlink",
+        "sha256": "bdaab62b42fee37c75ba6f11608d26744515b82741fe344296b76631ef60ef90",
+        "sha256_in_prefix": "bdaab62b42fee37c75ba6f11608d26744515b82741fe344296b76631ef60ef90",
+        "size_in_bytes": 21889
+      },
+      {
+        "_path": "Library/mingw-w64/bin/edit_test_dll.exe",
+        "path_type": "hardlink",
+        "sha256": "448bff23b1f71abb2e9728f75c0f8608f98322b210dfd1b8786f2a40a4e0d48a",
+        "sha256_in_prefix": "448bff23b1f71abb2e9728f75c0f8608f98322b210dfd1b8786f2a40a4e0d48a",
+        "size_in_bytes": 22432
+      },
+      {
+        "_path": "Library/mingw-w64/include/editline/readline.h",
+        "path_type": "hardlink",
+        "sha256": "97042f21c6041627173157cc1bde4d0171e2a1725f8a814f0979740e49c4752e",
+        "sha256_in_prefix": "97042f21c6041627173157cc1bde4d0171e2a1725f8a814f0979740e49c4752e",
+        "size_in_bytes": 6316
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libedit.dll.a",
+        "path_type": "hardlink",
+        "sha256": "280cd876438a795d9d54289877452b2ef6d9735a1c9cccb664ae9aeac021e1cf",
+        "sha256_in_prefix": "280cd876438a795d9d54289877452b2ef6d9735a1c9cccb664ae9aeac021e1cf",
+        "size_in_bytes": 54646
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libedit_static.a",
+        "path_type": "hardlink",
+        "sha256": "01b05d2a8beb82219feb5c20b513593262335e3fc766a2e02cfa968d6cd6291e",
+        "sha256_in_prefix": "01b05d2a8beb82219feb5c20b513593262335e3fc766a2e02cfa968d6cd6291e",
+        "size_in_bytes": 40976
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/wineditline/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "09fd1e9c0d995a2839b4c51bd129533c8ba2585fc472eb814d67aee136e017c4",
+        "sha256_in_prefix": "09fd1e9c0d995a2839b4c51bd129533c8ba2585fc472eb814d67aee136e017c4",
+        "size_in_bytes": 1582
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "805cc38e86d7973b22cc2217251e2308a28d1d410ca153a56aaaec7b7baf1074",
+  "size": 47221,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-wineditline-2.101-5.tar.bz2",
+  "version": "2.101"
+}

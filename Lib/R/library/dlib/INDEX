@@ -1,0 +1,2 @@
+dlib-package            Allow Access to the Dlib C++ Library
+inlineCxxPlugin         Rcpp plugin for dlib

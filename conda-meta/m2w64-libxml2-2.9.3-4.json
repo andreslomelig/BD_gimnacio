@@ -1,0 +1,2639 @@
+{
+  "build": "4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "m2w64-gettext",
+    "m2w64-xz",
+    "m2w64-zlib",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libxml2-2.9.3-4",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libxml2-2.dll",
+    "Library/mingw-w64/bin/xml2-config",
+    "Library/mingw-w64/bin/xmlcatalog.exe",
+    "Library/mingw-w64/bin/xmllint.exe",
+    "Library/mingw-w64/include/libxml2/libxml/DOCBparser.h",
+    "Library/mingw-w64/include/libxml2/libxml/HTMLparser.h",
+    "Library/mingw-w64/include/libxml2/libxml/HTMLtree.h",
+    "Library/mingw-w64/include/libxml2/libxml/SAX.h",
+    "Library/mingw-w64/include/libxml2/libxml/SAX2.h",
+    "Library/mingw-w64/include/libxml2/libxml/c14n.h",
+    "Library/mingw-w64/include/libxml2/libxml/catalog.h",
+    "Library/mingw-w64/include/libxml2/libxml/chvalid.h",
+    "Library/mingw-w64/include/libxml2/libxml/debugXML.h",
+    "Library/mingw-w64/include/libxml2/libxml/dict.h",
+    "Library/mingw-w64/include/libxml2/libxml/encoding.h",
+    "Library/mingw-w64/include/libxml2/libxml/entities.h",
+    "Library/mingw-w64/include/libxml2/libxml/globals.h",
+    "Library/mingw-w64/include/libxml2/libxml/hash.h",
+    "Library/mingw-w64/include/libxml2/libxml/list.h",
+    "Library/mingw-w64/include/libxml2/libxml/nanoftp.h",
+    "Library/mingw-w64/include/libxml2/libxml/nanohttp.h",
+    "Library/mingw-w64/include/libxml2/libxml/parser.h",
+    "Library/mingw-w64/include/libxml2/libxml/parserInternals.h",
+    "Library/mingw-w64/include/libxml2/libxml/pattern.h",
+    "Library/mingw-w64/include/libxml2/libxml/relaxng.h",
+    "Library/mingw-w64/include/libxml2/libxml/schemasInternals.h",
+    "Library/mingw-w64/include/libxml2/libxml/schematron.h",
+    "Library/mingw-w64/include/libxml2/libxml/threads.h",
+    "Library/mingw-w64/include/libxml2/libxml/tree.h",
+    "Library/mingw-w64/include/libxml2/libxml/uri.h",
+    "Library/mingw-w64/include/libxml2/libxml/valid.h",
+    "Library/mingw-w64/include/libxml2/libxml/xinclude.h",
+    "Library/mingw-w64/include/libxml2/libxml/xlink.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlIO.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlautomata.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlerror.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlexports.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlmemory.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlmodule.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlreader.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlregexp.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlsave.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlschemas.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlschemastypes.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlstring.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlunicode.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlversion.h",
+    "Library/mingw-w64/include/libxml2/libxml/xmlwriter.h",
+    "Library/mingw-w64/include/libxml2/libxml/xpath.h",
+    "Library/mingw-w64/include/libxml2/libxml/xpathInternals.h",
+    "Library/mingw-w64/include/libxml2/libxml/xpointer.h",
+    "Library/mingw-w64/lib/cmake/libxml2/libxml2-config.cmake",
+    "Library/mingw-w64/lib/libxml2.a",
+    "Library/mingw-w64/lib/libxml2.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/libxml-2.0.pc",
+    "Library/mingw-w64/lib/python2.7/site-packages/drv_libxml2.py",
+    "Library/mingw-w64/lib/python2.7/site-packages/libxml2.py",
+    "Library/mingw-w64/lib/python2.7/site-packages/libxml2mod.dll.a",
+    "Library/mingw-w64/lib/python2.7/site-packages/libxml2mod.pyd",
+    "Library/mingw-w64/lib/xml2Conf.sh",
+    "Library/mingw-w64/share/aclocal/libxml.m4",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/testHTML.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/testSAX.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/testXPath.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/xmllint.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/DOM.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/FAQ.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/Libxml2-Logo-180x168.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/Libxml2-Logo-90x34.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/encoding.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/examples.xml",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/examples.xsl",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/book1.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/home.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/index.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/left.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-DOCBparser.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-HTMLparser.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-HTMLtree.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-SAX.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-SAX2.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-c14n.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-catalog.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-chvalid.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-debugXML.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-dict.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-encoding.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-entities.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-globals.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-hash.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-lib.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-list.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-nanoftp.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-nanohttp.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-parser.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-parserInternals.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-pattern.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-relaxng.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-schemasInternals.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-schematron.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-threads.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-tree.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-uri.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-valid.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xinclude.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xlink.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlIO.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlautomata.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlerror.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlexports.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlmemory.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlmodule.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlreader.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlregexp.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlsave.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlschemas.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlschemastypes.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlstring.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlunicode.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlversion.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlwriter.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xpath.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xpathInternals.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xpointer.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xzlib.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/right.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/up.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/index.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io1.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io1.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io2.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io2.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/libxml.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse1.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse2.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse3.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse4.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader1.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader1.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader2.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader3.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader3.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader4.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader4.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/redhat.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/smallfootonly.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/structure.gif",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/test1.xml",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/test2.xml",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/test3.xml",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/testWriter.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree1.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree1.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree2.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree2.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tst.xml",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apa.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apb.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apc.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apd.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ape.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apf.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apg.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/aph.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/api.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s02.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s03.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s04.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s05.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s06.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s07.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s08.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s09.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/blank.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/1.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/10.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/2.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/3.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/4.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/5.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/6.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/7.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/8.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/9.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/caution.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/draft.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/home.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/important.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/next.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/note.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/prev.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/tip.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/toc-blank.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/toc-minus.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/toc-plus.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/up.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/warning.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includeaddattribute.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includeaddkeyword.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includeconvert.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includegetattribute.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includekeyword.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includexpath.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/index.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ix01.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/xmltutorial.pdf",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/w3c.png",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/writer.xml",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xml.html",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath1.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath1.res",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath2.c",
+    "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath2.res",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/TODO",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/attribs.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/build.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/compareNodes.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/ctxterror.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/cutnpaste.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/dtdvalid.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/error.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/inbuf.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/indexes.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/input_callback.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/invalid.xml",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/nsdel.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/outbuf.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/push.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/pushSAX.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/pushSAXhtml.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader2.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader3.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader4.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader5.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader6.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader7.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader8.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/readererr.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/readernext.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/regexp.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/relaxng.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/resolver.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/schema.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/serialize.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/sync.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/test.dtd",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/thread2.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tst.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tst.xml",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstLastError.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstURI.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstmem.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstxpath.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/valid.xml",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validDTD.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validRNG.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validSchemas.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validate.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/walker.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpath.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathext.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathleak.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathns.py",
+    "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathret.py",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/general.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/home.png",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/index.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/left.png",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-DOCBparser.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-HTMLparser.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-HTMLtree.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-SAX.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-SAX2.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-c14n.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-catalog.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-chvalid.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-debugXML.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-dict.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-encoding.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-entities.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-globals.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-hash.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-list.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-nanoftp.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-nanohttp.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-parser.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-parserInternals.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-pattern.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-relaxng.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-schemasInternals.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-schematron.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-threads.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-tree.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-uri.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-valid.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xinclude.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xlink.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlIO.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlautomata.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlerror.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlexports.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlmemory.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlmodule.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlreader.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlregexp.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlsave.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlschemas.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlschemastypes.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlstring.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlunicode.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlversion.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlwriter.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xpath.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xpathInternals.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xpointer.html",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2.devhelp",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/right.png",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/style.css",
+    "Library/mingw-w64/share/gtk-doc/html/libxml2/up.png",
+    "Library/mingw-w64/share/licenses/libxml2/COPYING",
+    "Library/mingw-w64/share/man/man1/xml2-config.1.gz",
+    "Library/mingw-w64/share/man/man1/xmlcatalog.1.gz",
+    "Library/mingw-w64/share/man/man1/xmllint.1.gz",
+    "Library/mingw-w64/share/man/man3/libxml.3.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-libxml2-2.9.3-4.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libxml2-2.9.3-4",
+    "type": 1
+  },
+  "md5": "7df6cbf03c98f1514da4c0899fcf8b3b",
+  "name": "m2w64-libxml2",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libxml2-2.9.3-4.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libxml2-2.dll",
+        "path_type": "hardlink",
+        "sha256": "cdf5e3861654bbdacc2e32b30ad976656153d0490a430cfea08ac6d6c1ae6ce7",
+        "sha256_in_prefix": "cdf5e3861654bbdacc2e32b30ad976656153d0490a430cfea08ac6d6c1ae6ce7",
+        "size_in_bytes": 1306954
+      },
+      {
+        "_path": "Library/mingw-w64/bin/xml2-config",
+        "path_type": "hardlink",
+        "sha256": "7ea5a1f39822898e8a4c11db16e515edd2ac424a910fd254924b2b68986e7c78",
+        "sha256_in_prefix": "7ea5a1f39822898e8a4c11db16e515edd2ac424a910fd254924b2b68986e7c78",
+        "size_in_bytes": 1653
+      },
+      {
+        "_path": "Library/mingw-w64/bin/xmlcatalog.exe",
+        "path_type": "hardlink",
+        "sha256": "ae3fe9d8e2d578942eb994f9df686f27f8fec8b4bf5ea8e682bf9ec7ce26d22c",
+        "sha256_in_prefix": "ae3fe9d8e2d578942eb994f9df686f27f8fec8b4bf5ea8e682bf9ec7ce26d22c",
+        "size_in_bytes": 54012
+      },
+      {
+        "_path": "Library/mingw-w64/bin/xmllint.exe",
+        "path_type": "hardlink",
+        "sha256": "a9ebf0267faf4ad69fb1d1458f993494ca4e7ac50a2834598c327d7f30a0af06",
+        "sha256_in_prefix": "a9ebf0267faf4ad69fb1d1458f993494ca4e7ac50a2834598c327d7f30a0af06",
+        "size_in_bytes": 127804
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/DOCBparser.h",
+        "path_type": "hardlink",
+        "sha256": "402cdfa43f9ae70fb74fd7db08b849235d87fe23792d5b4e896bb72f6d5ec89a",
+        "sha256_in_prefix": "402cdfa43f9ae70fb74fd7db08b849235d87fe23792d5b4e896bb72f6d5ec89a",
+        "size_in_bytes": 3157
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/HTMLparser.h",
+        "path_type": "hardlink",
+        "sha256": "9e243f705ba1d5bd15dea3358ce65bb53743ffb9a27fde45cb88f9bfd36a5ce7",
+        "sha256_in_prefix": "9e243f705ba1d5bd15dea3358ce65bb53743ffb9a27fde45cb88f9bfd36a5ce7",
+        "size_in_bytes": 9398
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/HTMLtree.h",
+        "path_type": "hardlink",
+        "sha256": "fa2dfbf88a92fcb53d8de8bff72522e85b3cd1912b96b086656c1a4c7220f69f",
+        "sha256_in_prefix": "fa2dfbf88a92fcb53d8de8bff72522e85b3cd1912b96b086656c1a4c7220f69f",
+        "size_in_bytes": 3646
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/SAX.h",
+        "path_type": "hardlink",
+        "sha256": "1201236d73ffd0eb5f49811be851c79d698f1209d0619e48697f04861ed8bd58",
+        "sha256_in_prefix": "1201236d73ffd0eb5f49811be851c79d698f1209d0619e48697f04861ed8bd58",
+        "size_in_bytes": 4341
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/SAX2.h",
+        "path_type": "hardlink",
+        "sha256": "f59eaf4ca872b2ab272ccbfadda25373244b87a426f016ac7b8f2a45958c4343",
+        "sha256_in_prefix": "f59eaf4ca872b2ab272ccbfadda25373244b87a426f016ac7b8f2a45958c4343",
+        "size_in_bytes": 4949
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/c14n.h",
+        "path_type": "hardlink",
+        "sha256": "c893befe6d073a04df6c18affe3f8fd362dfb59f3fa1fcc8a491289c13f250b6",
+        "sha256_in_prefix": "c893befe6d073a04df6c18affe3f8fd362dfb59f3fa1fcc8a491289c13f250b6",
+        "size_in_bytes": 3109
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/catalog.h",
+        "path_type": "hardlink",
+        "sha256": "ba006672c06365e7c0b0013cbececec0c6689d8541cc38f6acdc96545e182b72",
+        "sha256_in_prefix": "ba006672c06365e7c0b0013cbececec0c6689d8541cc38f6acdc96545e182b72",
+        "size_in_bytes": 4905
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/chvalid.h",
+        "path_type": "hardlink",
+        "sha256": "1fdfcd21e2f20e174a0d983d7ae2bfe5be5099e5d658dab829310d16471452d0",
+        "sha256_in_prefix": "1fdfcd21e2f20e174a0d983d7ae2bfe5be5099e5d658dab829310d16471452d0",
+        "size_in_bytes": 5159
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/debugXML.h",
+        "path_type": "hardlink",
+        "sha256": "79ab5f96bc907dc9ae0209b2cff7f72684a94e6bc3036ea6adc52377bbf048b6",
+        "sha256_in_prefix": "79ab5f96bc907dc9ae0209b2cff7f72684a94e6bc3036ea6adc52377bbf048b6",
+        "size_in_bytes": 5152
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/dict.h",
+        "path_type": "hardlink",
+        "sha256": "a5cf09403374e5abb0d0619f4c5eea4b5f4625416769f6aa09b7ac580f16ae63",
+        "sha256_in_prefix": "a5cf09403374e5abb0d0619f4c5eea4b5f4625416769f6aa09b7ac580f16ae63",
+        "size_in_bytes": 1842
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/encoding.h",
+        "path_type": "hardlink",
+        "sha256": "e03f365150429f56e2bb178039aaca0c6aaee6ef87396640072dfed8db3f21e4",
+        "sha256_in_prefix": "e03f365150429f56e2bb178039aaca0c6aaee6ef87396640072dfed8db3f21e4",
+        "size_in_bytes": 8301
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/entities.h",
+        "path_type": "hardlink",
+        "sha256": "b89f08defa2a7f0304c3c31026f78bb52d2639a9e3cf3444ade2ab4acf3fd35f",
+        "sha256_in_prefix": "b89f08defa2a7f0304c3c31026f78bb52d2639a9e3cf3444ade2ab4acf3fd35f",
+        "size_in_bytes": 4712
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/globals.h",
+        "path_type": "hardlink",
+        "sha256": "087a7bbb8ea727ea84e0de2d1554bac515e7420ae7a84bca034bb6ef8e05df83",
+        "sha256_in_prefix": "087a7bbb8ea727ea84e0de2d1554bac515e7420ae7a84bca034bb6ef8e05df83",
+        "size_in_bytes": 14694
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/hash.h",
+        "path_type": "hardlink",
+        "sha256": "caa37b787049e06ac36cc97ef43f435960bf7ce87bc433c5dce755cca3bea9dc",
+        "sha256_in_prefix": "caa37b787049e06ac36cc97ef43f435960bf7ce87bc433c5dce755cca3bea9dc",
+        "size_in_bytes": 6492
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/list.h",
+        "path_type": "hardlink",
+        "sha256": "413ca6f0d2d019805ef7575dcaa8575b87d920905fd77547382ed3e78441cf2c",
+        "sha256_in_prefix": "413ca6f0d2d019805ef7575dcaa8575b87d920905fd77547382ed3e78441cf2c",
+        "size_in_bytes": 3366
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/nanoftp.h",
+        "path_type": "hardlink",
+        "sha256": "64e2ab1484235be87877b82c1b8e61d391a1a6a743f5ff650b082f3f60fc97c4",
+        "sha256_in_prefix": "64e2ab1484235be87877b82c1b8e61d391a1a6a743f5ff650b082f3f60fc97c4",
+        "size_in_bytes": 3762
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/nanohttp.h",
+        "path_type": "hardlink",
+        "sha256": "2cb80dfc972ea553b6e3f3a48bcf79c952ac27315ee66705daf1fc124ca6abf2",
+        "sha256_in_prefix": "2cb80dfc972ea553b6e3f3a48bcf79c952ac27315ee66705daf1fc124ca6abf2",
+        "size_in_bytes": 2005
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/parser.h",
+        "path_type": "hardlink",
+        "sha256": "794460db5b340f6b1547d30db6ceefbc447c070ab19a97a7573d52183c169d78",
+        "sha256_in_prefix": "794460db5b340f6b1547d30db6ceefbc447c070ab19a97a7573d52183c169d78",
+        "size_in_bytes": 39719
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/parserInternals.h",
+        "path_type": "hardlink",
+        "sha256": "63696d285ca90c0b2b197dda6a9c557f085fdea3c48f43fa819ee37cefc69224",
+        "sha256_in_prefix": "63696d285ca90c0b2b197dda6a9c557f085fdea3c48f43fa819ee37cefc69224",
+        "size_in_bytes": 17394
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/pattern.h",
+        "path_type": "hardlink",
+        "sha256": "14af39bf18e46b69334cf65e09ea79ec731aeea73e238e961f77ce91460eb167",
+        "sha256_in_prefix": "14af39bf18e46b69334cf65e09ea79ec731aeea73e238e961f77ce91460eb167",
+        "size_in_bytes": 2586
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/relaxng.h",
+        "path_type": "hardlink",
+        "sha256": "0f5b9f76a8b30d23f1f3038bfd9b23b8897efa72b9d9c58c899c0874421b8527",
+        "sha256_in_prefix": "0f5b9f76a8b30d23f1f3038bfd9b23b8897efa72b9d9c58c899c0874421b8527",
+        "size_in_bytes": 5996
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/schemasInternals.h",
+        "path_type": "hardlink",
+        "sha256": "ae5b0e1ffade9976d77b054a54e67c6211d00cb96588927efade3f578966b301",
+        "sha256_in_prefix": "ae5b0e1ffade9976d77b054a54e67c6211d00cb96588927efade3f578966b301",
+        "size_in_bytes": 26021
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/schematron.h",
+        "path_type": "hardlink",
+        "sha256": "94d39ef6815b841aa4d4656fe27278799477b6278956ec3e82a6eb98fb46dcae",
+        "sha256_in_prefix": "94d39ef6815b841aa4d4656fe27278799477b6278956ec3e82a6eb98fb46dcae",
+        "size_in_bytes": 4371
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/threads.h",
+        "path_type": "hardlink",
+        "sha256": "c498d539adc4158c7720d04543ff881c8e179ba03034180094bcdf2bc98d109f",
+        "sha256_in_prefix": "c498d539adc4158c7720d04543ff881c8e179ba03034180094bcdf2bc98d109f",
+        "size_in_bytes": 1852
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/tree.h",
+        "path_type": "hardlink",
+        "sha256": "f341f0fd6bcbae4e0fdf2aee6a49a1a08ccc5e7d112edb22903206524da7f137",
+        "sha256_in_prefix": "f341f0fd6bcbae4e0fdf2aee6a49a1a08ccc5e7d112edb22903206524da7f137",
+        "size_in_bytes": 38105
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/uri.h",
+        "path_type": "hardlink",
+        "sha256": "9c65353157b6cebedede345e0d828230f4244e441137e88d94b7b09293fd70ba",
+        "sha256_in_prefix": "9c65353157b6cebedede345e0d828230f4244e441137e88d94b7b09293fd70ba",
+        "size_in_bytes": 2664
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/valid.h",
+        "path_type": "hardlink",
+        "sha256": "fffa02a7d88ad6725ceecda2459aadcfc887bbafbef7e5c8fcc58b5c806afc2d",
+        "sha256_in_prefix": "fffa02a7d88ad6725ceecda2459aadcfc887bbafbef7e5c8fcc58b5c806afc2d",
+        "size_in_bytes": 13622
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xinclude.h",
+        "path_type": "hardlink",
+        "sha256": "88bfeca9f6962214e185e1d605b11442de7dfec77e8e7131871698797c489ea9",
+        "sha256_in_prefix": "88bfeca9f6962214e185e1d605b11442de7dfec77e8e7131871698797c489ea9",
+        "size_in_bytes": 2967
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xlink.h",
+        "path_type": "hardlink",
+        "sha256": "855f9cbc2c4827f17555d59c318677c368e41b05b22dcf5267c3dd9d467160db",
+        "sha256_in_prefix": "855f9cbc2c4827f17555d59c318677c368e41b05b22dcf5267c3dd9d467160db",
+        "size_in_bytes": 5040
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlIO.h",
+        "path_type": "hardlink",
+        "sha256": "fb9318462082b8ef35636de5759254ed487f9b2dd4ef2ca0f6b31f6a17156a7b",
+        "sha256_in_prefix": "fb9318462082b8ef35636de5759254ed487f9b2dd4ef2ca0f6b31f6a17156a7b",
+        "size_in_bytes": 10611
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlautomata.h",
+        "path_type": "hardlink",
+        "sha256": "ac82712d604666b7e41580d7749641a00872829f77bc504efd623a9d40b104de",
+        "sha256_in_prefix": "ac82712d604666b7e41580d7749641a00872829f77bc504efd623a9d40b104de",
+        "size_in_bytes": 3956
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlerror.h",
+        "path_type": "hardlink",
+        "sha256": "0873e3a3c90accdee7b644e54d0733d58594885a82dbee36175aef934abd3879",
+        "sha256_in_prefix": "0873e3a3c90accdee7b644e54d0733d58594885a82dbee36175aef934abd3879",
+        "size_in_bytes": 36784
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlexports.h",
+        "path_type": "hardlink",
+        "sha256": "c4a345a520d3f9de77c5359ec829735edb05bac362ca8f65e08c28e0935cecc3",
+        "sha256_in_prefix": "c4a345a520d3f9de77c5359ec829735edb05bac362ca8f65e08c28e0935cecc3",
+        "size_in_bytes": 3920
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlmemory.h",
+        "path_type": "hardlink",
+        "sha256": "67acb42100882977d59d838f886a05c1ce47ab8ad4759e4027028979abf44cdc",
+        "sha256_in_prefix": "67acb42100882977d59d838f886a05c1ce47ab8ad4759e4027028979abf44cdc",
+        "size_in_bytes": 5945
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlmodule.h",
+        "path_type": "hardlink",
+        "sha256": "739bd7bac663e3a16c33d50f1c6b7c83d81d3e14d5387d6b24415fda927c2b87",
+        "sha256_in_prefix": "739bd7bac663e3a16c33d50f1c6b7c83d81d3e14d5387d6b24415fda927c2b87",
+        "size_in_bytes": 1170
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlreader.h",
+        "path_type": "hardlink",
+        "sha256": "023e92c9731944e9de1e44e03ae9c110b53e6744e9bb5b3d4e1e40a73b427d6a",
+        "sha256_in_prefix": "023e92c9731944e9de1e44e03ae9c110b53e6744e9bb5b3d4e1e40a73b427d6a",
+        "size_in_bytes": 12606
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlregexp.h",
+        "path_type": "hardlink",
+        "sha256": "5076d90c3dc26559f834389a1c1eb801afbdd29c734ac7289ccaa7782a756437",
+        "sha256_in_prefix": "5076d90c3dc26559f834389a1c1eb801afbdd29c734ac7289ccaa7782a756437",
+        "size_in_bytes": 5458
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlsave.h",
+        "path_type": "hardlink",
+        "sha256": "f10941282eadb99ee5150aff2890d3031a788265ed65683e28698b3240fb4c2c",
+        "sha256_in_prefix": "f10941282eadb99ee5150aff2890d3031a788265ed65683e28698b3240fb4c2c",
+        "size_in_bytes": 2337
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlschemas.h",
+        "path_type": "hardlink",
+        "sha256": "9af2bdf8e98cf85c5f00f4a97e4b5ee11f8459d930bd8e96157e89994785dff5",
+        "sha256_in_prefix": "9af2bdf8e98cf85c5f00f4a97e4b5ee11f8459d930bd8e96157e89994785dff5",
+        "size_in_bytes": 7069
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlschemastypes.h",
+        "path_type": "hardlink",
+        "sha256": "6a530bcd939db34d8ab1bbfb2bcea8c2bd3f2178c53d0d8a93df6b1a19e264f1",
+        "sha256_in_prefix": "6a530bcd939db34d8ab1bbfb2bcea8c2bd3f2178c53d0d8a93df6b1a19e264f1",
+        "size_in_bytes": 4841
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlstring.h",
+        "path_type": "hardlink",
+        "sha256": "afc9c3a055688f95f63a6addab0181fff3e9b8752515b69bf333bc1fa3219539",
+        "sha256_in_prefix": "afc9c3a055688f95f63a6addab0181fff3e9b8752515b69bf333bc1fa3219539",
+        "size_in_bytes": 5469
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlunicode.h",
+        "path_type": "hardlink",
+        "sha256": "4e94d9f017f7d7746cf66fb0c35701087c2f5beb878fdb50d76e6241f683a2b5",
+        "sha256_in_prefix": "4e94d9f017f7d7746cf66fb0c35701087c2f5beb878fdb50d76e6241f683a2b5",
+        "size_in_bytes": 9993
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlversion.h",
+        "path_type": "hardlink",
+        "sha256": "c96a8270b5e495044cc2d61011e63995e2402e9d7efe6390963b4a3e66f87a58",
+        "sha256_in_prefix": "c96a8270b5e495044cc2d61011e63995e2402e9d7efe6390963b4a3e66f87a58",
+        "size_in_bytes": 8145
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xmlwriter.h",
+        "path_type": "hardlink",
+        "sha256": "75d8dd461f4f047f85ca798d823911835245051ce56413f2ca1ec55f7257d656",
+        "sha256_in_prefix": "75d8dd461f4f047f85ca798d823911835245051ce56413f2ca1ec55f7257d656",
+        "size_in_bytes": 21265
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xpath.h",
+        "path_type": "hardlink",
+        "sha256": "ce8e3929921e6ddace80af99bbb91640c9bdc80b38a6dff96f94069c302931cd",
+        "sha256_in_prefix": "ce8e3929921e6ddace80af99bbb91640c9bdc80b38a6dff96f94069c302931cd",
+        "size_in_bytes": 16398
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xpathInternals.h",
+        "path_type": "hardlink",
+        "sha256": "ccf391c34e0a3d73949e6eda95cbb7b8ab3394e90effff328ac3eeeb41a91a39",
+        "sha256_in_prefix": "ccf391c34e0a3d73949e6eda95cbb7b8ab3394e90effff328ac3eeeb41a91a39",
+        "size_in_bytes": 19353
+      },
+      {
+        "_path": "Library/mingw-w64/include/libxml2/libxml/xpointer.h",
+        "path_type": "hardlink",
+        "sha256": "e8c430846c88cb73caa7dc96697460d0b01d2fe6d1da38c535853151291cea59",
+        "sha256_in_prefix": "e8c430846c88cb73caa7dc96697460d0b01d2fe6d1da38c535853151291cea59",
+        "size_in_bytes": 3359
+      },
+      {
+        "_path": "Library/mingw-w64/lib/cmake/libxml2/libxml2-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "eddd54a747306d7e8325785ccf89e8c5e0b7677ca0dd4a0960149a95d94970ba",
+        "sha256_in_prefix": "eddd54a747306d7e8325785ccf89e8c5e0b7677ca0dd4a0960149a95d94970ba",
+        "size_in_bytes": 1653
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libxml2.a",
+        "path_type": "hardlink",
+        "sha256": "e8711a489d8c0fb114d0da58bd8225b8c7ad973ba37d158c7aabfd4c21b51c67",
+        "sha256_in_prefix": "e8711a489d8c0fb114d0da58bd8225b8c7ad973ba37d158c7aabfd4c21b51c67",
+        "size_in_bytes": 1781776
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libxml2.dll.a",
+        "path_type": "hardlink",
+        "sha256": "38e1b9a4895ab907c590dead18978259c1a6f8b5eb168f4ee8a6909eaf87ac06",
+        "sha256_in_prefix": "38e1b9a4895ab907c590dead18978259c1a6f8b5eb168f4ee8a6909eaf87ac06",
+        "size_in_bytes": 1067738
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libxml-2.0.pc",
+        "path_type": "hardlink",
+        "sha256": "ff84823660856e5d21a80f8dcb8a2c3a2346e4a13123970655dc7251af455509",
+        "sha256_in_prefix": "ff84823660856e5d21a80f8dcb8a2c3a2346e4a13123970655dc7251af455509",
+        "size_in_bytes": 318
+      },
+      {
+        "_path": "Library/mingw-w64/lib/python2.7/site-packages/drv_libxml2.py",
+        "path_type": "hardlink",
+        "sha256": "b74238d10eba54d3007eb61995b069ec2926e7a2161c1019b76cdb8af3f0cece",
+        "sha256_in_prefix": "b74238d10eba54d3007eb61995b069ec2926e7a2161c1019b76cdb8af3f0cece",
+        "size_in_bytes": 15160
+      },
+      {
+        "_path": "Library/mingw-w64/lib/python2.7/site-packages/libxml2.py",
+        "path_type": "hardlink",
+        "sha256": "024e4b723aab8cb284866b6d985ab369b3f32dd2270233a3df1872646ec1f224",
+        "sha256_in_prefix": "024e4b723aab8cb284866b6d985ab369b3f32dd2270233a3df1872646ec1f224",
+        "size_in_bytes": 345696
+      },
+      {
+        "_path": "Library/mingw-w64/lib/python2.7/site-packages/libxml2mod.dll.a",
+        "path_type": "hardlink",
+        "sha256": "b298ed715b130bb62116ac30b97680ca4d3d8e9dc3213cf1328f259a2b912557",
+        "sha256_in_prefix": "b298ed715b130bb62116ac30b97680ca4d3d8e9dc3213cf1328f259a2b912557",
+        "size_in_bytes": 629868
+      },
+      {
+        "_path": "Library/mingw-w64/lib/python2.7/site-packages/libxml2mod.pyd",
+        "path_type": "hardlink",
+        "sha256": "4f08720d489ecee365d421a8bbdc3441fbce45452558a2a34714fc1b20034841",
+        "sha256_in_prefix": "4f08720d489ecee365d421a8bbdc3441fbce45452558a2a34714fc1b20034841",
+        "size_in_bytes": 364832
+      },
+      {
+        "_path": "Library/mingw-w64/lib/xml2Conf.sh",
+        "path_type": "hardlink",
+        "sha256": "3901637da02ab8a25e3f5e25ec1c72f81ba481f290e779ea3266da61af5fd083",
+        "sha256_in_prefix": "3901637da02ab8a25e3f5e25ec1c72f81ba481f290e779ea3266da61af5fd083",
+        "size_in_bytes": 211
+      },
+      {
+        "_path": "Library/mingw-w64/share/aclocal/libxml.m4",
+        "path_type": "hardlink",
+        "sha256": "2c41c6096188fd8ddda78af7e553beecd8a7c31b0bd7e8a6ef830f7feab3b5f9",
+        "sha256_in_prefix": "2c41c6096188fd8ddda78af7e553beecd8a7c31b0bd7e8a6ef830f7feab3b5f9",
+        "size_in_bytes": 7880
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/testHTML.c",
+        "path_type": "hardlink",
+        "sha256": "69aebacd98b23be68163fcb91979d8934cedb0e39bc1c17655745a96bb04d9ad",
+        "sha256_in_prefix": "69aebacd98b23be68163fcb91979d8934cedb0e39bc1c17655745a96bb04d9ad",
+        "size_in_bytes": 21153
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/testSAX.c",
+        "path_type": "hardlink",
+        "sha256": "b6be80695dac8321ad08f01d41c837cd7692c405ccaf834dba60383b90bf60bc",
+        "sha256_in_prefix": "b6be80695dac8321ad08f01d41c837cd7692c405ccaf834dba60383b90bf60bc",
+        "size_in_bytes": 27598
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/testXPath.c",
+        "path_type": "hardlink",
+        "sha256": "2d6bae4b6f6749f3a330c8f60444e31cc607a06348c0c45de26efd8bbb69191f",
+        "sha256_in_prefix": "2d6bae4b6f6749f3a330c8f60444e31cc607a06348c0c45de26efd8bbb69191f",
+        "size_in_bytes": 5919
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/examples/xmllint.c",
+        "path_type": "hardlink",
+        "sha256": "2caa95a3643cb12e1127a7fdd1605b20a2ecf8b8a90a30f76112c43dc4da3381",
+        "sha256_in_prefix": "2caa95a3643cb12e1127a7fdd1605b20a2ecf8b8a90a30f76112c43dc4da3381",
+        "size_in_bytes": 99786
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/DOM.gif",
+        "path_type": "hardlink",
+        "sha256": "bd8c21ad636ffe541a401f319ddc8e173336e3390cf9eea643ed5f1452c516d3",
+        "sha256_in_prefix": "bd8c21ad636ffe541a401f319ddc8e173336e3390cf9eea643ed5f1452c516d3",
+        "size_in_bytes": 3166
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/FAQ.html",
+        "path_type": "hardlink",
+        "sha256": "6b1f063251035f71dc60b1f2054010790bb9b198bfe517e628d1f5be30e771e9",
+        "sha256_in_prefix": "6b1f063251035f71dc60b1f2054010790bb9b198bfe517e628d1f5be30e771e9",
+        "size_in_bytes": 21140
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/Libxml2-Logo-180x168.gif",
+        "path_type": "hardlink",
+        "sha256": "7ebc047db40e9f4c47b3258cf011f935f8b0cafee0861a8a8573a8788fde415b",
+        "sha256_in_prefix": "7ebc047db40e9f4c47b3258cf011f935f8b0cafee0861a8a8573a8788fde415b",
+        "size_in_bytes": 8195
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/Libxml2-Logo-90x34.gif",
+        "path_type": "hardlink",
+        "sha256": "aa4f637c62f66e321680f0d63a431aa61534aa8508169f4e4d3abe64c61b1044",
+        "sha256_in_prefix": "aa4f637c62f66e321680f0d63a431aa61534aa8508169f4e4d3abe64c61b1044",
+        "size_in_bytes": 3070
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/encoding.html",
+        "path_type": "hardlink",
+        "sha256": "08e079a570806ee4f6b89f76bd6a0add3e824521fdd36034377103b99a74cf4f",
+        "sha256_in_prefix": "08e079a570806ee4f6b89f76bd6a0add3e824521fdd36034377103b99a74cf4f",
+        "size_in_bytes": 19414
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/examples.xml",
+        "path_type": "hardlink",
+        "sha256": "daddce444467ba4260b874e93e694a31f04fe61ad841b0549a663d238030aad4",
+        "sha256_in_prefix": "daddce444467ba4260b874e93e694a31f04fe61ad841b0549a663d238030aad4",
+        "size_in_bytes": 32163
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/examples.xsl",
+        "path_type": "hardlink",
+        "sha256": "fdea1b17d39bccd16daf2a404ddb842a22e55175b7a237cb682f0f04157d0515",
+        "sha256_in_prefix": "fdea1b17d39bccd16daf2a404ddb842a22e55175b7a237cb682f0f04157d0515",
+        "size_in_bytes": 7232
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/book1.html",
+        "path_type": "hardlink",
+        "sha256": "fd32d3ef94ec948f53e9f51b4667354703d2c1072bdb9d339405d382a84e7986",
+        "sha256_in_prefix": "fd32d3ef94ec948f53e9f51b4667354703d2c1072bdb9d339405d382a84e7986",
+        "size_in_bytes": 9635
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/home.png",
+        "path_type": "hardlink",
+        "sha256": "034c231513fea72bbc788109596f9b35db7b87e270c19c8b3dd22940fb35e6be",
+        "sha256_in_prefix": "034c231513fea72bbc788109596f9b35db7b87e270c19c8b3dd22940fb35e6be",
+        "size_in_bytes": 654
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/index.html",
+        "path_type": "hardlink",
+        "sha256": "fd32d3ef94ec948f53e9f51b4667354703d2c1072bdb9d339405d382a84e7986",
+        "sha256_in_prefix": "fd32d3ef94ec948f53e9f51b4667354703d2c1072bdb9d339405d382a84e7986",
+        "size_in_bytes": 9635
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/left.png",
+        "path_type": "hardlink",
+        "sha256": "9ae091e52c667a72d77eb6c41cd9afc7af60bc89bfc3023248b1dc3bb7dbf461",
+        "sha256_in_prefix": "9ae091e52c667a72d77eb6c41cd9afc7af60bc89bfc3023248b1dc3bb7dbf461",
+        "size_in_bytes": 459
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-DOCBparser.html",
+        "path_type": "hardlink",
+        "sha256": "146bf3b2aa409805e2905374b96704d4347b356025d001531462f1936783e5cf",
+        "sha256_in_prefix": "146bf3b2aa409805e2905374b96704d4347b356025d001531462f1936783e5cf",
+        "size_in_bytes": 20623
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-HTMLparser.html",
+        "path_type": "hardlink",
+        "sha256": "8a0999cc0f55b7c35559efe07730909af9c8686fc8751777f69ed24eca63eaf8",
+        "sha256_in_prefix": "8a0999cc0f55b7c35559efe07730909af9c8686fc8751777f69ed24eca63eaf8",
+        "size_in_bytes": 59960
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-HTMLtree.html",
+        "path_type": "hardlink",
+        "sha256": "de4f6c0a7b663f6f8e1a5616a2cc78a92be707fb6732e496a74223a63c15c00f",
+        "sha256_in_prefix": "de4f6c0a7b663f6f8e1a5616a2cc78a92be707fb6732e496a74223a63c15c00f",
+        "size_in_bytes": 28599
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-SAX.html",
+        "path_type": "hardlink",
+        "sha256": "b5bd776864aac3a81ff143c13ab4e2c42969624210d6019cbfd1fdc8746a0065",
+        "sha256_in_prefix": "b5bd776864aac3a81ff143c13ab4e2c42969624210d6019cbfd1fdc8746a0065",
+        "size_in_bytes": 43480
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-SAX2.html",
+        "path_type": "hardlink",
+        "sha256": "2d4ef23833e1186b14a2a5a4a258adfc9d61dcbd254752d05f877a37d29cd715",
+        "sha256_in_prefix": "2d4ef23833e1186b14a2a5a4a258adfc9d61dcbd254752d05f877a37d29cd715",
+        "size_in_bytes": 44449
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-c14n.html",
+        "path_type": "hardlink",
+        "sha256": "f404c0111ecef3c47b67c8acb0fa09c2dd47c70c97925d24ec5352fa203f73a4",
+        "sha256_in_prefix": "f404c0111ecef3c47b67c8acb0fa09c2dd47c70c97925d24ec5352fa203f73a4",
+        "size_in_bytes": 18053
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-catalog.html",
+        "path_type": "hardlink",
+        "sha256": "90826746503ed09b05f490215697c5defde16e98064521aa833fa0c0b40f68d7",
+        "sha256_in_prefix": "90826746503ed09b05f490215697c5defde16e98064521aa833fa0c0b40f68d7",
+        "size_in_bytes": 41018
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-chvalid.html",
+        "path_type": "hardlink",
+        "sha256": "d498cb4693bef622778ab3bc4f188c86095f554968fe49e6505943845853d822",
+        "sha256_in_prefix": "d498cb4693bef622778ab3bc4f188c86095f554968fe49e6505943845853d822",
+        "size_in_bytes": 18421
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-debugXML.html",
+        "path_type": "hardlink",
+        "sha256": "988a128675558c5a12cde19700463290ff25985ab89d7a358ccbcb7cc73ffefa",
+        "sha256_in_prefix": "988a128675558c5a12cde19700463290ff25985ab89d7a358ccbcb7cc73ffefa",
+        "size_in_bytes": 37910
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-dict.html",
+        "path_type": "hardlink",
+        "sha256": "ab46307ce0443e2c61333660aa66e9bec3dabdad37a2b5a551656f2986462edd",
+        "sha256_in_prefix": "ab46307ce0443e2c61333660aa66e9bec3dabdad37a2b5a551656f2986462edd",
+        "size_in_bytes": 17960
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-encoding.html",
+        "path_type": "hardlink",
+        "sha256": "cd279db5a51f2c7dc5f04a00095c596d75ae71bf5eb22a6e06dfb80ed2801545",
+        "sha256_in_prefix": "cd279db5a51f2c7dc5f04a00095c596d75ae71bf5eb22a6e06dfb80ed2801545",
+        "size_in_bytes": 34704
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-entities.html",
+        "path_type": "hardlink",
+        "sha256": "99a8bce635582339623a9a48626f72fe92069347d082e0f15352418cc5888481",
+        "sha256_in_prefix": "99a8bce635582339623a9a48626f72fe92069347d082e0f15352418cc5888481",
+        "size_in_bytes": 27687
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-globals.html",
+        "path_type": "hardlink",
+        "sha256": "157634a93e0725e8a3af56be783d42a961b26365854a971fed93d5414ead3495",
+        "sha256_in_prefix": "157634a93e0725e8a3af56be783d42a961b26365854a971fed93d5414ead3495",
+        "size_in_bytes": 33086
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-hash.html",
+        "path_type": "hardlink",
+        "sha256": "089e6966c54d18de1624411de45b8d21f97bb5c6d4e7c4b74b8d16d148134728",
+        "sha256_in_prefix": "089e6966c54d18de1624411de45b8d21f97bb5c6d4e7c4b74b8d16d148134728",
+        "size_in_bytes": 46537
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-lib.html",
+        "path_type": "hardlink",
+        "sha256": "fd32d3ef94ec948f53e9f51b4667354703d2c1072bdb9d339405d382a84e7986",
+        "sha256_in_prefix": "fd32d3ef94ec948f53e9f51b4667354703d2c1072bdb9d339405d382a84e7986",
+        "size_in_bytes": 9635
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-list.html",
+        "path_type": "hardlink",
+        "sha256": "f021a540a931bddb4b436663b704763bcf951827ba0e1a11760f674cc9185848",
+        "sha256_in_prefix": "f021a540a931bddb4b436663b704763bcf951827ba0e1a11760f674cc9185848",
+        "size_in_bytes": 30105
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-nanoftp.html",
+        "path_type": "hardlink",
+        "sha256": "e598db690a18b90c1ce4644dc00369baebf76b7fa10fd50bb2e4318a49b709e3",
+        "sha256_in_prefix": "e598db690a18b90c1ce4644dc00369baebf76b7fa10fd50bb2e4318a49b709e3",
+        "size_in_bytes": 27085
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-nanohttp.html",
+        "path_type": "hardlink",
+        "sha256": "3416ce7d5544c303d94498c91b39c6f68e8f85caf971560759bb802f622e3798",
+        "sha256_in_prefix": "3416ce7d5544c303d94498c91b39c6f68e8f85caf971560759bb802f622e3798",
+        "size_in_bytes": 21222
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-parser.html",
+        "path_type": "hardlink",
+        "sha256": "9195a089d510d7fd65cd9760db488f1e6196ef8e46da3654239ebaac56416de8",
+        "sha256_in_prefix": "9195a089d510d7fd65cd9760db488f1e6196ef8e46da3654239ebaac56416de8",
+        "size_in_bytes": 146340
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-parserInternals.html",
+        "path_type": "hardlink",
+        "sha256": "b9e0934806f31ecfdf48963637b644bffef46f9c1c1d3b8455152f50c111a98f",
+        "sha256_in_prefix": "b9e0934806f31ecfdf48963637b644bffef46f9c1c1d3b8455152f50c111a98f",
+        "size_in_bytes": 122664
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-pattern.html",
+        "path_type": "hardlink",
+        "sha256": "b9e07a159a868daab0408619524c5fd3fc772119fb617816622d84f59aba808d",
+        "sha256_in_prefix": "b9e07a159a868daab0408619524c5fd3fc772119fb617816622d84f59aba808d",
+        "size_in_bytes": 23671
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-relaxng.html",
+        "path_type": "hardlink",
+        "sha256": "59640ee8cc020e8241a54bdeb6416ac3e69616a677d1ae0821f005561d9478f8",
+        "sha256_in_prefix": "59640ee8cc020e8241a54bdeb6416ac3e69616a677d1ae0821f005561d9478f8",
+        "size_in_bytes": 41000
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-schemasInternals.html",
+        "path_type": "hardlink",
+        "sha256": "408299f4eb8e46aec80dfb3150480677c2376a82c3bcdbd4dbbae9382d96f5e1",
+        "sha256_in_prefix": "408299f4eb8e46aec80dfb3150480677c2376a82c3bcdbd4dbbae9382d96f5e1",
+        "size_in_bytes": 64056
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-schematron.html",
+        "path_type": "hardlink",
+        "sha256": "f6f897fcd03a081cfd0bccc47a61c57d4a82d9c55df12f123809b7acc9cfe81b",
+        "sha256_in_prefix": "f6f897fcd03a081cfd0bccc47a61c57d4a82d9c55df12f123809b7acc9cfe81b",
+        "size_in_bytes": 21727
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-threads.html",
+        "path_type": "hardlink",
+        "sha256": "9014d37ac567392e9b93bcb2c0de3ad7e8aea0815b01fe1fb9501d53d09a2946",
+        "sha256_in_prefix": "9014d37ac567392e9b93bcb2c0de3ad7e8aea0815b01fe1fb9501d53d09a2946",
+        "size_in_bytes": 17159
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-tree.html",
+        "path_type": "hardlink",
+        "sha256": "84c05723ad00c1e960366d7aaa0ecfd679256b373adab5472f78cbf355cd2508",
+        "sha256_in_prefix": "84c05723ad00c1e960366d7aaa0ecfd679256b373adab5472f78cbf355cd2508",
+        "size_in_bytes": 235356
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-uri.html",
+        "path_type": "hardlink",
+        "sha256": "5b708574b853b61c95c533e7db2c0572d92e6abf610eb2c27a38078a52b906d2",
+        "sha256_in_prefix": "5b708574b853b61c95c533e7db2c0572d92e6abf610eb2c27a38078a52b906d2",
+        "size_in_bytes": 22676
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-valid.html",
+        "path_type": "hardlink",
+        "sha256": "261f592ce50113f4e54a09bfff35cb148b1b6e015dad7226a0a7ce22843679c2",
+        "sha256_in_prefix": "261f592ce50113f4e54a09bfff35cb148b1b6e015dad7226a0a7ce22843679c2",
+        "size_in_bytes": 102457
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xinclude.html",
+        "path_type": "hardlink",
+        "sha256": "a8e71c85969e65eb3419cc3df6a9524d896d3d2fa252383ffa76fc50a8d91621",
+        "sha256_in_prefix": "a8e71c85969e65eb3419cc3df6a9524d896d3d2fa252383ffa76fc50a8d91621",
+        "size_in_bytes": 19704
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xlink.html",
+        "path_type": "hardlink",
+        "sha256": "dbf5625e78d0f368bf6de3030d55daaf1b8a07d8ea314b64722ee16520aa0f61",
+        "sha256_in_prefix": "dbf5625e78d0f368bf6de3030d55daaf1b8a07d8ea314b64722ee16520aa0f61",
+        "size_in_bytes": 21644
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlIO.html",
+        "path_type": "hardlink",
+        "sha256": "0b1b3586cc57a825db093a142f2ce2e1d0463f10821c38da10d7d45bc2c5ae36",
+        "sha256_in_prefix": "0b1b3586cc57a825db093a142f2ce2e1d0463f10821c38da10d7d45bc2c5ae36",
+        "size_in_bytes": 63312
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlautomata.html",
+        "path_type": "hardlink",
+        "sha256": "4e87025c518a73fad311dc34cba157a6f578328178b736e5f4ed6274a1a1ac80",
+        "sha256_in_prefix": "4e87025c518a73fad311dc34cba157a6f578328178b736e5f4ed6274a1a1ac80",
+        "size_in_bytes": 39564
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlerror.html",
+        "path_type": "hardlink",
+        "sha256": "1a164aefa8c9766fd2fd8d97826303d59fe018dc7373620faf0964b01f10d41e",
+        "sha256_in_prefix": "1a164aefa8c9766fd2fd8d97826303d59fe018dc7373620faf0964b01f10d41e",
+        "size_in_bytes": 109698
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlexports.html",
+        "path_type": "hardlink",
+        "sha256": "547c362e0d2ffa9b65aabb50dd6d4918a1fd67a2d107e0165e467641eb067127",
+        "sha256_in_prefix": "547c362e0d2ffa9b65aabb50dd6d4918a1fd67a2d107e0165e467641eb067127",
+        "size_in_bytes": 7589
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlmemory.html",
+        "path_type": "hardlink",
+        "sha256": "dbc57b8a1a3ba3cb191c19010b38f9686b96cb37beb22454d21d87511440c6b4",
+        "sha256_in_prefix": "dbc57b8a1a3ba3cb191c19010b38f9686b96cb37beb22454d21d87511440c6b4",
+        "size_in_bytes": 29216
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlmodule.html",
+        "path_type": "hardlink",
+        "sha256": "bc70bfc7b78a03eedb05eff756d2e181018278177a7e5d720ddccb04bd5c84ee",
+        "sha256_in_prefix": "bc70bfc7b78a03eedb05eff756d2e181018278177a7e5d720ddccb04bd5c84ee",
+        "size_in_bytes": 11709
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlreader.html",
+        "path_type": "hardlink",
+        "sha256": "37df052d2a89d65c217d765acea7ea67ee5a61383c3c703232686b23cde612ac",
+        "sha256_in_prefix": "37df052d2a89d65c217d765acea7ea67ee5a61383c3c703232686b23cde612ac",
+        "size_in_bytes": 114131
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlregexp.html",
+        "path_type": "hardlink",
+        "sha256": "0f63b821035cc0fc32215f43c0214fd1323c81baa84a7bf86b1ba617158dd8d9",
+        "sha256_in_prefix": "0f63b821035cc0fc32215f43c0214fd1323c81baa84a7bf86b1ba617158dd8d9",
+        "size_in_bytes": 45784
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlsave.html",
+        "path_type": "hardlink",
+        "sha256": "cca7e443f397f1991109d89cbbc7032898b3c4c4f5293df72f10ddad6c657fe0",
+        "sha256_in_prefix": "cca7e443f397f1991109d89cbbc7032898b3c4c4f5293df72f10ddad6c657fe0",
+        "size_in_bytes": 19285
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlschemas.html",
+        "path_type": "hardlink",
+        "sha256": "034f8bf9f228cea6edc5e9359bd9a2a1a7674932051dfc4184ba615920f1edfd",
+        "sha256_in_prefix": "034f8bf9f228cea6edc5e9359bd9a2a1a7674932051dfc4184ba615920f1edfd",
+        "size_in_bytes": 47770
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlschemastypes.html",
+        "path_type": "hardlink",
+        "sha256": "3cab13337f33bbddd789c7ba0f477d6c7998bcd59fd2ae914eece6d37115a65e",
+        "sha256_in_prefix": "3cab13337f33bbddd789c7ba0f477d6c7998bcd59fd2ae914eece6d37115a65e",
+        "size_in_bytes": 49374
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlstring.html",
+        "path_type": "hardlink",
+        "sha256": "084e3dae4b1aad3dc014ef3e2fad17e7ae7ee57785c4614355a3f21f0e1f1a8c",
+        "sha256_in_prefix": "084e3dae4b1aad3dc014ef3e2fad17e7ae7ee57785c4614355a3f21f0e1f1a8c",
+        "size_in_bytes": 39294
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlunicode.html",
+        "path_type": "hardlink",
+        "sha256": "0c673c0ce97aea5f067743989b597f9fdac5f7a78b16eb0a40ec5912dd3e8f93",
+        "sha256_in_prefix": "0c673c0ce97aea5f067743989b597f9fdac5f7a78b16eb0a40ec5912dd3e8f93",
+        "size_in_bytes": 112850
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlversion.html",
+        "path_type": "hardlink",
+        "sha256": "b7def66586f63201e0583f03c5252ce648d13292a2d4be45bb1c35a5315ebcd1",
+        "sha256_in_prefix": "b7def66586f63201e0583f03c5252ce648d13292a2d4be45bb1c35a5315ebcd1",
+        "size_in_bytes": 20563
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xmlwriter.html",
+        "path_type": "hardlink",
+        "sha256": "3e6533014aa929f3e5aa3e3cfe6d60f03ea69e3c808e5514481ed40f532db66d",
+        "sha256_in_prefix": "3e6533014aa929f3e5aa3e3cfe6d60f03ea69e3c808e5514481ed40f532db66d",
+        "size_in_bytes": 117477
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xpath.html",
+        "path_type": "hardlink",
+        "sha256": "7247a77cc668017111955e4105e795c162eac85361227e8887bf0cc5bc6497bf",
+        "sha256_in_prefix": "7247a77cc668017111955e4105e795c162eac85361227e8887bf0cc5bc6497bf",
+        "size_in_bytes": 65049
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xpathInternals.html",
+        "path_type": "hardlink",
+        "sha256": "c004c795d67d566b2ef863e8ddc5f0e379ab193a64f21a4bad51c756a1114df4",
+        "sha256_in_prefix": "c004c795d67d566b2ef863e8ddc5f0e379ab193a64f21a4bad51c756a1114df4",
+        "size_in_bytes": 143102
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xpointer.html",
+        "path_type": "hardlink",
+        "sha256": "c2e3db725bb15aa42a9168c270d9219cff1bf900e09c296d6b68434bdb456890",
+        "sha256_in_prefix": "c2e3db725bb15aa42a9168c270d9219cff1bf900e09c296d6b68434bdb456890",
+        "size_in_bytes": 29866
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/libxml-xzlib.html",
+        "path_type": "hardlink",
+        "sha256": "74d9b16357d4089d5b0fa74f97bff54b10bcbad72bd84bbac0d52ab3b4cdc0f4",
+        "sha256_in_prefix": "74d9b16357d4089d5b0fa74f97bff54b10bcbad72bd84bbac0d52ab3b4cdc0f4",
+        "size_in_bytes": 6533
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/right.png",
+        "path_type": "hardlink",
+        "sha256": "17dcc0b175babc51d07f71382cf2083bcd4e9abfed091a45963f5ee982aa7b48",
+        "sha256_in_prefix": "17dcc0b175babc51d07f71382cf2083bcd4e9abfed091a45963f5ee982aa7b48",
+        "size_in_bytes": 472
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/html/up.png",
+        "path_type": "hardlink",
+        "sha256": "2af945c4c6ce288adfad716ae1747f37056f7bf67b8536d2e5e6b8e0ce84c872",
+        "sha256_in_prefix": "2af945c4c6ce288adfad716ae1747f37056f7bf67b8536d2e5e6b8e0ce84c872",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/index.html",
+        "path_type": "hardlink",
+        "sha256": "d7eed76b50e0287d53288e63506c5ff7409eb75ef8fa5644f602de35c57bedb0",
+        "sha256_in_prefix": "d7eed76b50e0287d53288e63506c5ff7409eb75ef8fa5644f602de35c57bedb0",
+        "size_in_bytes": 32920
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io1.c",
+        "path_type": "hardlink",
+        "sha256": "34d2b3548293ad86a1afb15705a0e656d804db5c5d4865c8cd2a3b0de963e74b",
+        "sha256_in_prefix": "34d2b3548293ad86a1afb15705a0e656d804db5c5d4865c8cd2a3b0de963e74b",
+        "size_in_bytes": 3753
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io1.res",
+        "path_type": "hardlink",
+        "sha256": "74dac14e1ad8d78aac10f8fb8ff88f624843aa5e0e68d40d3dac7e078a0e5703",
+        "sha256_in_prefix": "74dac14e1ad8d78aac10f8fb8ff88f624843aa5e0e68d40d3dac7e078a0e5703",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io2.c",
+        "path_type": "hardlink",
+        "sha256": "07962de2e1c06578a48e396538c0997510103b594f962230fd85f26907997513",
+        "sha256_in_prefix": "07962de2e1c06578a48e396538c0997510103b594f962230fd85f26907997513",
+        "size_in_bytes": 1182
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/io2.res",
+        "path_type": "hardlink",
+        "sha256": "9af7208c01f8882b41630f358554b5122bb71ec8ccb0a5ea6a34373cb0f2bdd4",
+        "sha256_in_prefix": "9af7208c01f8882b41630f358554b5122bb71ec8ccb0a5ea6a34373cb0f2bdd4",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/libxml.gif",
+        "path_type": "hardlink",
+        "sha256": "c2ec2405dbf54ecfe81bce94b1d7fe766b340e6c624256a40d52caf847736e3c",
+        "sha256_in_prefix": "c2ec2405dbf54ecfe81bce94b1d7fe766b340e6c624256a40d52caf847736e3c",
+        "size_in_bytes": 7692
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse1.c",
+        "path_type": "hardlink",
+        "sha256": "2542aae496a43dc0c9f361cf342c6d87092bbce5f785cfade58a81adf72ba07c",
+        "sha256_in_prefix": "2542aae496a43dc0c9f361cf342c6d87092bbce5f785cfade58a81adf72ba07c",
+        "size_in_bytes": 1300
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse2.c",
+        "path_type": "hardlink",
+        "sha256": "c7e977ebfbc1bc2e1f478ddfbf679678be14be6a352cdc8234606aa13521c619",
+        "sha256_in_prefix": "c7e977ebfbc1bc2e1f478ddfbf679678be14be6a352cdc8234606aa13521c619",
+        "size_in_bytes": 1967
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse3.c",
+        "path_type": "hardlink",
+        "sha256": "3f735b33ca17125b604ff607d6ca196c6b577466b79410bb8f3ea308a34d8817",
+        "sha256_in_prefix": "3f735b33ca17125b604ff607d6ca196c6b577466b79410bb8f3ea308a34d8817",
+        "size_in_bytes": 1506
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/parse4.c",
+        "path_type": "hardlink",
+        "sha256": "7f46ace7704ddf72a814a5d41a36529ac108cf419c00af7416cfa2951278e3bf",
+        "sha256_in_prefix": "7f46ace7704ddf72a814a5d41a36529ac108cf419c00af7416cfa2951278e3bf",
+        "size_in_bytes": 3545
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader1.c",
+        "path_type": "hardlink",
+        "sha256": "a5a185d12a55f519f72049a50fcf838a5fac1bb032232bbf0d60a66ce8f41677",
+        "sha256_in_prefix": "a5a185d12a55f519f72049a50fcf838a5fac1bb032232bbf0d60a66ce8f41677",
+        "size_in_bytes": 2530
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader1.res",
+        "path_type": "hardlink",
+        "sha256": "1bc27e0d69b9a792b9886b8cb9425df6a42b53b14a8e244c064e9d4d40a68a2e",
+        "sha256_in_prefix": "1bc27e0d69b9a792b9886b8cb9425df6a42b53b14a8e244c064e9d4d40a68a2e",
+        "size_in_bytes": 149
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader2.c",
+        "path_type": "hardlink",
+        "sha256": "6aad4315ff71ad2fb029e190bddbc034fa838fd6b7a80df2d380484c9dd59506",
+        "sha256_in_prefix": "6aad4315ff71ad2fb029e190bddbc034fa838fd6b7a80df2d380484c9dd59506",
+        "size_in_bytes": 3133
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader3.c",
+        "path_type": "hardlink",
+        "sha256": "35daf62555860b93142b9d9eac9036f0484bb0178d821e85af2ac6bd5c44eede",
+        "sha256_in_prefix": "35daf62555860b93142b9d9eac9036f0484bb0178d821e85af2ac6bd5c44eede",
+        "size_in_bytes": 2947
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader3.res",
+        "path_type": "hardlink",
+        "sha256": "7ffb00a7691a484a56976c857a0a30d78cb797fcad827af57bb0e3d9eb9ade85",
+        "sha256_in_prefix": "7ffb00a7691a484a56976c857a0a30d78cb797fcad827af57bb0e3d9eb9ade85",
+        "size_in_bytes": 360
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader4.c",
+        "path_type": "hardlink",
+        "sha256": "772edaefccfd66e715549d9d155b20123e09890f9387cb6eeb44b5b36a7f0e1b",
+        "sha256_in_prefix": "772edaefccfd66e715549d9d155b20123e09890f9387cb6eeb44b5b36a7f0e1b",
+        "size_in_bytes": 3128
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/reader4.res",
+        "path_type": "hardlink",
+        "sha256": "c707d5276b75ec092bec5fca3472f538552ef5d59bc9b270906db979276c60fb",
+        "sha256_in_prefix": "c707d5276b75ec092bec5fca3472f538552ef5d59bc9b270906db979276c60fb",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/redhat.gif",
+        "path_type": "hardlink",
+        "sha256": "56f1647cba75ba35fff3adfd606861d5436cad72a4eb333dfcbaa6df315ce3bc",
+        "sha256_in_prefix": "56f1647cba75ba35fff3adfd606861d5436cad72a4eb333dfcbaa6df315ce3bc",
+        "size_in_bytes": 697
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/smallfootonly.gif",
+        "path_type": "hardlink",
+        "sha256": "9c8066bd8efba14d902f75b89a06c3d4166cd0c06bf08a277aab14dbd4ad8f17",
+        "sha256_in_prefix": "9c8066bd8efba14d902f75b89a06c3d4166cd0c06bf08a277aab14dbd4ad8f17",
+        "size_in_bytes": 2772
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/structure.gif",
+        "path_type": "hardlink",
+        "sha256": "4ef9429ba9471dc3edda9702b6932ba4df6bfed84d4b8b3d88dbcfd91e1426ae",
+        "sha256_in_prefix": "4ef9429ba9471dc3edda9702b6932ba4df6bfed84d4b8b3d88dbcfd91e1426ae",
+        "size_in_bytes": 5559
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/test1.xml",
+        "path_type": "hardlink",
+        "sha256": "4a9246c65226a7f023c27ce039a07152b877df3e4055ea0dd1bcf6363fbfcbbb",
+        "sha256_in_prefix": "4a9246c65226a7f023c27ce039a07152b877df3e4055ea0dd1bcf6363fbfcbbb",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/test2.xml",
+        "path_type": "hardlink",
+        "sha256": "f9ef63cd8d22af0e598a1037cdbcebc8c3538fa268fff7de131be63174cc6de7",
+        "sha256_in_prefix": "f9ef63cd8d22af0e598a1037cdbcebc8c3538fa268fff7de131be63174cc6de7",
+        "size_in_bytes": 227
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/test3.xml",
+        "path_type": "hardlink",
+        "sha256": "face69128b287a96cc808907d8a27c74a4975886e06ec6279da9942985bd0e4f",
+        "sha256_in_prefix": "face69128b287a96cc808907d8a27c74a4975886e06ec6279da9942985bd0e4f",
+        "size_in_bytes": 833
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/testWriter.c",
+        "path_type": "hardlink",
+        "sha256": "e2dd349f27db9610702a268eac20a455bcfb4d8b4438da6284af6a02974cbcbb",
+        "sha256_in_prefix": "e2dd349f27db9610702a268eac20a455bcfb4d8b4438da6284af6a02974cbcbb",
+        "size_in_bytes": 38407
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree1.c",
+        "path_type": "hardlink",
+        "sha256": "df73ecde059670c69c5e6566b2756aa13ca98b9b7c1490756276afe197765a3b",
+        "sha256_in_prefix": "df73ecde059670c69c5e6566b2756aa13ca98b9b7c1490756276afe197765a3b",
+        "size_in_bytes": 2245
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree1.res",
+        "path_type": "hardlink",
+        "sha256": "8d5689ebf3a72010582357db99230ca75b4c47608560b5d19f863f0a4a3f33f4",
+        "sha256_in_prefix": "8d5689ebf3a72010582357db99230ca75b4c47608560b5d19f863f0a4a3f33f4",
+        "size_in_bytes": 121
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree2.c",
+        "path_type": "hardlink",
+        "sha256": "21cd93e1be7c371dd85c0613d5c687ba9bdfe13fb7cbae4f60b36beb4b31541c",
+        "sha256_in_prefix": "21cd93e1be7c371dd85c0613d5c687ba9bdfe13fb7cbae4f60b36beb4b31541c",
+        "size_in_bytes": 3471
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tree2.res",
+        "path_type": "hardlink",
+        "sha256": "2f985f4d119c16e2908ef216a88e82d51ad1a0bd3ad59078d893c40ebe5c4b97",
+        "sha256_in_prefix": "2f985f4d119c16e2908ef216a88e82d51ad1a0bd3ad59078d893c40ebe5c4b97",
+        "size_in_bytes": 453
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tst.xml",
+        "path_type": "hardlink",
+        "sha256": "4e3d2681f8bf1db46dd195f621412dbf696e12bdd6d44f2c2f8c9fa70a4b5955",
+        "sha256_in_prefix": "4e3d2681f8bf1db46dd195f621412dbf696e12bdd6d44f2c2f8c9fa70a4b5955",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apa.html",
+        "path_type": "hardlink",
+        "sha256": "16aaee3e09ad3379f8f8aab6bb8da0ce50df133ddb8330d1dd458adfd72e3d3d",
+        "sha256_in_prefix": "16aaee3e09ad3379f8f8aab6bb8da0ce50df133ddb8330d1dd458adfd72e3d3d",
+        "size_in_bytes": 2114
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apb.html",
+        "path_type": "hardlink",
+        "sha256": "2a8a4961ae7eb53c3d04a86e434ad3476db1bc916486bf43b2f93251da414c40",
+        "sha256_in_prefix": "2a8a4961ae7eb53c3d04a86e434ad3476db1bc916486bf43b2f93251da414c40",
+        "size_in_bytes": 2026
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apc.html",
+        "path_type": "hardlink",
+        "sha256": "ec8db2d44b6c507327df0d46831735a87d0af750f5db314ffc97940c07098744",
+        "sha256_in_prefix": "ec8db2d44b6c507327df0d46831735a87d0af750f5db314ffc97940c07098744",
+        "size_in_bytes": 3094
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apd.html",
+        "path_type": "hardlink",
+        "sha256": "f9e9cb973a36c50c3e2c3cb35211c0b2226f602d2ac4798e2da9d547bef3623a",
+        "sha256_in_prefix": "f9e9cb973a36c50c3e2c3cb35211c0b2226f602d2ac4798e2da9d547bef3623a",
+        "size_in_bytes": 3232
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ape.html",
+        "path_type": "hardlink",
+        "sha256": "d46f8b192d663d39fc81e44622d89188a969fee6e50b78e54671f436e5c805a7",
+        "sha256_in_prefix": "d46f8b192d663d39fc81e44622d89188a969fee6e50b78e54671f436e5c805a7",
+        "size_in_bytes": 3096
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apf.html",
+        "path_type": "hardlink",
+        "sha256": "b947dd9a19c186a1c263837081a8f9776aad9878f31edd89f67a4bd62e20fbe3",
+        "sha256_in_prefix": "b947dd9a19c186a1c263837081a8f9776aad9878f31edd89f67a4bd62e20fbe3",
+        "size_in_bytes": 2949
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/apg.html",
+        "path_type": "hardlink",
+        "sha256": "5946e3b16600eb643ed2f3a70bd09363e943d7d4654ef2dfe0e06ce2367d18bd",
+        "sha256_in_prefix": "5946e3b16600eb643ed2f3a70bd09363e943d7d4654ef2dfe0e06ce2367d18bd",
+        "size_in_bytes": 3022
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/aph.html",
+        "path_type": "hardlink",
+        "sha256": "2f0613eb5a8cffb96fa90d7ee796d66bf2eb08df6560ab39497fbc255f54fb0a",
+        "sha256_in_prefix": "2f0613eb5a8cffb96fa90d7ee796d66bf2eb08df6560ab39497fbc255f54fb0a",
+        "size_in_bytes": 3600
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/api.html",
+        "path_type": "hardlink",
+        "sha256": "916e83d35940b8746475a198a8bebdd7cfe66270513ef834f8fe8530a3f7b2c9",
+        "sha256_in_prefix": "916e83d35940b8746475a198a8bebdd7cfe66270513ef834f8fe8530a3f7b2c9",
+        "size_in_bytes": 1899
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s02.html",
+        "path_type": "hardlink",
+        "sha256": "cc6529a090cef5fa52d837f456535752091264cd8804f848da9b6f6310762b6c",
+        "sha256_in_prefix": "cc6529a090cef5fa52d837f456535752091264cd8804f848da9b6f6310762b6c",
+        "size_in_bytes": 3298
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s03.html",
+        "path_type": "hardlink",
+        "sha256": "64529fc7c4772895bbb85b3bfb5e2b35e24227065cd598b38e2e547696e00caa",
+        "sha256_in_prefix": "64529fc7c4772895bbb85b3bfb5e2b35e24227065cd598b38e2e547696e00caa",
+        "size_in_bytes": 5718
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s04.html",
+        "path_type": "hardlink",
+        "sha256": "fe87c86b427a180990f6b8d18d891ac9427f6898612f02f00b193b9f4d5ef6f4",
+        "sha256_in_prefix": "fe87c86b427a180990f6b8d18d891ac9427f6898612f02f00b193b9f4d5ef6f4",
+        "size_in_bytes": 6223
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s05.html",
+        "path_type": "hardlink",
+        "sha256": "1b1dede3f8623ccd2058322eecc3ce6218bbe9a50d664e8970f60d887cbb3e46",
+        "sha256_in_prefix": "1b1dede3f8623ccd2058322eecc3ce6218bbe9a50d664e8970f60d887cbb3e46",
+        "size_in_bytes": 7422
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s06.html",
+        "path_type": "hardlink",
+        "sha256": "1371aaf90d7df463c45979e787c68a0c467a3448ccc1b0a28c6b8d3b99e5a850",
+        "sha256_in_prefix": "1371aaf90d7df463c45979e787c68a0c467a3448ccc1b0a28c6b8d3b99e5a850",
+        "size_in_bytes": 3849
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s07.html",
+        "path_type": "hardlink",
+        "sha256": "67b63a1d57b5d59b4c4f8c5b072d9b7ea84cd3964594a183768ec5427d713205",
+        "sha256_in_prefix": "67b63a1d57b5d59b4c4f8c5b072d9b7ea84cd3964594a183768ec5427d713205",
+        "size_in_bytes": 3866
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s08.html",
+        "path_type": "hardlink",
+        "sha256": "57948b4d3c9eec0d35f14068deb6f59cb635ed7a36702b81203a0b930a94f779",
+        "sha256_in_prefix": "57948b4d3c9eec0d35f14068deb6f59cb635ed7a36702b81203a0b930a94f779",
+        "size_in_bytes": 3894
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ar01s09.html",
+        "path_type": "hardlink",
+        "sha256": "483cbf9d88ec0909176b4c22c163014d3887be51152e4c9c2874cb7759b8f422",
+        "sha256_in_prefix": "483cbf9d88ec0909176b4c22c163014d3887be51152e4c9c2874cb7759b8f422",
+        "size_in_bytes": 7603
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/blank.png",
+        "path_type": "hardlink",
+        "sha256": "405a1291d17d2dbe9e9466e954bd6eb4003ea548e1e54bb5e08618c4634a0712",
+        "sha256_in_prefix": "405a1291d17d2dbe9e9466e954bd6eb4003ea548e1e54bb5e08618c4634a0712",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/1.png",
+        "path_type": "hardlink",
+        "sha256": "d71cdb85fc4653c8f227c5abc863d553aedde2bbf93305e9eeb3b104b3d8d14a",
+        "sha256_in_prefix": "d71cdb85fc4653c8f227c5abc863d553aedde2bbf93305e9eeb3b104b3d8d14a",
+        "size_in_bytes": 329
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/10.png",
+        "path_type": "hardlink",
+        "sha256": "fd5a21280c250817e23e66d1546608408fb2f57410b73041327f78568afdb357",
+        "sha256_in_prefix": "fd5a21280c250817e23e66d1546608408fb2f57410b73041327f78568afdb357",
+        "size_in_bytes": 361
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/2.png",
+        "path_type": "hardlink",
+        "sha256": "009bf47671e175131cc41407621cd19a0063679039a1de87e4c6f041f3132bae",
+        "sha256_in_prefix": "009bf47671e175131cc41407621cd19a0063679039a1de87e4c6f041f3132bae",
+        "size_in_bytes": 353
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/3.png",
+        "path_type": "hardlink",
+        "sha256": "cdc9b53a380b848974f052e888879672a1e4d9b4fcc8eebb4dbea309c4b5e05f",
+        "sha256_in_prefix": "cdc9b53a380b848974f052e888879672a1e4d9b4fcc8eebb4dbea309c4b5e05f",
+        "size_in_bytes": 350
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/4.png",
+        "path_type": "hardlink",
+        "sha256": "4fb8be6aa2669f8a9e51dd5d39d19b1af260b950246d6ea9d9ed65d75dc5056e",
+        "sha256_in_prefix": "4fb8be6aa2669f8a9e51dd5d39d19b1af260b950246d6ea9d9ed65d75dc5056e",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/5.png",
+        "path_type": "hardlink",
+        "sha256": "3896cbacbe50eebb9046bad16ca91783e8a8744077972b3969c0b66cd2d80bbd",
+        "sha256_in_prefix": "3896cbacbe50eebb9046bad16ca91783e8a8744077972b3969c0b66cd2d80bbd",
+        "size_in_bytes": 348
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/6.png",
+        "path_type": "hardlink",
+        "sha256": "50ee85e5bf9f7dd02ae5435ef0a024e9a8e3da48c645adb6b3fefa1e08f7d57e",
+        "sha256_in_prefix": "50ee85e5bf9f7dd02ae5435ef0a024e9a8e3da48c645adb6b3fefa1e08f7d57e",
+        "size_in_bytes": 355
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/7.png",
+        "path_type": "hardlink",
+        "sha256": "959986b33f56465e2acfe85004c168e0c0988b69ec726bf7f18f0936dacefa1f",
+        "sha256_in_prefix": "959986b33f56465e2acfe85004c168e0c0988b69ec726bf7f18f0936dacefa1f",
+        "size_in_bytes": 344
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/8.png",
+        "path_type": "hardlink",
+        "sha256": "d83c5780cc81d57722df16f34460fe9cca5a0a3671e46537ce2d1e4e8fb1c03d",
+        "sha256_in_prefix": "d83c5780cc81d57722df16f34460fe9cca5a0a3671e46537ce2d1e4e8fb1c03d",
+        "size_in_bytes": 357
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/callouts/9.png",
+        "path_type": "hardlink",
+        "sha256": "906a831c2403ae43b66e8241b1b1babb2db03e3c9fbebd9ec642466995f5eaf5",
+        "sha256_in_prefix": "906a831c2403ae43b66e8241b1b1babb2db03e3c9fbebd9ec642466995f5eaf5",
+        "size_in_bytes": 357
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/caution.png",
+        "path_type": "hardlink",
+        "sha256": "46751d5258726b4a656aa124a9503f5a5dfbfaafb30a751b4dd28e0a81bd8584",
+        "sha256_in_prefix": "46751d5258726b4a656aa124a9503f5a5dfbfaafb30a751b4dd28e0a81bd8584",
+        "size_in_bytes": 1250
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/draft.png",
+        "path_type": "hardlink",
+        "sha256": "26bc0751ae926095ca0bebd8cabcfd37c60403eee82ec5bcf377bccd087fa17d",
+        "sha256_in_prefix": "26bc0751ae926095ca0bebd8cabcfd37c60403eee82ec5bcf377bccd087fa17d",
+        "size_in_bytes": 17454
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/home.png",
+        "path_type": "hardlink",
+        "sha256": "4e153e9cfda19dd45a84cca62cda98c84825059378e05312e2c04c253d1c3da4",
+        "sha256_in_prefix": "4e153e9cfda19dd45a84cca62cda98c84825059378e05312e2c04c253d1c3da4",
+        "size_in_bytes": 1156
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/important.png",
+        "path_type": "hardlink",
+        "sha256": "0e9c96a5bffb8cf85e60f04013cee92c2c6fe035c433c6cf3b34675b68317325",
+        "sha256_in_prefix": "0e9c96a5bffb8cf85e60f04013cee92c2c6fe035c433c6cf3b34675b68317325",
+        "size_in_bytes": 722
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/next.png",
+        "path_type": "hardlink",
+        "sha256": "b434e58853769b7ec4c7f8659114f088b7721727a9e3442bb3a8f14fc2c87979",
+        "sha256_in_prefix": "b434e58853769b7ec4c7f8659114f088b7721727a9e3442bb3a8f14fc2c87979",
+        "size_in_bytes": 1150
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/note.png",
+        "path_type": "hardlink",
+        "sha256": "50b70e6738703b77c37e69c92453c272ac4d4f5fb0af660096c705fe3b3bb7ea",
+        "sha256_in_prefix": "50b70e6738703b77c37e69c92453c272ac4d4f5fb0af660096c705fe3b3bb7ea",
+        "size_in_bytes": 490
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/prev.png",
+        "path_type": "hardlink",
+        "sha256": "1bdcd1385d2518dac1218d843c1615a52a57e6e72c9d6af6b2cac013a2f2380c",
+        "sha256_in_prefix": "1bdcd1385d2518dac1218d843c1615a52a57e6e72c9d6af6b2cac013a2f2380c",
+        "size_in_bytes": 1132
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/tip.png",
+        "path_type": "hardlink",
+        "sha256": "2b15a81dcbbe904f31cb02de791c7c3ddc4ea641ad47a1a76ee17a4a78298d53",
+        "sha256_in_prefix": "2b15a81dcbbe904f31cb02de791c7c3ddc4ea641ad47a1a76ee17a4a78298d53",
+        "size_in_bytes": 449
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/toc-blank.png",
+        "path_type": "hardlink",
+        "sha256": "3d2532562e3857fcd4b6dab8a2d26899dd176c3e5e02acc923e93376c409419a",
+        "sha256_in_prefix": "3d2532562e3857fcd4b6dab8a2d26899dd176c3e5e02acc923e93376c409419a",
+        "size_in_bytes": 318
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/toc-minus.png",
+        "path_type": "hardlink",
+        "sha256": "4e8db41e0362fd6e2d4a245669e1e690551efb410730188424a523d978d0a984",
+        "sha256_in_prefix": "4e8db41e0362fd6e2d4a245669e1e690551efb410730188424a523d978d0a984",
+        "size_in_bytes": 259
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/toc-plus.png",
+        "path_type": "hardlink",
+        "sha256": "c3d13f969c5fc93db1bbdf1a0a20049f37745d9cf75c3a1a6b2ae1913d70c52f",
+        "sha256_in_prefix": "c3d13f969c5fc93db1bbdf1a0a20049f37745d9cf75c3a1a6b2ae1913d70c52f",
+        "size_in_bytes": 264
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/up.png",
+        "path_type": "hardlink",
+        "sha256": "b94ebd8431f86d2afed95a117a7df541d8b1e01cc6fc45eec57215f75af330d4",
+        "sha256_in_prefix": "b94ebd8431f86d2afed95a117a7df541d8b1e01cc6fc45eec57215f75af330d4",
+        "size_in_bytes": 1111
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/images/warning.png",
+        "path_type": "hardlink",
+        "sha256": "5de66420a0c84b49d14caff2d305b28b035a1603a114db4b52f0d83f5e7f9580",
+        "sha256_in_prefix": "5de66420a0c84b49d14caff2d305b28b035a1603a114db4b52f0d83f5e7f9580",
+        "size_in_bytes": 1241
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includeaddattribute.c",
+        "path_type": "hardlink",
+        "sha256": "5fa754c067d92c7cce814a1ff9a96d0f14754b51ccd8a608dded4e63eef352df",
+        "sha256_in_prefix": "5fa754c067d92c7cce814a1ff9a96d0f14754b51ccd8a608dded4e63eef352df",
+        "size_in_bytes": 1136
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includeaddkeyword.c",
+        "path_type": "hardlink",
+        "sha256": "cc2cc977950590d16318f495ef6d2424442ded56d62c7f308a499a82865a88e9",
+        "sha256_in_prefix": "cc2cc977950590d16318f495ef6d2424442ded56d62c7f308a499a82865a88e9",
+        "size_in_bytes": 1320
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includeconvert.c",
+        "path_type": "hardlink",
+        "sha256": "520a523b840b7ddf7d6d024f87fdf72361ffa3c61f95584d4d18b9c0b20e6d6b",
+        "sha256_in_prefix": "520a523b840b7ddf7d6d024f87fdf72361ffa3c61f95584d4d18b9c0b20e6d6b",
+        "size_in_bytes": 1808
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includegetattribute.c",
+        "path_type": "hardlink",
+        "sha256": "389c0ad94bd9ee6a082765cf504e95d6a76277c2c46df638ff2494b4f5f96654",
+        "sha256_in_prefix": "389c0ad94bd9ee6a082765cf504e95d6a76277c2c46df638ff2494b4f5f96654",
+        "size_in_bytes": 1171
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includekeyword.c",
+        "path_type": "hardlink",
+        "sha256": "e3fd26a53b929370324997a155f569e9d6bd0a5ecf830ad39a2eda0ad918b8d5",
+        "sha256_in_prefix": "e3fd26a53b929370324997a155f569e9d6bd0a5ecf830ad39a2eda0ad918b8d5",
+        "size_in_bytes": 1351
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/includexpath.c",
+        "path_type": "hardlink",
+        "sha256": "03b566f10d2b0f69663a107b15ac0217e6dbc0fda7ce0cb638ccc189e1dd65bd",
+        "sha256_in_prefix": "03b566f10d2b0f69663a107b15ac0217e6dbc0fda7ce0cb638ccc189e1dd65bd",
+        "size_in_bytes": 1491
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/index.html",
+        "path_type": "hardlink",
+        "sha256": "1adfd9a26e7bc2760772df2cbe1abafd57eb299b2be01c31d8e169dacd4bd8d8",
+        "sha256_in_prefix": "1adfd9a26e7bc2760772df2cbe1abafd57eb299b2be01c31d8e169dacd4bd8d8",
+        "size_in_bytes": 5930
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/ix01.html",
+        "path_type": "hardlink",
+        "sha256": "1454fbaed7b3721d7268fa7169584c8061ccef8ed8dd7da493f09c3f2b32d55f",
+        "sha256_in_prefix": "1454fbaed7b3721d7268fa7169584c8061ccef8ed8dd7da493f09c3f2b32d55f",
+        "size_in_bytes": 2545
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/tutorial/xmltutorial.pdf",
+        "path_type": "hardlink",
+        "sha256": "46dc02474082aa913b63a5eec01f442a478c53745efcd3db45629b049d165ac6",
+        "sha256_in_prefix": "46dc02474082aa913b63a5eec01f442a478c53745efcd3db45629b049d165ac6",
+        "size_in_bytes": 51709
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/w3c.png",
+        "path_type": "hardlink",
+        "sha256": "3bd43feee0643fb7d007d2c7882a08fff2013a8ef217e6cbdcca343a6f09550a",
+        "sha256_in_prefix": "3bd43feee0643fb7d007d2c7882a08fff2013a8ef217e6cbdcca343a6f09550a",
+        "size_in_bytes": 2028
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/writer.xml",
+        "path_type": "hardlink",
+        "sha256": "029b6a65e4ed8c559dd48d2494ca2429e50155631cb855109d1a21d934745c4d",
+        "sha256_in_prefix": "029b6a65e4ed8c559dd48d2494ca2429e50155631cb855109d1a21d934745c4d",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xml.html",
+        "path_type": "hardlink",
+        "sha256": "e294a75b8e84dc85bbc325199f4390c2e8c8dac0aa658212e34a3d5845a3c3c2",
+        "sha256_in_prefix": "e294a75b8e84dc85bbc325199f4390c2e8c8dac0aa658212e34a3d5845a3c3c2",
+        "size_in_bytes": 291909
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath1.c",
+        "path_type": "hardlink",
+        "sha256": "3e4a96aafb63dde543d09eee820a42eb1ccfe290261cbf2dacc17b8fed26fd4b",
+        "sha256_in_prefix": "3e4a96aafb63dde543d09eee820a42eb1ccfe290261cbf2dacc17b8fed26fd4b",
+        "size_in_bytes": 6624
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath1.res",
+        "path_type": "hardlink",
+        "sha256": "2f0d943003e26b907a20229e87676990cf93a4dbd3404e6c24542e13c9e40aec",
+        "sha256_in_prefix": "2f0d943003e26b907a20229e87676990cf93a4dbd3404e6c24542e13c9e40aec",
+        "size_in_bytes": 114
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath2.c",
+        "path_type": "hardlink",
+        "sha256": "798ffd07a710a40462a38e225387254619f400fb79ffc27c88c81877c468d2fa",
+        "sha256_in_prefix": "798ffd07a710a40462a38e225387254619f400fb79ffc27c88c81877c468d2fa",
+        "size_in_bytes": 5330
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-2.9.3/html/xpath2.res",
+        "path_type": "hardlink",
+        "sha256": "9fd99acd426cf3fca91eb8fd83de345e31b58101ec7c67667adb3f799bc7eba3",
+        "sha256_in_prefix": "9fd99acd426cf3fca91eb8fd83de345e31b58101ec7c67667adb3f799bc7eba3",
+        "size_in_bytes": 757
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/TODO",
+        "path_type": "hardlink",
+        "sha256": "3493f94d408ec7485884aab29849f89948933a9ad90814195b4ccecfb0c3cb5f",
+        "sha256_in_prefix": "3493f94d408ec7485884aab29849f89948933a9ad90814195b4ccecfb0c3cb5f",
+        "size_in_bytes": 1623
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/attribs.py",
+        "path_type": "hardlink",
+        "sha256": "5c03a74ad276780f22cd27bc5587163e23351c4a148e446c05ad0ae8f9413531",
+        "sha256_in_prefix": "5c03a74ad276780f22cd27bc5587163e23351c4a148e446c05ad0ae8f9413531",
+        "size_in_bytes": 819
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/build.py",
+        "path_type": "hardlink",
+        "sha256": "380169713b027ebcc07247dcf7b6e47946a046c3a3b5e19b411e63f7e3a98eb7",
+        "sha256_in_prefix": "380169713b027ebcc07247dcf7b6e47946a046c3a3b5e19b411e63f7e3a98eb7",
+        "size_in_bytes": 1551
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/compareNodes.py",
+        "path_type": "hardlink",
+        "sha256": "d6b2cf9784a83919fff9226c03245a37753c65f7e8024046a5cf6611d25ac4f7",
+        "sha256_in_prefix": "d6b2cf9784a83919fff9226c03245a37753c65f7e8024046a5cf6611d25ac4f7",
+        "size_in_bytes": 1516
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/ctxterror.py",
+        "path_type": "hardlink",
+        "sha256": "10692dba0adee063c0601c1ba3f6d05805420712792a43774201b62f11a25b5f",
+        "sha256_in_prefix": "10692dba0adee063c0601c1ba3f6d05805420712792a43774201b62f11a25b5f",
+        "size_in_bytes": 1324
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/cutnpaste.py",
+        "path_type": "hardlink",
+        "sha256": "88dfc2e31c6c1d00b939cbac49004d1e12d09425482069acbc2e4179c10d1d70",
+        "sha256_in_prefix": "88dfc2e31c6c1d00b939cbac49004d1e12d09425482069acbc2e4179c10d1d70",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/dtdvalid.py",
+        "path_type": "hardlink",
+        "sha256": "ce6e1d2b8fb211956bc3bedfe4a3fa5f740095294ebde4083cd5f31a5bfbe6e7",
+        "sha256_in_prefix": "ce6e1d2b8fb211956bc3bedfe4a3fa5f740095294ebde4083cd5f31a5bfbe6e7",
+        "size_in_bytes": 619
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/error.py",
+        "path_type": "hardlink",
+        "sha256": "8257f7bdba92c41b431869ad8715cef2d7229cc981240ec904c89ee088b18e25",
+        "sha256_in_prefix": "8257f7bdba92c41b431869ad8715cef2d7229cc981240ec904c89ee088b18e25",
+        "size_in_bytes": 1061
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/inbuf.py",
+        "path_type": "hardlink",
+        "sha256": "12b40c38d5a2e6b6274d88553f020941ed88cda31e88cba32532f1cd752e0f8c",
+        "sha256_in_prefix": "12b40c38d5a2e6b6274d88553f020941ed88cda31e88cba32532f1cd752e0f8c",
+        "size_in_bytes": 498
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/indexes.py",
+        "path_type": "hardlink",
+        "sha256": "084b8337edd1027f184c81ca1bc0f0ccd3c4e4c42d06a6224f0444ebd6ff46ba",
+        "sha256_in_prefix": "084b8337edd1027f184c81ca1bc0f0ccd3c4e4c42d06a6224f0444ebd6ff46ba",
+        "size_in_bytes": 2968
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/input_callback.py",
+        "path_type": "hardlink",
+        "sha256": "4735c1d1a788865465cdbfdd8c85a89a088b32047a9409eac73fbe4741813c7d",
+        "sha256_in_prefix": "4735c1d1a788865465cdbfdd8c85a89a088b32047a9409eac73fbe4741813c7d",
+        "size_in_bytes": 5126
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/invalid.xml",
+        "path_type": "hardlink",
+        "sha256": "c362c9d1f1f156e29177d474d5aae8bfac832c45683b89943d192f0f720da10b",
+        "sha256_in_prefix": "c362c9d1f1f156e29177d474d5aae8bfac832c45683b89943d192f0f720da10b",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/nsdel.py",
+        "path_type": "hardlink",
+        "sha256": "2d8f1d339e45ce3d461a4233dde5ff3c72611043a59df3415fd09ed6b0021144",
+        "sha256_in_prefix": "2d8f1d339e45ce3d461a4233dde5ff3c72611043a59df3415fd09ed6b0021144",
+        "size_in_bytes": 1589
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/outbuf.py",
+        "path_type": "hardlink",
+        "sha256": "87d70a56f07787f91da715075e003601905b2267314828759360c3c293e788d6",
+        "sha256_in_prefix": "87d70a56f07787f91da715075e003601905b2267314828759360c3c293e788d6",
+        "size_in_bytes": 3145
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/push.py",
+        "path_type": "hardlink",
+        "sha256": "33baab5fbd2aad49ae3d7c5c78db34e8f662ffd4debae3550e5619c0c6066e5c",
+        "sha256_in_prefix": "33baab5fbd2aad49ae3d7c5c78db34e8f662ffd4debae3550e5619c0c6066e5c",
+        "size_in_bytes": 769
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/pushSAX.py",
+        "path_type": "hardlink",
+        "sha256": "7fc13b816beb54e8198ef1b55e6072982955b64b4668d57886b4d42d045a8fba",
+        "sha256_in_prefix": "7fc13b816beb54e8198ef1b55e6072982955b64b4668d57886b4d42d045a8fba",
+        "size_in_bytes": 1494
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/pushSAXhtml.py",
+        "path_type": "hardlink",
+        "sha256": "d3b9d5190dc80d97a803fe5263d9fcaed1a048c84a0fd2fcff48624d75d61de2",
+        "sha256_in_prefix": "d3b9d5190dc80d97a803fe5263d9fcaed1a048c84a0fd2fcff48624d75d61de2",
+        "size_in_bytes": 1612
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader.py",
+        "path_type": "hardlink",
+        "sha256": "f059104d7180b4e0276c3f5d4463ca6ea7bc8970641cf41fd2e2d7d90d856d0d",
+        "sha256_in_prefix": "f059104d7180b4e0276c3f5d4463ca6ea7bc8970641cf41fd2e2d7d90d856d0d",
+        "size_in_bytes": 12521
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader2.py",
+        "path_type": "hardlink",
+        "sha256": "c9a0ca07259dcf4c8bc42645fdd8c09d4e3ba858cab86a782ec66186284c015c",
+        "sha256_in_prefix": "c9a0ca07259dcf4c8bc42645fdd8c09d4e3ba858cab86a782ec66186284c015c",
+        "size_in_bytes": 5345
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader3.py",
+        "path_type": "hardlink",
+        "sha256": "3d927186f0060e062b0014f5ab7efeea7c93adcaebb2735330568e597e76b196",
+        "sha256_in_prefix": "3d927186f0060e062b0014f5ab7efeea7c93adcaebb2735330568e597e76b196",
+        "size_in_bytes": 4153
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader4.py",
+        "path_type": "hardlink",
+        "sha256": "ce31e8a2f786429ba11c33fded44d46e114efa57c37b68134fe6f7beed6be681",
+        "sha256_in_prefix": "ce31e8a2f786429ba11c33fded44d46e114efa57c37b68134fe6f7beed6be681",
+        "size_in_bytes": 1179
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader5.py",
+        "path_type": "hardlink",
+        "sha256": "73037634d515003748d51df9fc005164bf45b92cf32ea26bfd03a02a3e1251a8",
+        "sha256_in_prefix": "73037634d515003748d51df9fc005164bf45b92cf32ea26bfd03a02a3e1251a8",
+        "size_in_bytes": 1251
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader6.py",
+        "path_type": "hardlink",
+        "sha256": "dc8b28b60f96525480182c038ccbe72da43deac6adb560af54de84a6b1287806",
+        "sha256_in_prefix": "dc8b28b60f96525480182c038ccbe72da43deac6adb560af54de84a6b1287806",
+        "size_in_bytes": 2673
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader7.py",
+        "path_type": "hardlink",
+        "sha256": "bdf24f42f4fabd6c14fd249c28ae23039f490acd764480d0cd7f910e056f89bb",
+        "sha256_in_prefix": "bdf24f42f4fabd6c14fd249c28ae23039f490acd764480d0cd7f910e056f89bb",
+        "size_in_bytes": 1758
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/reader8.py",
+        "path_type": "hardlink",
+        "sha256": "d87f79fea1ff942e2e0c1d6620a8d8661164cdebb0d611f4bf9aafe6423c74af",
+        "sha256_in_prefix": "d87f79fea1ff942e2e0c1d6620a8d8661164cdebb0d611f4bf9aafe6423c74af",
+        "size_in_bytes": 683
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/readererr.py",
+        "path_type": "hardlink",
+        "sha256": "5946706d0bac15f464aa8c583189f4319882980baf0303e9030d1f7aaa7f3e20",
+        "sha256_in_prefix": "5946706d0bac15f464aa8c583189f4319882980baf0303e9030d1f7aaa7f3e20",
+        "size_in_bytes": 1279
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/readernext.py",
+        "path_type": "hardlink",
+        "sha256": "65f93cdf022f5cf5a54e75dfd8e603136b38777d1dc42fbd588a5b91ef157e7b",
+        "sha256_in_prefix": "65f93cdf022f5cf5a54e75dfd8e603136b38777d1dc42fbd588a5b91ef157e7b",
+        "size_in_bytes": 2484
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/regexp.py",
+        "path_type": "hardlink",
+        "sha256": "d3d05c0ceb3b5d6e4093fa09eb4762d134c33ea4420cf77b35c6fb1714b1ea77",
+        "sha256_in_prefix": "d3d05c0ceb3b5d6e4093fa09eb4762d134c33ea4420cf77b35c6fb1714b1ea77",
+        "size_in_bytes": 716
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/relaxng.py",
+        "path_type": "hardlink",
+        "sha256": "ae04c31cd5d50e52c49073f55a2b4e402be4fea3f15f40163e9131581251f621",
+        "sha256_in_prefix": "ae04c31cd5d50e52c49073f55a2b4e402be4fea3f15f40163e9131581251f621",
+        "size_in_bytes": 1203
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/resolver.py",
+        "path_type": "hardlink",
+        "sha256": "6e8dd170c8fcbafc4fa80de55bb50a69ab5915b4ada4e1957b26db269d96d2dd",
+        "sha256_in_prefix": "6e8dd170c8fcbafc4fa80de55bb50a69ab5915b4ada4e1957b26db269d96d2dd",
+        "size_in_bytes": 857
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/schema.py",
+        "path_type": "hardlink",
+        "sha256": "3029a99875e64ad4a9cfab4872084da559493802801fdbc81b556ec0d0b1c511",
+        "sha256_in_prefix": "3029a99875e64ad4a9cfab4872084da559493802801fdbc81b556ec0d0b1c511",
+        "size_in_bytes": 1310
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/serialize.py",
+        "path_type": "hardlink",
+        "sha256": "57f4914b3450bfe0a897d7142f646b7d356bfd9b0011868a93c6c8dc76771d1e",
+        "sha256_in_prefix": "57f4914b3450bfe0a897d7142f646b7d356bfd9b0011868a93c6c8dc76771d1e",
+        "size_in_bytes": 4277
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/sync.py",
+        "path_type": "hardlink",
+        "sha256": "5c645cdea531c86c9d76f040297341b4adf1e792001a9e732fe64ea7fad815c1",
+        "sha256_in_prefix": "5c645cdea531c86c9d76f040297341b4adf1e792001a9e732fe64ea7fad815c1",
+        "size_in_bytes": 3882
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/test.dtd",
+        "path_type": "hardlink",
+        "sha256": "2db653e22c6b70eeea3c73e901b8357185de67081f7925346b283c17be33a826",
+        "sha256_in_prefix": "2db653e22c6b70eeea3c73e901b8357185de67081f7925346b283c17be33a826",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/thread2.py",
+        "path_type": "hardlink",
+        "sha256": "9e4967a6cf4170463dce11115658b1f10928e87b8a113af991951ac697482d06",
+        "sha256_in_prefix": "9e4967a6cf4170463dce11115658b1f10928e87b8a113af991951ac697482d06",
+        "size_in_bytes": 2306
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tst.py",
+        "path_type": "hardlink",
+        "sha256": "5706ad8c88efbefa478b1e8ebcb429952516b0ca835795347f09d54241d49d50",
+        "sha256_in_prefix": "5706ad8c88efbefa478b1e8ebcb429952516b0ca835795347f09d54241d49d50",
+        "size_in_bytes": 587
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tst.xml",
+        "path_type": "hardlink",
+        "sha256": "24702979009ea28cd26d573fe2dd86676e99685b28cb943b5a74b79a36f34b63",
+        "sha256_in_prefix": "24702979009ea28cd26d573fe2dd86676e99685b28cb943b5a74b79a36f34b63",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstLastError.py",
+        "path_type": "hardlink",
+        "sha256": "a24b1ef3c8761476f96c9efd9d6f4187e9114083ffcccdf68e3208fceb9649e8",
+        "sha256_in_prefix": "a24b1ef3c8761476f96c9efd9d6f4187e9114083ffcccdf68e3208fceb9649e8",
+        "size_in_bytes": 2902
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstURI.py",
+        "path_type": "hardlink",
+        "sha256": "33d20ab8fac08edb5744671b6657bff4aa72103639e7ad4a1a0b882d68933ed9",
+        "sha256_in_prefix": "33d20ab8fac08edb5744671b6657bff4aa72103639e7ad4a1a0b882d68933ed9",
+        "size_in_bytes": 1103
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstmem.py",
+        "path_type": "hardlink",
+        "sha256": "85f53c610cfd612da3b50b10a85b9a7839448dd0ed8495ab18cf4007b9decbca",
+        "sha256_in_prefix": "85f53c610cfd612da3b50b10a85b9a7839448dd0ed8495ab18cf4007b9decbca",
+        "size_in_bytes": 720
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/tstxpath.py",
+        "path_type": "hardlink",
+        "sha256": "1941f6cdc3e533112cecbb4d44e685746069703b26d1f6fb26f25fdbddde6f55",
+        "sha256_in_prefix": "1941f6cdc3e533112cecbb4d44e685746069703b26d1f6fb26f25fdbddde6f55",
+        "size_in_bytes": 1465
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/valid.xml",
+        "path_type": "hardlink",
+        "sha256": "afb68302b1341fc3cc01fdcf6a29467d9d7663b10a84b91e6244cd401ddd3f38",
+        "sha256_in_prefix": "afb68302b1341fc3cc01fdcf6a29467d9d7663b10a84b91e6244cd401ddd3f38",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validDTD.py",
+        "path_type": "hardlink",
+        "sha256": "75190a68c95e15a360738f0e6d30023063bdf5cd3c22d33f1e8778788a15adb0",
+        "sha256_in_prefix": "75190a68c95e15a360738f0e6d30023063bdf5cd3c22d33f1e8778788a15adb0",
+        "size_in_bytes": 1225
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validRNG.py",
+        "path_type": "hardlink",
+        "sha256": "19a60466c9f1ff384872e9406570d844d9220cd8a8eda1d7096cebe41959fa82",
+        "sha256_in_prefix": "19a60466c9f1ff384872e9406570d844d9220cd8a8eda1d7096cebe41959fa82",
+        "size_in_bytes": 1945
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validSchemas.py",
+        "path_type": "hardlink",
+        "sha256": "b21dc1379b08cda38713c03b11fcc49f7ba3107e1e9d2734fe9f3b2d9b2b42e5",
+        "sha256_in_prefix": "b21dc1379b08cda38713c03b11fcc49f7ba3107e1e9d2734fe9f3b2d9b2b42e5",
+        "size_in_bytes": 2065
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/validate.py",
+        "path_type": "hardlink",
+        "sha256": "eba7c19b188f23e92fc55de6a0e8aeed09c28679ab5cbf7ba7380b9298f7a8c9",
+        "sha256_in_prefix": "eba7c19b188f23e92fc55de6a0e8aeed09c28679ab5cbf7ba7380b9298f7a8c9",
+        "size_in_bytes": 1720
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/walker.py",
+        "path_type": "hardlink",
+        "sha256": "6f31540b161de62846aacd9d12662cd1ec514a8537f1de227625b45f85aee6dd",
+        "sha256_in_prefix": "6f31540b161de62846aacd9d12662cd1ec514a8537f1de227625b45f85aee6dd",
+        "size_in_bytes": 2408
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpath.py",
+        "path_type": "hardlink",
+        "sha256": "bed086f942f17edc82d51be74edea32dd668a884c1ea0da7af4afb80c02a3e1f",
+        "sha256_in_prefix": "bed086f942f17edc82d51be74edea32dd668a884c1ea0da7af4afb80c02a3e1f",
+        "size_in_bytes": 1195
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathext.py",
+        "path_type": "hardlink",
+        "sha256": "3d7c3f633ffa5ba6aabdf5bf43c03cc306b4adacef1666111bd6340ca4bd0b6e",
+        "sha256_in_prefix": "3d7c3f633ffa5ba6aabdf5bf43c03cc306b4adacef1666111bd6340ca4bd0b6e",
+        "size_in_bytes": 1124
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathleak.py",
+        "path_type": "hardlink",
+        "sha256": "1f65c36a1a1687fc829315cd46a0fc77bc00bd98ca51e05af92aa19be6b26a85",
+        "sha256_in_prefix": "1f65c36a1a1687fc829315cd46a0fc77bc00bd98ca51e05af92aa19be6b26a85",
+        "size_in_bytes": 1563
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathns.py",
+        "path_type": "hardlink",
+        "sha256": "393186756b5d59eaeb79ef71929f74eeb861a1d29bd6f5cc55394f7f076bc4ad",
+        "sha256_in_prefix": "393186756b5d59eaeb79ef71929f74eeb861a1d29bd6f5cc55394f7f076bc4ad",
+        "size_in_bytes": 552
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libxml2-python-2.9.3/examples/xpathret.py",
+        "path_type": "hardlink",
+        "sha256": "5512fdc3bfad5f729842305f300e9cd48252f42045fbb31a511f6311f019488b",
+        "sha256_in_prefix": "5512fdc3bfad5f729842305f300e9cd48252f42045fbb31a511f6311f019488b",
+        "size_in_bytes": 1319
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/general.html",
+        "path_type": "hardlink",
+        "sha256": "c30006b44503ba36d29606375ed9c12bc13e2530ab597249fd46927f7ce2037c",
+        "sha256_in_prefix": "c30006b44503ba36d29606375ed9c12bc13e2530ab597249fd46927f7ce2037c",
+        "size_in_bytes": 5470
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/home.png",
+        "path_type": "hardlink",
+        "sha256": "034c231513fea72bbc788109596f9b35db7b87e270c19c8b3dd22940fb35e6be",
+        "sha256_in_prefix": "034c231513fea72bbc788109596f9b35db7b87e270c19c8b3dd22940fb35e6be",
+        "size_in_bytes": 654
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/index.html",
+        "path_type": "hardlink",
+        "sha256": "43baf0c922dbf8aba70f4bb793470a1f3991c315767f580caa35f0afb2d0687f",
+        "sha256_in_prefix": "43baf0c922dbf8aba70f4bb793470a1f3991c315767f580caa35f0afb2d0687f",
+        "size_in_bytes": 4321
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/left.png",
+        "path_type": "hardlink",
+        "sha256": "9ae091e52c667a72d77eb6c41cd9afc7af60bc89bfc3023248b1dc3bb7dbf461",
+        "sha256_in_prefix": "9ae091e52c667a72d77eb6c41cd9afc7af60bc89bfc3023248b1dc3bb7dbf461",
+        "size_in_bytes": 459
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-DOCBparser.html",
+        "path_type": "hardlink",
+        "sha256": "2c34959be04b3e3a05417e65a8b1fee26829bbc6cf2d11afb77b4d0a1deea749",
+        "sha256_in_prefix": "2c34959be04b3e3a05417e65a8b1fee26829bbc6cf2d11afb77b4d0a1deea749",
+        "size_in_bytes": 17361
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-HTMLparser.html",
+        "path_type": "hardlink",
+        "sha256": "1af6e3fad3aa5c76a97e7797af9bb51bfc1774d71bdcbe48e0897ad36711f8c5",
+        "sha256_in_prefix": "1af6e3fad3aa5c76a97e7797af9bb51bfc1774d71bdcbe48e0897ad36711f8c5",
+        "size_in_bytes": 58095
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-HTMLtree.html",
+        "path_type": "hardlink",
+        "sha256": "836c40a800ec60076313ccf5875ce4ca332ebe35f12fe1f5cd5a75f38f506242",
+        "sha256_in_prefix": "836c40a800ec60076313ccf5875ce4ca332ebe35f12fe1f5cd5a75f38f506242",
+        "size_in_bytes": 24416
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-SAX.html",
+        "path_type": "hardlink",
+        "sha256": "8cbf58017e00c9f121cfd2a4e6c96a75e26723de910e91330152ebf0dbe9c4af",
+        "sha256_in_prefix": "8cbf58017e00c9f121cfd2a4e6c96a75e26723de910e91330152ebf0dbe9c4af",
+        "size_in_bytes": 38875
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-SAX2.html",
+        "path_type": "hardlink",
+        "sha256": "00ac32300a489cf92878c67d313e8a797e55a368766373b7b295ddb26082ccc0",
+        "sha256_in_prefix": "00ac32300a489cf92878c67d313e8a797e55a368766373b7b295ddb26082ccc0",
+        "size_in_bytes": 39659
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-c14n.html",
+        "path_type": "hardlink",
+        "sha256": "6d8cdf5182308ebf3cdaeeb0a4402f1103db66e4aa0117a5b629fea52ba4f692",
+        "sha256_in_prefix": "6d8cdf5182308ebf3cdaeeb0a4402f1103db66e4aa0117a5b629fea52ba4f692",
+        "size_in_bytes": 13546
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-catalog.html",
+        "path_type": "hardlink",
+        "sha256": "f42654b4f4332fe3de583fe7cdce73357a3a496bbfb1e04369ff8d40e66c576b",
+        "sha256_in_prefix": "f42654b4f4332fe3de583fe7cdce73357a3a496bbfb1e04369ff8d40e66c576b",
+        "size_in_bytes": 36549
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-chvalid.html",
+        "path_type": "hardlink",
+        "sha256": "a54650b1252faa112e4d3254e1f5ec2a20f3c0d061b2a2b334f8329a59fe56f5",
+        "sha256_in_prefix": "a54650b1252faa112e4d3254e1f5ec2a20f3c0d061b2a2b334f8329a59fe56f5",
+        "size_in_bytes": 19835
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-debugXML.html",
+        "path_type": "hardlink",
+        "sha256": "7b7ebe121aa5cd7041544b3ea8163f9dc65ff2df967957e89954cd7d9f0f637d",
+        "sha256_in_prefix": "7b7ebe121aa5cd7041544b3ea8163f9dc65ff2df967957e89954cd7d9f0f637d",
+        "size_in_bytes": 33317
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-dict.html",
+        "path_type": "hardlink",
+        "sha256": "d9eeec07b093ef5b3be59ed9b22372dbe75c9b78966b85fe1eef5bb62da90cdb",
+        "sha256_in_prefix": "d9eeec07b093ef5b3be59ed9b22372dbe75c9b78966b85fe1eef5bb62da90cdb",
+        "size_in_bytes": 13582
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-encoding.html",
+        "path_type": "hardlink",
+        "sha256": "c4c0b623b09a6e9f1483bc837835df6a4f5311a16c8a3425fd0e539346214381",
+        "sha256_in_prefix": "c4c0b623b09a6e9f1483bc837835df6a4f5311a16c8a3425fd0e539346214381",
+        "size_in_bytes": 29515
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-entities.html",
+        "path_type": "hardlink",
+        "sha256": "1f45ee992fcee975bec18c784d806734974b1b5fca9762b6ba88a5e747772dc2",
+        "sha256_in_prefix": "1f45ee992fcee975bec18c784d806734974b1b5fca9762b6ba88a5e747772dc2",
+        "size_in_bytes": 23126
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-globals.html",
+        "path_type": "hardlink",
+        "sha256": "797ced5ced3e260d98d4f6211eed1382755106bee8baa107eadee5f3489b6ceb",
+        "sha256_in_prefix": "797ced5ced3e260d98d4f6211eed1382755106bee8baa107eadee5f3489b6ceb",
+        "size_in_bytes": 35642
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-hash.html",
+        "path_type": "hardlink",
+        "sha256": "75598998445362e7879dc79565bbf8d800e96c31c786cd04efa076e140d77bcb",
+        "sha256_in_prefix": "75598998445362e7879dc79565bbf8d800e96c31c786cd04efa076e140d77bcb",
+        "size_in_bytes": 42055
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-list.html",
+        "path_type": "hardlink",
+        "sha256": "2bd7d11e98e2635e29ffef7d74b2c744eac3bcf0a7d5aa4b97bc6b22fff8cbe4",
+        "sha256_in_prefix": "2bd7d11e98e2635e29ffef7d74b2c744eac3bcf0a7d5aa4b97bc6b22fff8cbe4",
+        "size_in_bytes": 25568
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-nanoftp.html",
+        "path_type": "hardlink",
+        "sha256": "b1235a08832fa7b5393c4b5e022e36debcbb90cfe898f099611bfb28dc527d4c",
+        "sha256_in_prefix": "b1235a08832fa7b5393c4b5e022e36debcbb90cfe898f099611bfb28dc527d4c",
+        "size_in_bytes": 22403
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-nanohttp.html",
+        "path_type": "hardlink",
+        "sha256": "cda44e47e397b5bb14ebf6bb24595f8739b78cf9b36e88779b8f523e068a2711",
+        "sha256_in_prefix": "cda44e47e397b5bb14ebf6bb24595f8739b78cf9b36e88779b8f523e068a2711",
+        "size_in_bytes": 16614
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-parser.html",
+        "path_type": "hardlink",
+        "sha256": "c09492c55d66f77b60826672ee7cc46ea01548960a73bb5856553f4aa3ee2b3e",
+        "sha256_in_prefix": "c09492c55d66f77b60826672ee7cc46ea01548960a73bb5856553f4aa3ee2b3e",
+        "size_in_bytes": 137495
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-parserInternals.html",
+        "path_type": "hardlink",
+        "sha256": "0aecdc3032d4368144235d233458a386b454de3adb001266b616f547163037c1",
+        "sha256_in_prefix": "0aecdc3032d4368144235d233458a386b454de3adb001266b616f547163037c1",
+        "size_in_bytes": 125357
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-pattern.html",
+        "path_type": "hardlink",
+        "sha256": "52d5a43b2e4115ccef9f2b02c55d39ada441c953d1fdf31edfbeb6c794154783",
+        "sha256_in_prefix": "52d5a43b2e4115ccef9f2b02c55d39ada441c953d1fdf31edfbeb6c794154783",
+        "size_in_bytes": 19362
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-relaxng.html",
+        "path_type": "hardlink",
+        "sha256": "23744b11cfabfe7032014565223b95c140945d67e667fa98c1b06c6b14807a02",
+        "sha256_in_prefix": "23744b11cfabfe7032014565223b95c140945d67e667fa98c1b06c6b14807a02",
+        "size_in_bytes": 35230
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-schemasInternals.html",
+        "path_type": "hardlink",
+        "sha256": "2fcdcdc85348958554c0ab609a05af0c4b95e613cafef0c9967ece018441863c",
+        "sha256_in_prefix": "2fcdcdc85348958554c0ab609a05af0c4b95e613cafef0c9967ece018441863c",
+        "size_in_bytes": 65119
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-schematron.html",
+        "path_type": "hardlink",
+        "sha256": "a7fd20ef5ae983371a4631baa1cc7639ee69c05b0b97592183c80e91ad7cd3be",
+        "sha256_in_prefix": "a7fd20ef5ae983371a4631baa1cc7639ee69c05b0b97592183c80e91ad7cd3be",
+        "size_in_bytes": 17105
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-threads.html",
+        "path_type": "hardlink",
+        "sha256": "d92a1c152333cfd02313ceca31e9d91eeba942908c50503f3ebc2f80d5cccffc",
+        "sha256_in_prefix": "d92a1c152333cfd02313ceca31e9d91eeba942908c50503f3ebc2f80d5cccffc",
+        "size_in_bytes": 12896
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-tree.html",
+        "path_type": "hardlink",
+        "sha256": "be237f412a1a47c5a34513d2917fb18c687b10c536f7c8c7362461ee5ad1dd0e",
+        "sha256_in_prefix": "be237f412a1a47c5a34513d2917fb18c687b10c536f7c8c7362461ee5ad1dd0e",
+        "size_in_bytes": 234515
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-uri.html",
+        "path_type": "hardlink",
+        "sha256": "d2e85c967d01f16cddeaaf5f1b1533804b974ef5e11076fe367cb02ff6cf08a3",
+        "sha256_in_prefix": "d2e85c967d01f16cddeaaf5f1b1533804b974ef5e11076fe367cb02ff6cf08a3",
+        "size_in_bytes": 18434
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-valid.html",
+        "path_type": "hardlink",
+        "sha256": "a5a8978f2285589f0ed0387fc72fdac6b30e1b262d169bc74c48f72348970fda",
+        "sha256_in_prefix": "a5a8978f2285589f0ed0387fc72fdac6b30e1b262d169bc74c48f72348970fda",
+        "size_in_bytes": 98504
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xinclude.html",
+        "path_type": "hardlink",
+        "sha256": "24c48c31fb313cfb8efc91eb3bba525fadd936a5564a02d35ab840700e7cd94e",
+        "sha256_in_prefix": "24c48c31fb313cfb8efc91eb3bba525fadd936a5564a02d35ab840700e7cd94e",
+        "size_in_bytes": 15920
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xlink.html",
+        "path_type": "hardlink",
+        "sha256": "66cc9fafcd06c2d4079eff2c73c4286bbc1128ca99456e244c3eec95db26c417",
+        "sha256_in_prefix": "66cc9fafcd06c2d4079eff2c73c4286bbc1128ca99456e244c3eec95db26c417",
+        "size_in_bytes": 17329
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlIO.html",
+        "path_type": "hardlink",
+        "sha256": "b38c5cea81c45b66cf631bbc1829af9618b18ed46fd1d96b4aaa714cdc29af49",
+        "sha256_in_prefix": "b38c5cea81c45b66cf631bbc1829af9618b18ed46fd1d96b4aaa714cdc29af49",
+        "size_in_bytes": 57496
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlautomata.html",
+        "path_type": "hardlink",
+        "sha256": "f237e00f3a2670da0a470235642a8610e4d9ae32b36fbd5a509b9365563d5692",
+        "sha256_in_prefix": "f237e00f3a2670da0a470235642a8610e4d9ae32b36fbd5a509b9365563d5692",
+        "size_in_bytes": 35179
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlerror.html",
+        "path_type": "hardlink",
+        "sha256": "152658c93cbb49250bcfb82abca52050de41892a1f0b6f12831568a72b3ffa1a",
+        "sha256_in_prefix": "152658c93cbb49250bcfb82abca52050de41892a1f0b6f12831568a72b3ffa1a",
+        "size_in_bytes": 84713
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlexports.html",
+        "path_type": "hardlink",
+        "sha256": "cd691a2db88e44c92d1e63fb35cbf68977c24deb1cabf4c86b6e9d1029569f48",
+        "sha256_in_prefix": "cd691a2db88e44c92d1e63fb35cbf68977c24deb1cabf4c86b6e9d1029569f48",
+        "size_in_bytes": 3585
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlmemory.html",
+        "path_type": "hardlink",
+        "sha256": "e3d7143aac3ae92f00d5fc51988c869dea5cc62415b82a26c4e5cad8e894260d",
+        "sha256_in_prefix": "e3d7143aac3ae92f00d5fc51988c869dea5cc62415b82a26c4e5cad8e894260d",
+        "size_in_bytes": 24012
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlmodule.html",
+        "path_type": "hardlink",
+        "sha256": "b16469a4923fdda20859f010baee90f3896b2a2c290fe2ef671e1e9faae69092",
+        "sha256_in_prefix": "b16469a4923fdda20859f010baee90f3896b2a2c290fe2ef671e1e9faae69092",
+        "size_in_bytes": 7370
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlreader.html",
+        "path_type": "hardlink",
+        "sha256": "a112296d092ee7678cacd19641a8b2d36a1298bf795cce8b8550dc158c43becb",
+        "sha256_in_prefix": "a112296d092ee7678cacd19641a8b2d36a1298bf795cce8b8550dc158c43becb",
+        "size_in_bytes": 108093
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlregexp.html",
+        "path_type": "hardlink",
+        "sha256": "af842b6a9d27c8f5abe07bf5f0279effb4bf93cd4da2016509f69850a307603b",
+        "sha256_in_prefix": "af842b6a9d27c8f5abe07bf5f0279effb4bf93cd4da2016509f69850a307603b",
+        "size_in_bytes": 42013
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlsave.html",
+        "path_type": "hardlink",
+        "sha256": "8e60a094d7d2c673c4901dc23bd656fd1d107e81260ec40faa532d5dfc05ec01",
+        "sha256_in_prefix": "8e60a094d7d2c673c4901dc23bd656fd1d107e81260ec40faa532d5dfc05ec01",
+        "size_in_bytes": 14842
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlschemas.html",
+        "path_type": "hardlink",
+        "sha256": "e3d8befbaf0b2fa008f77ee5e2b4808763124eaefe7f47c1d7ec922cdb3d8d13",
+        "sha256_in_prefix": "e3d8befbaf0b2fa008f77ee5e2b4808763124eaefe7f47c1d7ec922cdb3d8d13",
+        "size_in_bytes": 42521
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlschemastypes.html",
+        "path_type": "hardlink",
+        "sha256": "fd7c4b670d9c59ceff6c8662bd4ac5e53a57ae248b5db696abd3c8f89da5c40e",
+        "sha256_in_prefix": "fd7c4b670d9c59ceff6c8662bd4ac5e53a57ae248b5db696abd3c8f89da5c40e",
+        "size_in_bytes": 44451
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlstring.html",
+        "path_type": "hardlink",
+        "sha256": "b5c2e10b08509d0c79c22c80a9062601533dbb9e0e2bf0c4fd24ce64ed6244ad",
+        "sha256_in_prefix": "b5c2e10b08509d0c79c22c80a9062601533dbb9e0e2bf0c4fd24ce64ed6244ad",
+        "size_in_bytes": 35113
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlunicode.html",
+        "path_type": "hardlink",
+        "sha256": "30b4f2af06cc21b15c42c1a4255184c49a059a67eb566c47eba8dfaeca17f7c8",
+        "sha256_in_prefix": "30b4f2af06cc21b15c42c1a4255184c49a059a67eb566c47eba8dfaeca17f7c8",
+        "size_in_bytes": 106596
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlversion.html",
+        "path_type": "hardlink",
+        "sha256": "3a72f65da6743c801ed5aa8a199fab5804cceba62a0c55e16879a53f261e5f37",
+        "sha256_in_prefix": "3a72f65da6743c801ed5aa8a199fab5804cceba62a0c55e16879a53f261e5f37",
+        "size_in_bytes": 19026
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xmlwriter.html",
+        "path_type": "hardlink",
+        "sha256": "130147029ac7349b1cee75334ac8db000c06b7160cc7b55dd2e2a62b4668dfc2",
+        "sha256_in_prefix": "130147029ac7349b1cee75334ac8db000c06b7160cc7b55dd2e2a62b4668dfc2",
+        "size_in_bytes": 112077
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xpath.html",
+        "path_type": "hardlink",
+        "sha256": "d966f78b89e5f88b4fba71b6e423b18445fc378dc96dbc18d516e9d7b7a60f72",
+        "sha256_in_prefix": "d966f78b89e5f88b4fba71b6e423b18445fc378dc96dbc18d516e9d7b7a60f72",
+        "size_in_bytes": 62285
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xpathInternals.html",
+        "path_type": "hardlink",
+        "sha256": "2fd9c273b6adf15a01a927c6f4a981f99c9c03a4207927d7069346295187d8bd",
+        "sha256_in_prefix": "2fd9c273b6adf15a01a927c6f4a981f99c9c03a4207927d7069346295187d8bd",
+        "size_in_bytes": 144913
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2-xpointer.html",
+        "path_type": "hardlink",
+        "sha256": "90a8e1973aef1a89538bf79af3d5ac6fe435b07ef831f60506d0807c1248580d",
+        "sha256_in_prefix": "90a8e1973aef1a89538bf79af3d5ac6fe435b07ef831f60506d0807c1248580d",
+        "size_in_bytes": 25453
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/libxml2.devhelp",
+        "path_type": "hardlink",
+        "sha256": "98a27533ff6e6820af67beb7cb6de3432ebfb2c030e846785038a02aad0c21de",
+        "sha256_in_prefix": "98a27533ff6e6820af67beb7cb6de3432ebfb2c030e846785038a02aad0c21de",
+        "size_in_bytes": 343283
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/right.png",
+        "path_type": "hardlink",
+        "sha256": "17dcc0b175babc51d07f71382cf2083bcd4e9abfed091a45963f5ee982aa7b48",
+        "sha256_in_prefix": "17dcc0b175babc51d07f71382cf2083bcd4e9abfed091a45963f5ee982aa7b48",
+        "size_in_bytes": 472
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/style.css",
+        "path_type": "hardlink",
+        "sha256": "5f76bdb9ec782097f5cec4ebbda28bdf93aadf5d9c521d574bbb267350722481",
+        "sha256_in_prefix": "5f76bdb9ec782097f5cec4ebbda28bdf93aadf5d9c521d574bbb267350722481",
+        "size_in_bytes": 820
+      },
+      {
+        "_path": "Library/mingw-w64/share/gtk-doc/html/libxml2/up.png",
+        "path_type": "hardlink",
+        "sha256": "2af945c4c6ce288adfad716ae1747f37056f7bf67b8536d2e5e6b8e0ce84c872",
+        "sha256_in_prefix": "2af945c4c6ce288adfad716ae1747f37056f7bf67b8536d2e5e6b8e0ce84c872",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/libxml2/COPYING",
+        "path_type": "hardlink",
+        "sha256": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "sha256_in_prefix": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/xml2-config.1.gz",
+        "path_type": "hardlink",
+        "sha256": "12a7de6fd52ca69d9189970df53a66c13df72246bd26c16cbe6bad5d497729fa",
+        "sha256_in_prefix": "12a7de6fd52ca69d9189970df53a66c13df72246bd26c16cbe6bad5d497729fa",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/xmlcatalog.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a25eb1894049745df41f4c74806727a13a7e062811619042030796669b47bed6",
+        "sha256_in_prefix": "a25eb1894049745df41f4c74806727a13a7e062811619042030796669b47bed6",
+        "size_in_bytes": 2425
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/xmllint.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5974236f0740926fe974baf81e83f67bbe2df201ef3871a7a5a44c961d8df6d5",
+        "sha256_in_prefix": "5974236f0740926fe974baf81e83f67bbe2df201ef3871a7a5a44c961d8df6d5",
+        "size_in_bytes": 4385
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/libxml.3.gz",
+        "path_type": "hardlink",
+        "sha256": "05fb55e53f1c4006b2c7819b4aa82a72366e8721066e26db7f172834e370633d",
+        "sha256_in_prefix": "05fb55e53f1c4006b2c7819b4aa82a72366e8721066e26db7f172834e370633d",
+        "size_in_bytes": 849
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8f1d6d5a1f189fa4957055073ec182dec5ea30eea4da22dfa31e140c15016e30",
+  "size": 2220876,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libxml2-2.9.3-4.tar.bz2",
+  "version": "2.9.3"
+}

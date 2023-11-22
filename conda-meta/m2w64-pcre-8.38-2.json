@@ -1,0 +1,1607 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-bzip2",
+    "m2w64-gcc-libs",
+    "m2w64-wineditline",
+    "m2w64-zlib",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-pcre-8.38-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libpcre-1.dll",
+    "Library/mingw-w64/bin/libpcre16-0.dll",
+    "Library/mingw-w64/bin/libpcre32-0.dll",
+    "Library/mingw-w64/bin/libpcrecpp-0.dll",
+    "Library/mingw-w64/bin/libpcreposix-0.dll",
+    "Library/mingw-w64/bin/pcre-config",
+    "Library/mingw-w64/bin/pcregrep.exe",
+    "Library/mingw-w64/bin/pcretest.exe",
+    "Library/mingw-w64/include/pcre.h",
+    "Library/mingw-w64/include/pcre_scanner.h",
+    "Library/mingw-w64/include/pcre_stringpiece.h",
+    "Library/mingw-w64/include/pcrecpp.h",
+    "Library/mingw-w64/include/pcrecpparg.h",
+    "Library/mingw-w64/include/pcreposix.h",
+    "Library/mingw-w64/lib/libpcre.a",
+    "Library/mingw-w64/lib/libpcre.dll.a",
+    "Library/mingw-w64/lib/libpcre16.a",
+    "Library/mingw-w64/lib/libpcre16.dll.a",
+    "Library/mingw-w64/lib/libpcre32.a",
+    "Library/mingw-w64/lib/libpcre32.dll.a",
+    "Library/mingw-w64/lib/libpcrecpp.a",
+    "Library/mingw-w64/lib/libpcrecpp.dll.a",
+    "Library/mingw-w64/lib/libpcreposix.a",
+    "Library/mingw-w64/lib/libpcreposix.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/libpcre.pc",
+    "Library/mingw-w64/lib/pkgconfig/libpcre16.pc",
+    "Library/mingw-w64/lib/pkgconfig/libpcre32.pc",
+    "Library/mingw-w64/lib/pkgconfig/libpcrecpp.pc",
+    "Library/mingw-w64/lib/pkgconfig/libpcreposix.pc",
+    "Library/mingw-w64/share/doc/pcre/AUTHORS",
+    "Library/mingw-w64/share/doc/pcre/COPYING",
+    "Library/mingw-w64/share/doc/pcre/ChangeLog",
+    "Library/mingw-w64/share/doc/pcre/LICENCE",
+    "Library/mingw-w64/share/doc/pcre/NEWS",
+    "Library/mingw-w64/share/doc/pcre/README",
+    "Library/mingw-w64/share/doc/pcre/html/NON-AUTOTOOLS-BUILD.txt",
+    "Library/mingw-w64/share/doc/pcre/html/README.txt",
+    "Library/mingw-w64/share/doc/pcre/html/index.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre-config.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre16.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre32.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_assign_jit_stack.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_compile.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_compile2.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_config.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_copy_named_substring.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_copy_substring.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_dfa_exec.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_exec.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_free_study.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_free_substring.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_free_substring_list.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_fullinfo.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_get_named_substring.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_get_stringnumber.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_get_stringtable_entries.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_get_substring.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_get_substring_list.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_jit_exec.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_jit_stack_alloc.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_jit_stack_free.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_maketables.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_pattern_to_host_byte_order.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_refcount.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_study.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_utf16_to_host_byte_order.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_utf32_to_host_byte_order.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcre_version.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcreapi.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrebuild.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrecallout.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrecompat.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrecpp.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcredemo.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcregrep.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrejit.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrelimits.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrematching.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrepartial.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrepattern.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcreperform.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcreposix.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcreprecompile.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcresample.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcrestack.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcresyntax.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcretest.html",
+    "Library/mingw-w64/share/doc/pcre/html/pcreunicode.html",
+    "Library/mingw-w64/share/doc/pcre/pcre-config.txt",
+    "Library/mingw-w64/share/doc/pcre/pcre.txt",
+    "Library/mingw-w64/share/doc/pcre/pcregrep.txt",
+    "Library/mingw-w64/share/doc/pcre/pcretest.txt",
+    "Library/mingw-w64/share/man/man1/pcre-config.1.gz",
+    "Library/mingw-w64/share/man/man1/pcregrep.1.gz",
+    "Library/mingw-w64/share/man/man1/pcretest.1.gz",
+    "Library/mingw-w64/share/man/man3/pcre.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_assign_jit_stack.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_compile.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_compile2.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_config.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_copy_named_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_copy_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_dfa_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_free_study.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_free_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_free_substring_list.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_fullinfo.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_get_named_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_get_stringnumber.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_get_stringtable_entries.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_get_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_get_substring_list.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_jit_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_jit_stack_alloc.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_jit_stack_free.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_maketables.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_pattern_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_refcount.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_study.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_utf16_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre16_version.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_assign_jit_stack.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_compile.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_compile2.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_config.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_copy_named_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_copy_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_dfa_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_free_study.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_free_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_free_substring_list.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_fullinfo.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_get_named_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_get_stringnumber.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_get_stringtable_entries.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_get_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_get_substring_list.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_jit_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_jit_stack_alloc.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_jit_stack_free.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_maketables.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_pattern_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_refcount.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_study.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_utf32_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre32_version.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_assign_jit_stack.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_compile.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_compile2.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_config.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_copy_named_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_copy_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_dfa_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_free_study.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_free_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_free_substring_list.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_fullinfo.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_get_named_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_get_stringnumber.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_get_stringtable_entries.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_get_substring.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_get_substring_list.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_jit_exec.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_jit_stack_alloc.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_jit_stack_free.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_maketables.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_pattern_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_refcount.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_study.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_utf16_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_utf32_to_host_byte_order.3.gz",
+    "Library/mingw-w64/share/man/man3/pcre_version.3.gz",
+    "Library/mingw-w64/share/man/man3/pcreapi.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrebuild.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrecallout.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrecompat.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrecpp.3.gz",
+    "Library/mingw-w64/share/man/man3/pcredemo.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrejit.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrelimits.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrematching.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrepartial.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrepattern.3.gz",
+    "Library/mingw-w64/share/man/man3/pcreperform.3.gz",
+    "Library/mingw-w64/share/man/man3/pcreposix.3.gz",
+    "Library/mingw-w64/share/man/man3/pcreprecompile.3.gz",
+    "Library/mingw-w64/share/man/man3/pcresample.3.gz",
+    "Library/mingw-w64/share/man/man3/pcrestack.3.gz",
+    "Library/mingw-w64/share/man/man3/pcresyntax.3.gz",
+    "Library/mingw-w64/share/man/man3/pcreunicode.3.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-pcre-8.38-2.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-pcre-8.38-2",
+    "type": 1
+  },
+  "md5": "253fbfd117623a201492ede449ea10bd",
+  "name": "m2w64-pcre",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-pcre-8.38-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libpcre-1.dll",
+        "path_type": "hardlink",
+        "sha256": "9040bb0c11210c894f65cc93d82093803fe54ac06ea4921cd0b1fa803fb30890",
+        "sha256_in_prefix": "9040bb0c11210c894f65cc93d82093803fe54ac06ea4921cd0b1fa803fb30890",
+        "size_in_bytes": 278287
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libpcre16-0.dll",
+        "path_type": "hardlink",
+        "sha256": "ad44128ab1bdb4bb5e87114f42d5e6db02ad1bfb5adb931690c36140746aa30f",
+        "sha256_in_prefix": "ad44128ab1bdb4bb5e87114f42d5e6db02ad1bfb5adb931690c36140746aa30f",
+        "size_in_bytes": 255728
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libpcre32-0.dll",
+        "path_type": "hardlink",
+        "sha256": "bfed53c6fd02c8be70d4a894db29dc8e55bdfedae23326ef85e2e26d7cd0e41c",
+        "sha256_in_prefix": "bfed53c6fd02c8be70d4a894db29dc8e55bdfedae23326ef85e2e26d7cd0e41c",
+        "size_in_bytes": 241904
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libpcrecpp-0.dll",
+        "path_type": "hardlink",
+        "sha256": "452e8c8b91fb72af664ae12c1ebdff1c66f66c5bfb93ad8771d5b584cf481c77",
+        "sha256_in_prefix": "452e8c8b91fb72af664ae12c1ebdff1c66f66c5bfb93ad8771d5b584cf481c77",
+        "size_in_bytes": 63459
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libpcreposix-0.dll",
+        "path_type": "hardlink",
+        "sha256": "c9b578dcc6383327277a069fb47679a872e093178034fc7b15b911ddcf1d05ae",
+        "sha256_in_prefix": "c9b578dcc6383327277a069fb47679a872e093178034fc7b15b911ddcf1d05ae",
+        "size_in_bytes": 44554
+      },
+      {
+        "_path": "Library/mingw-w64/bin/pcre-config",
+        "path_type": "hardlink",
+        "sha256": "1de9e0a61eaffde91533f5610d8c3923b4de80a1e4823100dd9936add9b5a1a0",
+        "sha256_in_prefix": "1de9e0a61eaffde91533f5610d8c3923b4de80a1e4823100dd9936add9b5a1a0",
+        "size_in_bytes": 2365
+      },
+      {
+        "_path": "Library/mingw-w64/bin/pcregrep.exe",
+        "path_type": "hardlink",
+        "sha256": "0241e1e32d6e43f4eb4e1d867dc889e8deaedb58b66f56e31596fceb4da57a5c",
+        "sha256_in_prefix": "0241e1e32d6e43f4eb4e1d867dc889e8deaedb58b66f56e31596fceb4da57a5c",
+        "size_in_bytes": 75441
+      },
+      {
+        "_path": "Library/mingw-w64/bin/pcretest.exe",
+        "path_type": "hardlink",
+        "sha256": "a49ffcf8a6f6d4a0eba885ea89cfcdaf185403a11e17c0746ddaba5835b8fd61",
+        "sha256_in_prefix": "a49ffcf8a6f6d4a0eba885ea89cfcdaf185403a11e17c0746ddaba5835b8fd61",
+        "size_in_bytes": 132657
+      },
+      {
+        "_path": "Library/mingw-w64/include/pcre.h",
+        "path_type": "hardlink",
+        "sha256": "b13fc6c3b6b745a1a57c0eb6c97f08f872a8f925f958cd55f47d10cb036d7201",
+        "sha256_in_prefix": "b13fc6c3b6b745a1a57c0eb6c97f08f872a8f925f958cd55f47d10cb036d7201",
+        "size_in_bytes": 31706
+      },
+      {
+        "_path": "Library/mingw-w64/include/pcre_scanner.h",
+        "path_type": "hardlink",
+        "sha256": "7442638d75522e87497d442425dc51a6d69ef6bed73c8ab266dbb73343039fb6",
+        "sha256_in_prefix": "7442638d75522e87497d442425dc51a6d69ef6bed73c8ab266dbb73343039fb6",
+        "size_in_bytes": 6600
+      },
+      {
+        "_path": "Library/mingw-w64/include/pcre_stringpiece.h",
+        "path_type": "hardlink",
+        "sha256": "c91621e8d8c5d3aa80cf21f06bfd167f3edb6b71bf6c9194461c52d4ae79aa29",
+        "sha256_in_prefix": "c91621e8d8c5d3aa80cf21f06bfd167f3edb6b71bf6c9194461c52d4ae79aa29",
+        "size_in_bytes": 6312
+      },
+      {
+        "_path": "Library/mingw-w64/include/pcrecpp.h",
+        "path_type": "hardlink",
+        "sha256": "165767e52e03797cbbce3e6147e2436459f8b468ffecefedfd8477c157aecfe7",
+        "sha256_in_prefix": "165767e52e03797cbbce3e6147e2436459f8b468ffecefedfd8477c157aecfe7",
+        "size_in_bytes": 26529
+      },
+      {
+        "_path": "Library/mingw-w64/include/pcrecpparg.h",
+        "path_type": "hardlink",
+        "sha256": "89912f03f8da84f71c4645385d45e7d6af6e286601285e432249da3b5420b98b",
+        "sha256_in_prefix": "89912f03f8da84f71c4645385d45e7d6af6e286601285e432249da3b5420b98b",
+        "size_in_bytes": 6783
+      },
+      {
+        "_path": "Library/mingw-w64/include/pcreposix.h",
+        "path_type": "hardlink",
+        "sha256": "1770f2b30c0af2f24543428173cf6e6479e921045efdbd009fd07817b84e04ad",
+        "sha256_in_prefix": "1770f2b30c0af2f24543428173cf6e6479e921045efdbd009fd07817b84e04ad",
+        "size_in_bytes": 5452
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcre.a",
+        "path_type": "hardlink",
+        "sha256": "e90e2b42fafbecd4ffa28db5279ed4f95ea84ec1ab29644a51e61810ecc7127b",
+        "sha256_in_prefix": "e90e2b42fafbecd4ffa28db5279ed4f95ea84ec1ab29644a51e61810ecc7127b",
+        "size_in_bytes": 327370
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcre.dll.a",
+        "path_type": "hardlink",
+        "sha256": "04150197f01672ada8fa3582cb483fe6929a69c5eb564f153e12d27253ad0f35",
+        "sha256_in_prefix": "04150197f01672ada8fa3582cb483fe6929a69c5eb564f153e12d27253ad0f35",
+        "size_in_bytes": 35236
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcre16.a",
+        "path_type": "hardlink",
+        "sha256": "9a91e7b35170aa8005f07d0f3809b3b9d6a6700f94d5ddc9046fdecd343b57ff",
+        "sha256_in_prefix": "9a91e7b35170aa8005f07d0f3809b3b9d6a6700f94d5ddc9046fdecd343b57ff",
+        "size_in_bytes": 306348
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcre16.dll.a",
+        "path_type": "hardlink",
+        "sha256": "a167099f56a718d77b0bf812ba72312b6b3b3382f0260d93ae1ab93f03d68a69",
+        "sha256_in_prefix": "a167099f56a718d77b0bf812ba72312b6b3b3382f0260d93ae1ab93f03d68a69",
+        "size_in_bytes": 37304
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcre32.a",
+        "path_type": "hardlink",
+        "sha256": "195899c6dff676768f021d271aa1367fb4e16de5ce10ddae614c2f6a607a93e2",
+        "sha256_in_prefix": "195899c6dff676768f021d271aa1367fb4e16de5ce10ddae614c2f6a607a93e2",
+        "size_in_bytes": 291822
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcre32.dll.a",
+        "path_type": "hardlink",
+        "sha256": "e54d80b953a4b73f38189cc337091f188164aaa953bbe5c06aa2ab5a546ee9dd",
+        "sha256_in_prefix": "e54d80b953a4b73f38189cc337091f188164aaa953bbe5c06aa2ab5a546ee9dd",
+        "size_in_bytes": 38636
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcrecpp.a",
+        "path_type": "hardlink",
+        "sha256": "27b3e8a2ddeb16b7765a48f42dc340e99083260ca3d483dbb6b3c61e1d702e38",
+        "sha256_in_prefix": "27b3e8a2ddeb16b7765a48f42dc340e99083260ca3d483dbb6b3c61e1d702e38",
+        "size_in_bytes": 38786
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcrecpp.dll.a",
+        "path_type": "hardlink",
+        "sha256": "6841099311705e833936f59fff24cc390f9f84d17d719a526b03e3e3aec8779f",
+        "sha256_in_prefix": "6841099311705e833936f59fff24cc390f9f84d17d719a526b03e3e3aec8779f",
+        "size_in_bytes": 67636
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcreposix.a",
+        "path_type": "hardlink",
+        "sha256": "04be40414560bfe620530382adeeb3bc2f5f579ca560f649e7a1af8dd173b73a",
+        "sha256_in_prefix": "04be40414560bfe620530382adeeb3bc2f5f579ca560f649e7a1af8dd173b73a",
+        "size_in_bytes": 4744
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpcreposix.dll.a",
+        "path_type": "hardlink",
+        "sha256": "b2c03ad11c82c33d1c21b7defd7457a8462f174e8de7820d1f76e6c981bd90fb",
+        "sha256_in_prefix": "b2c03ad11c82c33d1c21b7defd7457a8462f174e8de7820d1f76e6c981bd90fb",
+        "size_in_bytes": 3176
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpcre.pc",
+        "path_type": "hardlink",
+        "sha256": "aa8075c15f25e8fa6c4880522e43520928efefbbb291535d7f6250ff27472c53",
+        "sha256_in_prefix": "aa8075c15f25e8fa6c4880522e43520928efefbbb291535d7f6250ff27472c53",
+        "size_in_bytes": 321
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpcre16.pc",
+        "path_type": "hardlink",
+        "sha256": "d843a27574dcb1e48637bd5b824e64f29e436d0ccfcc5da85c92c3e41719872e",
+        "sha256_in_prefix": "d843a27574dcb1e48637bd5b824e64f29e436d0ccfcc5da85c92c3e41719872e",
+        "size_in_bytes": 326
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpcre32.pc",
+        "path_type": "hardlink",
+        "sha256": "5f5dc44534c66793e61b103626d672c9bb824b0427d0bf9001abd704b5375297",
+        "sha256_in_prefix": "5f5dc44534c66793e61b103626d672c9bb824b0427d0bf9001abd704b5375297",
+        "size_in_bytes": 326
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpcrecpp.pc",
+        "path_type": "hardlink",
+        "sha256": "1514ff79bcb360f976f375cbdb5c2e99f62c86d9a088140dc5fad8c3ff6f4414",
+        "sha256_in_prefix": "1514ff79bcb360f976f375cbdb5c2e99f62c86d9a088140dc5fad8c3ff6f4414",
+        "size_in_bytes": 267
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpcreposix.pc",
+        "path_type": "hardlink",
+        "sha256": "e997338dd1322c7a71a40a96272dfcc121de871427b75c6402eda77cc9d9dae6",
+        "sha256_in_prefix": "e997338dd1322c7a71a40a96272dfcc121de871427b75c6402eda77cc9d9dae6",
+        "size_in_bytes": 309
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "eeeac138d044b2dc7bed1f145bad783e06da7b9344c8e9be4d96f803b22cc008",
+        "sha256_in_prefix": "eeeac138d044b2dc7bed1f145bad783e06da7b9344c8e9be4d96f803b22cc008",
+        "size_in_bytes": 851
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/COPYING",
+        "path_type": "hardlink",
+        "sha256": "17abe1dbb92b21ab173cf9757dd57b0b15cd8d863b2ccdef635fdbef03077fb0",
+        "sha256_in_prefix": "17abe1dbb92b21ab173cf9757dd57b0b15cd8d863b2ccdef635fdbef03077fb0",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/ChangeLog",
+        "path_type": "hardlink",
+        "sha256": "c47cc300b280c248cc385931ad41b142f0ad08284b0a0647e34920f95f4b1d9f",
+        "sha256_in_prefix": "c47cc300b280c248cc385931ad41b142f0ad08284b0a0647e34920f95f4b1d9f",
+        "size_in_bytes": 285447
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/LICENCE",
+        "path_type": "hardlink",
+        "sha256": "449113f28b34ee4731e548c341a2889efbbd522c73be850279bce7e8add86b95",
+        "sha256_in_prefix": "449113f28b34ee4731e548c341a2889efbbd522c73be850279bce7e8add86b95",
+        "size_in_bytes": 3182
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/NEWS",
+        "path_type": "hardlink",
+        "sha256": "434efbd114dffd4c584079e36539fadc8c6007e16287bb15471033b9de886078",
+        "sha256_in_prefix": "434efbd114dffd4c584079e36539fadc8c6007e16287bb15471033b9de886078",
+        "size_in_bytes": 28564
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/README",
+        "path_type": "hardlink",
+        "sha256": "f7c578badf8d01d81943e78778efdd53616788afccb3895a4a7590d5551727ff",
+        "sha256_in_prefix": "f7c578badf8d01d81943e78778efdd53616788afccb3895a4a7590d5551727ff",
+        "size_in_bytes": 45548
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/NON-AUTOTOOLS-BUILD.txt",
+        "path_type": "hardlink",
+        "sha256": "1a364fcb0a7a0e92178b9ceccb654088bf81f40692ec73bd04a1d5f8a310780c",
+        "sha256_in_prefix": "1a364fcb0a7a0e92178b9ceccb654088bf81f40692ec73bd04a1d5f8a310780c",
+        "size_in_bytes": 31256
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/README.txt",
+        "path_type": "hardlink",
+        "sha256": "f7c578badf8d01d81943e78778efdd53616788afccb3895a4a7590d5551727ff",
+        "sha256_in_prefix": "f7c578badf8d01d81943e78778efdd53616788afccb3895a4a7590d5551727ff",
+        "size_in_bytes": 45548
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/index.html",
+        "path_type": "hardlink",
+        "sha256": "a9941170673b9d59f007f7f1e7a313fa12e2001054b653e697043718e27f8b5e",
+        "sha256_in_prefix": "a9941170673b9d59f007f7f1e7a313fa12e2001054b653e697043718e27f8b5e",
+        "size_in_bytes": 7677
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre-config.html",
+        "path_type": "hardlink",
+        "sha256": "94a9a5f654d94c66c6ee29e57ebadba2b2ccfd8801d9a4f76d9953732c4c3fa3",
+        "sha256_in_prefix": "94a9a5f654d94c66c6ee29e57ebadba2b2ccfd8801d9a4f76d9953732c4c3fa3",
+        "size_in_bytes": 3659
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre.html",
+        "path_type": "hardlink",
+        "sha256": "7d3b10ff46ad45b4a5effdc3f5f382f598a3502202a9034081f54c45acb69733",
+        "sha256_in_prefix": "7d3b10ff46ad45b4a5effdc3f5f382f598a3502202a9034081f54c45acb69733",
+        "size_in_bytes": 10382
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre16.html",
+        "path_type": "hardlink",
+        "sha256": "4424a27195c4be03780375d03888f8665de37aa5abbdc0a40a1ceee722a13bb5",
+        "sha256_in_prefix": "4424a27195c4be03780375d03888f8665de37aa5abbdc0a40a1ceee722a13bb5",
+        "size_in_bytes": 16214
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre32.html",
+        "path_type": "hardlink",
+        "sha256": "5def7511cdd3968a01cf6270433f34889bc197c6e1d35febb0f9b6e62b9197c9",
+        "sha256_in_prefix": "5def7511cdd3968a01cf6270433f34889bc197c6e1d35febb0f9b6e62b9197c9",
+        "size_in_bytes": 16098
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_assign_jit_stack.html",
+        "path_type": "hardlink",
+        "sha256": "978388a268d26dbbd49e458b39e33c0b948055461e3163b5fe42383351f74fc9",
+        "sha256_in_prefix": "978388a268d26dbbd49e458b39e33c0b948055461e3163b5fe42383351f74fc9",
+        "size_in_bytes": 2541
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_compile.html",
+        "path_type": "hardlink",
+        "sha256": "d3e538afcc263a962581f1fa7cb35882a85bf681dda1856ec3af55a0066d1a95",
+        "sha256_in_prefix": "d3e538afcc263a962581f1fa7cb35882a85bf681dda1856ec3af55a0066d1a95",
+        "size_in_bytes": 4735
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_compile2.html",
+        "path_type": "hardlink",
+        "sha256": "58ad9115a332db73807c1014efd0a89819fbfb64dedafac10922573df6b3ad06",
+        "sha256_in_prefix": "58ad9115a332db73807c1014efd0a89819fbfb64dedafac10922573df6b3ad06",
+        "size_in_bytes": 4907
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_config.html",
+        "path_type": "hardlink",
+        "sha256": "71647b6d007dea79cc40205f9cf485dabed5e2eb43c509ca39390faf797f006a",
+        "sha256_in_prefix": "71647b6d007dea79cc40205f9cf485dabed5e2eb43c509ca39390faf797f006a",
+        "size_in_bytes": 3938
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_copy_named_substring.html",
+        "path_type": "hardlink",
+        "sha256": "22eaa88e6472522c88f9eee619a0a0d4e8bd4e1535a1026041cfa5ed0a7fcea2",
+        "sha256_in_prefix": "22eaa88e6472522c88f9eee619a0a0d4e8bd4e1535a1026041cfa5ed0a7fcea2",
+        "size_in_bytes": 2359
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_copy_substring.html",
+        "path_type": "hardlink",
+        "sha256": "148a4bcbc4c5c7fd3d164b483273f270767118481a01d088206a98d7c836c8f3",
+        "sha256_in_prefix": "148a4bcbc4c5c7fd3d164b483273f270767118481a01d088206a98d7c836c8f3",
+        "size_in_bytes": 2115
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_dfa_exec.html",
+        "path_type": "hardlink",
+        "sha256": "f6d8f490d440b4ddf411a0e8273b9cfa179ad93bfcb3be5efe7ff8bb4f24a1d3",
+        "sha256_in_prefix": "f6d8f490d440b4ddf411a0e8273b9cfa179ad93bfcb3be5efe7ff8bb4f24a1d3",
+        "size_in_bytes": 5969
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_exec.html",
+        "path_type": "hardlink",
+        "sha256": "4d1a7b7faed38d5a16dc706085f4ae83bb4a849ea2f4d7a15e7a07b83723bec7",
+        "sha256_in_prefix": "4d1a7b7faed38d5a16dc706085f4ae83bb4a849ea2f4d7a15e7a07b83723bec7",
+        "size_in_bytes": 5059
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_free_study.html",
+        "path_type": "hardlink",
+        "sha256": "6b56becdd9224aa6210e0eb6f965cec36f33f224b07a8707cefad0872c9e0ddb",
+        "sha256_in_prefix": "6b56becdd9224aa6210e0eb6f965cec36f33f224b07a8707cefad0872c9e0ddb",
+        "size_in_bytes": 1231
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_free_substring.html",
+        "path_type": "hardlink",
+        "sha256": "893b6cb61d3586c8be88a09b82f4437255dc0cd0ef68823cd163076aaf132245",
+        "sha256_in_prefix": "893b6cb61d3586c8be88a09b82f4437255dc0cd0ef68823cd163076aaf132245",
+        "size_in_bytes": 1283
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_free_substring_list.html",
+        "path_type": "hardlink",
+        "sha256": "da8b3d404a180035b3901b802aaa1a84d1ffc00635a3960b108ddeb7f6975de8",
+        "sha256_in_prefix": "da8b3d404a180035b3901b802aaa1a84d1ffc00635a3960b108ddeb7f6975de8",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_fullinfo.html",
+        "path_type": "hardlink",
+        "sha256": "b1acdc0b83f9e30b83a2dab6da97fe14a83369b306f2935b4bfe07e9a875585e",
+        "sha256_in_prefix": "b1acdc0b83f9e30b83a2dab6da97fe14a83369b306f2935b4bfe07e9a875585e",
+        "size_in_bytes": 5150
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_get_named_substring.html",
+        "path_type": "hardlink",
+        "sha256": "02c6688c100e2901a3c1762708e162a0bbbca6760c6bf3a37460f1d7cc18579e",
+        "sha256_in_prefix": "02c6688c100e2901a3c1762708e162a0bbbca6760c6bf3a37460f1d7cc18579e",
+        "size_in_bytes": 2460
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_get_stringnumber.html",
+        "path_type": "hardlink",
+        "sha256": "058cef975e594a2c1379bb316b18916d3be14b5a590e268b3b8503ebf4d5a7ae",
+        "sha256_in_prefix": "058cef975e594a2c1379bb316b18916d3be14b5a590e268b3b8503ebf4d5a7ae",
+        "size_in_bytes": 1773
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_get_stringtable_entries.html",
+        "path_type": "hardlink",
+        "sha256": "e7670e707d5097657c54bb28caf158f0fa5b8c8ec1fa134c4f378689f7c62510",
+        "sha256_in_prefix": "e7670e707d5097657c54bb28caf158f0fa5b8c8ec1fa134c4f378689f7c62510",
+        "size_in_bytes": 2062
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_get_substring.html",
+        "path_type": "hardlink",
+        "sha256": "5929e160e6c24610614da399b5a48b5b54eb9fd6c2b0727827fcae42bdf6fa1c",
+        "sha256_in_prefix": "5929e160e6c24610614da399b5a48b5b54eb9fd6c2b0727827fcae42bdf6fa1c",
+        "size_in_bytes": 2243
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_get_substring_list.html",
+        "path_type": "hardlink",
+        "sha256": "53f52712e894b0e7612df4ada5140d5730f3fdcca1b2c9c6049eed21714e6c4e",
+        "sha256_in_prefix": "53f52712e894b0e7612df4ada5140d5730f3fdcca1b2c9c6049eed21714e6c4e",
+        "size_in_bytes": 2198
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_jit_exec.html",
+        "path_type": "hardlink",
+        "sha256": "13aef7fb3df09e4365792d78c170757ccbc18efff21ae0edfcc48d0445a40093",
+        "sha256_in_prefix": "13aef7fb3df09e4365792d78c170757ccbc18efff21ae0edfcc48d0445a40093",
+        "size_in_bytes": 4814
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_jit_stack_alloc.html",
+        "path_type": "hardlink",
+        "sha256": "0a4cb6fd44431a608a9f767fe537e5a2899dff0187f18f9e0ba9873cf5bb09ad",
+        "sha256_in_prefix": "0a4cb6fd44431a608a9f767fe537e5a2899dff0187f18f9e0ba9873cf5bb09ad",
+        "size_in_bytes": 1720
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_jit_stack_free.html",
+        "path_type": "hardlink",
+        "sha256": "87ffc0f24a1532c003f0d903a0004151836796826474bc5e9890b317d31b9d9e",
+        "sha256_in_prefix": "87ffc0f24a1532c003f0d903a0004151836796826474bc5e9890b317d31b9d9e",
+        "size_in_bytes": 1279
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_maketables.html",
+        "path_type": "hardlink",
+        "sha256": "e406c945fc3b76a7d259e06483f58df1a401c00f516aa737b7cd19152c8f552e",
+        "sha256_in_prefix": "e406c945fc3b76a7d259e06483f58df1a401c00f516aa737b7cd19152c8f552e",
+        "size_in_bytes": 1397
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_pattern_to_host_byte_order.html",
+        "path_type": "hardlink",
+        "sha256": "be9188eb308c8491a5ee7b1c7f53632b5b9459682171b6d903c57ba6822ef684",
+        "sha256_in_prefix": "be9188eb308c8491a5ee7b1c7f53632b5b9459682171b6d903c57ba6822ef684",
+        "size_in_bytes": 1960
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_refcount.html",
+        "path_type": "hardlink",
+        "sha256": "bcdc552b5ef7dbd9f31bf24459d160b9e84da972715479f8295a1dd6e6cf5a64",
+        "sha256_in_prefix": "bcdc552b5ef7dbd9f31bf24459d160b9e84da972715479f8295a1dd6e6cf5a64",
+        "size_in_bytes": 1442
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_study.html",
+        "path_type": "hardlink",
+        "sha256": "073cd842e9eee11f5c3155b66f823a205af6df0e9365ab275c8ea4fb6a8a599d",
+        "sha256_in_prefix": "073cd842e9eee11f5c3155b66f823a205af6df0e9365ab275c8ea4fb6a8a599d",
+        "size_in_bytes": 2146
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_utf16_to_host_byte_order.html",
+        "path_type": "hardlink",
+        "sha256": "d4a19bba244b82fe518ac61ffbcd7c15875c851a6a78edbc1fccaf1aad02e328",
+        "sha256_in_prefix": "d4a19bba244b82fe518ac61ffbcd7c15875c851a6a78edbc1fccaf1aad02e328",
+        "size_in_bytes": 2033
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_utf32_to_host_byte_order.html",
+        "path_type": "hardlink",
+        "sha256": "3fb6d536232e8ce0c0c738357a9a1af867d73b8fab1f752ed6d7b0edf056d6b7",
+        "sha256_in_prefix": "3fb6d536232e8ce0c0c738357a9a1af867d73b8fab1f752ed6d7b0edf056d6b7",
+        "size_in_bytes": 2033
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcre_version.html",
+        "path_type": "hardlink",
+        "sha256": "bcc32e6f56972b256eca12a3927c6ea7ab27312d862ab4c8b87d54a3b9651efc",
+        "sha256_in_prefix": "bcc32e6f56972b256eca12a3927c6ea7ab27312d862ab4c8b87d54a3b9651efc",
+        "size_in_bytes": 1172
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcreapi.html",
+        "path_type": "hardlink",
+        "sha256": "df2006ec96412fc15019b9a7d6d5af494409d153bfc79dc3e509f0234bf58434",
+        "sha256_in_prefix": "df2006ec96412fc15019b9a7d6d5af494409d153bfc79dc3e509f0234bf58434",
+        "size_in_bytes": 135424
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrebuild.html",
+        "path_type": "hardlink",
+        "sha256": "27ca87062537a0e9259973d048d2582f3e3dd68ec7552440f68bfa41b6d0738a",
+        "sha256_in_prefix": "27ca87062537a0e9259973d048d2582f3e3dd68ec7552440f68bfa41b6d0738a",
+        "size_in_bytes": 22838
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrecallout.html",
+        "path_type": "hardlink",
+        "sha256": "1557ed06851c266b57220b97c8dd1cdb2334bd728e8eaee994486ba77badca17",
+        "sha256_in_prefix": "1557ed06851c266b57220b97c8dd1cdb2334bd728e8eaee994486ba77badca17",
+        "size_in_bytes": 11675
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrecompat.html",
+        "path_type": "hardlink",
+        "sha256": "b316374c34f50d9b3fa12d99092a6321283d39fe0b0e5faa431d6be23e1333c0",
+        "sha256_in_prefix": "b316374c34f50d9b3fa12d99092a6321283d39fe0b0e5faa431d6be23e1333c0",
+        "size_in_bytes": 9787
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrecpp.html",
+        "path_type": "hardlink",
+        "sha256": "87b967d907fb8a88c60e94359013d89a1204cca04e735030b11beee2e69cba5e",
+        "sha256_in_prefix": "87b967d907fb8a88c60e94359013d89a1204cca04e735030b11beee2e69cba5e",
+        "size_in_bytes": 14395
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcredemo.html",
+        "path_type": "hardlink",
+        "sha256": "76225d532101c60a9957a7a7808b6b785aa599867b8010232a09d59d0b200be2",
+        "sha256_in_prefix": "76225d532101c60a9957a7a7808b6b785aa599867b8010232a09d59d0b200be2",
+        "size_in_bytes": 16192
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcregrep.html",
+        "path_type": "hardlink",
+        "sha256": "d93c93ebab667437d23ea6678124f73297dc6eea22a256642a4c1315891995f1",
+        "sha256_in_prefix": "d93c93ebab667437d23ea6678124f73297dc6eea22a256642a4c1315891995f1",
+        "size_in_bytes": 37847
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrejit.html",
+        "path_type": "hardlink",
+        "sha256": "7f1668f4d48e02a9956969c8d1787f02d463bbac21ee4cced89893dc3d88eddf",
+        "sha256_in_prefix": "7f1668f4d48e02a9956969c8d1787f02d463bbac21ee4cced89893dc3d88eddf",
+        "size_in_bytes": 20049
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrelimits.html",
+        "path_type": "hardlink",
+        "sha256": "a72349ea60630c45ea0ef848eff8959f4a27808f101ce94c7ec3ef42572903d8",
+        "sha256_in_prefix": "a72349ea60630c45ea0ef848eff8959f4a27808f101ce94c7ec3ef42572903d8",
+        "size_in_bytes": 3195
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrematching.html",
+        "path_type": "hardlink",
+        "sha256": "c5afdfbf6ef736026d0af74368f5da1e3041ce4b241ef62cc8407e53e3631953",
+        "sha256_in_prefix": "c5afdfbf6ef736026d0af74368f5da1e3041ce4b241ef62cc8407e53e3631953",
+        "size_in_bytes": 10898
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrepartial.html",
+        "path_type": "hardlink",
+        "sha256": "ffef90c566c5f4ec2238ca69529f4a7dd9e68d9219a3c653e83d5da32380ab34",
+        "sha256_in_prefix": "ffef90c566c5f4ec2238ca69529f4a7dd9e68d9219a3c653e83d5da32380ab34",
+        "size_in_bytes": 23592
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrepattern.html",
+        "path_type": "hardlink",
+        "sha256": "26fe2b8a15693c45f65f440d5d408d485ead54a1683bd3be420a27ab3ab99ce7",
+        "sha256_in_prefix": "26fe2b8a15693c45f65f440d5d408d485ead54a1683bd3be420a27ab3ab99ce7",
+        "size_in_bytes": 140433
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcreperform.html",
+        "path_type": "hardlink",
+        "sha256": "d3eea74fc04a20f31c0b8447ca4d4b0e751bba990a8711212a466cfb4363dad6",
+        "sha256_in_prefix": "d3eea74fc04a20f31c0b8447ca4d4b0e751bba990a8711212a466cfb4363dad6",
+        "size_in_bytes": 7827
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcreposix.html",
+        "path_type": "hardlink",
+        "sha256": "62cb7a13a033dfb7b90ac88dd4c3f26f994c6ce707c15c4a102728d410930a07",
+        "sha256_in_prefix": "62cb7a13a033dfb7b90ac88dd4c3f26f994c6ce707c15c4a102728d410930a07",
+        "size_in_bytes": 12139
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcreprecompile.html",
+        "path_type": "hardlink",
+        "sha256": "5beb7314ba12fd534f67eb38d363c1740426559bda24d143b9b4283b53d85da3",
+        "sha256_in_prefix": "5beb7314ba12fd534f67eb38d363c1740426559bda24d143b9b4283b53d85da3",
+        "size_in_bytes": 7399
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcresample.html",
+        "path_type": "hardlink",
+        "sha256": "9d21477a6f04a1cff3f37582a455ce4ce0f68977c644921cc91976f18e78d86e",
+        "sha256_in_prefix": "9d21477a6f04a1cff3f37582a455ce4ce0f68977c644921cc91976f18e78d86e",
+        "size_in_bytes": 3784
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcrestack.html",
+        "path_type": "hardlink",
+        "sha256": "48d8a5afb5ee4a587768b0033b5ff69aafb16d37ffc564a6456bd10f7e43015c",
+        "sha256_in_prefix": "48d8a5afb5ee4a587768b0033b5ff69aafb16d37ffc564a6456bd10f7e43015c",
+        "size_in_bytes": 9594
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcresyntax.html",
+        "path_type": "hardlink",
+        "sha256": "e008c8e4ff52ae445ebc6d4508bc073c87abd7989216dba258eccb200e56137a",
+        "sha256_in_prefix": "e008c8e4ff52ae445ebc6d4508bc073c87abd7989216dba258eccb200e56137a",
+        "size_in_bytes": 16694
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcretest.html",
+        "path_type": "hardlink",
+        "sha256": "170a4fb1c82820ee7e21ac5c0b4a35e704fd8bb12003c05d4a447d9b06670f34",
+        "sha256_in_prefix": "170a4fb1c82820ee7e21ac5c0b4a35e704fd8bb12003c05d4a447d9b06670f34",
+        "size_in_bytes": 51976
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/html/pcreunicode.html",
+        "path_type": "hardlink",
+        "sha256": "5490e93a21c250099cb45820e3c617573efd70689332664f02f1cc9de839ccea",
+        "sha256_in_prefix": "5490e93a21c250099cb45820e3c617573efd70689332664f02f1cc9de839ccea",
+        "size_in_bytes": 11444
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/pcre-config.txt",
+        "path_type": "hardlink",
+        "sha256": "b9928521a59cea4cbc39dc203e124c70175986b4c499fe87bcd4cfb59875091b",
+        "sha256_in_prefix": "b9928521a59cea4cbc39dc203e124c70175986b4c499fe87bcd4cfb59875091b",
+        "size_in_bytes": 3146
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/pcre.txt",
+        "path_type": "hardlink",
+        "sha256": "e54986987ee2035e9c46bf5909ae46ca60d8b7f02b46aec427f985f08dd7db57",
+        "sha256_in_prefix": "e54986987ee2035e9c46bf5909ae46ca60d8b7f02b46aec427f985f08dd7db57",
+        "size_in_bytes": 506117
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/pcregrep.txt",
+        "path_type": "hardlink",
+        "sha256": "dfad3fec389dd01a2b62f6f260b73418c5ee17490b1b79a69b5ba418ba585b37",
+        "sha256_in_prefix": "dfad3fec389dd01a2b62f6f260b73418c5ee17490b1b79a69b5ba418ba585b37",
+        "size_in_bytes": 42257
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pcre/pcretest.txt",
+        "path_type": "hardlink",
+        "sha256": "fe68e422666624cec7f23e790d5ea37edb2abf475d48aa3bfa6395abd84a144c",
+        "sha256_in_prefix": "fe68e422666624cec7f23e790d5ea37edb2abf475d48aa3bfa6395abd84a144c",
+        "size_in_bytes": 54244
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/pcre-config.1.gz",
+        "path_type": "hardlink",
+        "sha256": "fd31ecc94df0cf58b0797f545f0f2ad06eb9dd83239eb8216dac1adea81472a9",
+        "sha256_in_prefix": "fd31ecc94df0cf58b0797f545f0f2ad06eb9dd83239eb8216dac1adea81472a9",
+        "size_in_bytes": 920
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/pcregrep.1.gz",
+        "path_type": "hardlink",
+        "sha256": "003eb3597e9792058c53a7fd0147f2089d85f823e02f33402549d4f0032b6dea",
+        "sha256_in_prefix": "003eb3597e9792058c53a7fd0147f2089d85f823e02f33402549d4f0032b6dea",
+        "size_in_bytes": 10862
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/pcretest.1.gz",
+        "path_type": "hardlink",
+        "sha256": "71c98ab861b065541019c5503f1325708e060134f01bb655d2f0147dc8a59b0f",
+        "sha256_in_prefix": "71c98ab861b065541019c5503f1325708e060134f01bb655d2f0147dc8a59b0f",
+        "size_in_bytes": 15164
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre.3.gz",
+        "path_type": "hardlink",
+        "sha256": "6cb55d83b0df33e4fad3b630160613afde458ea47d23b7928eac99a37af96e7e",
+        "sha256_in_prefix": "6cb55d83b0df33e4fad3b630160613afde458ea47d23b7928eac99a37af96e7e",
+        "size_in_bytes": 3731
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16.3.gz",
+        "path_type": "hardlink",
+        "sha256": "e32ca02b567e53dd48a4e442a86dfadf90d5bf50596aac9c64727547b1a18288",
+        "sha256_in_prefix": "e32ca02b567e53dd48a4e442a86dfadf90d5bf50596aac9c64727547b1a18288",
+        "size_in_bytes": 4374
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_assign_jit_stack.3.gz",
+        "path_type": "hardlink",
+        "sha256": "d1678b87b588fcda715784f99cd81ce473e7d3b0ca5bf5feeb8d4bfa57e6fb39",
+        "sha256_in_prefix": "d1678b87b588fcda715784f99cd81ce473e7d3b0ca5bf5feeb8d4bfa57e6fb39",
+        "size_in_bytes": 848
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_compile.3.gz",
+        "path_type": "hardlink",
+        "sha256": "0bbe2c304ccadaa2ed865d9d4a50954e94a767c12d7ed9d19957c4693916b560",
+        "sha256_in_prefix": "0bbe2c304ccadaa2ed865d9d4a50954e94a767c12d7ed9d19957c4693916b560",
+        "size_in_bytes": 1583
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_compile2.3.gz",
+        "path_type": "hardlink",
+        "sha256": "95b0dde3ce337c683e2621be68f4ddf21d1f0722f3a5db731f357769348e9765",
+        "sha256_in_prefix": "95b0dde3ce337c683e2621be68f4ddf21d1f0722f3a5db731f357769348e9765",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_config.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2a05f5e37a4141c5768fd581b0eafbfbf208631deb315490d121d4613da1ecf7",
+        "sha256_in_prefix": "2a05f5e37a4141c5768fd581b0eafbfbf208631deb315490d121d4613da1ecf7",
+        "size_in_bytes": 1240
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_copy_named_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "341978b6b603981b40748600ef82626d7769ab70d7aa9c8758fa4bf01b6be774",
+        "sha256_in_prefix": "341978b6b603981b40748600ef82626d7769ab70d7aa9c8758fa4bf01b6be774",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_copy_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "1eddc2450d283a1470b9ef597da8bf70df9b3ba0059563c39430434b90361cbb",
+        "sha256_in_prefix": "1eddc2450d283a1470b9ef597da8bf70df9b3ba0059563c39430434b90361cbb",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_dfa_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "14f9ba8e976a3a66f8c02f2e797f4cf21ff24bce7a36f6a48e323f672d07a827",
+        "sha256_in_prefix": "14f9ba8e976a3a66f8c02f2e797f4cf21ff24bce7a36f6a48e323f672d07a827",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7d089e45f60e9e6cf741f0a508dd52fd896e7d701fadd06cb921f345692786d6",
+        "sha256_in_prefix": "7d089e45f60e9e6cf741f0a508dd52fd896e7d701fadd06cb921f345692786d6",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_free_study.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2c1db9a54875a36ed211e0fce8d4c1a5f607c0e371cae3d10ac945b549c5789d",
+        "sha256_in_prefix": "2c1db9a54875a36ed211e0fce8d4c1a5f607c0e371cae3d10ac945b549c5789d",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_free_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "13d8434259ef7472b405d74b89f1484e5e8fd70b74acd5c0193bec06eb1f9c61",
+        "sha256_in_prefix": "13d8434259ef7472b405d74b89f1484e5e8fd70b74acd5c0193bec06eb1f9c61",
+        "size_in_bytes": 426
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_free_substring_list.3.gz",
+        "path_type": "hardlink",
+        "sha256": "5ce4dbb22a5f761d1480afdab62419130d2d4f127aed214d3a4fd330183f1249",
+        "sha256_in_prefix": "5ce4dbb22a5f761d1480afdab62419130d2d4f127aed214d3a4fd330183f1249",
+        "size_in_bytes": 435
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_fullinfo.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4b1d35592155f84317b517bfb326d0eb54e50bb4a72c81366e9c2a6cad69662d",
+        "sha256_in_prefix": "4b1d35592155f84317b517bfb326d0eb54e50bb4a72c81366e9c2a6cad69662d",
+        "size_in_bytes": 1557
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_get_named_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "37425fdd325c397aa2825c4354f6ef10aec4b25eb99bf3e487cdc65823ccbe69",
+        "sha256_in_prefix": "37425fdd325c397aa2825c4354f6ef10aec4b25eb99bf3e487cdc65823ccbe69",
+        "size_in_bytes": 783
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_get_stringnumber.3.gz",
+        "path_type": "hardlink",
+        "sha256": "055afe59302c9501001bc7bb61adb9216327ce2de3ed81ba72a54636c3879d4d",
+        "sha256_in_prefix": "055afe59302c9501001bc7bb61adb9216327ce2de3ed81ba72a54636c3879d4d",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_get_stringtable_entries.3.gz",
+        "path_type": "hardlink",
+        "sha256": "5becf13f6d2e57995d337c86ab727149987316097af8289067421b70c7cb5281",
+        "sha256_in_prefix": "5becf13f6d2e57995d337c86ab727149987316097af8289067421b70c7cb5281",
+        "size_in_bytes": 713
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_get_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "07d02847b47cff2affd7341a703604fd8c4fa546ebf47ec09d20eb0286184dfa",
+        "sha256_in_prefix": "07d02847b47cff2affd7341a703604fd8c4fa546ebf47ec09d20eb0286184dfa",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_get_substring_list.3.gz",
+        "path_type": "hardlink",
+        "sha256": "37dfc236445d1707bcc27479d1b6e84fdaecc77a0549f41fa889cbacbc8c1003",
+        "sha256_in_prefix": "37dfc236445d1707bcc27479d1b6e84fdaecc77a0549f41fa889cbacbc8c1003",
+        "size_in_bytes": 758
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_jit_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "810f60e8f5a848d3246dfa6da5bc08915a83ba85db8a238f02d25d67661f8a53",
+        "sha256_in_prefix": "810f60e8f5a848d3246dfa6da5bc08915a83ba85db8a238f02d25d67661f8a53",
+        "size_in_bytes": 1458
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_jit_stack_alloc.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7076ca60bbcc9a4b6b5094e7f4cb985ae471ca7e128dacb42dce8bc2a7ffd3fd",
+        "sha256_in_prefix": "7076ca60bbcc9a4b6b5094e7f4cb985ae471ca7e128dacb42dce8bc2a7ffd3fd",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_jit_stack_free.3.gz",
+        "path_type": "hardlink",
+        "sha256": "92d2dcb392e67d57c5b0220cde4bd4b0d1d9b3bed3fb3f148d2dd018e12c0563",
+        "sha256_in_prefix": "92d2dcb392e67d57c5b0220cde4bd4b0d1d9b3bed3fb3f148d2dd018e12c0563",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_maketables.3.gz",
+        "path_type": "hardlink",
+        "sha256": "1a1a181ad5ce17a669649557b85f45f2ee391e5f2ee63db83b0015e68ac33ea7",
+        "sha256_in_prefix": "1a1a181ad5ce17a669649557b85f45f2ee391e5f2ee63db83b0015e68ac33ea7",
+        "size_in_bytes": 496
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_pattern_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4ce028b75852446aa616ae631205574084829736c59437be8ea8c1b24b8594f9",
+        "sha256_in_prefix": "4ce028b75852446aa616ae631205574084829736c59437be8ea8c1b24b8594f9",
+        "size_in_bytes": 670
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_refcount.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a920601f285300a4dc1b45154afb24991a58343a6bb0c60e549368c01864c0b1",
+        "sha256_in_prefix": "a920601f285300a4dc1b45154afb24991a58343a6bb0c60e549368c01864c0b1",
+        "size_in_bytes": 471
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_study.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a38ffcbcb42d9a2e2e81eb34844388b5e0e12fcb1e8b4fa45a6a841b5a8a5d9d",
+        "sha256_in_prefix": "a38ffcbcb42d9a2e2e81eb34844388b5e0e12fcb1e8b4fa45a6a841b5a8a5d9d",
+        "size_in_bytes": 751
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_utf16_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "27782dedd6b70d35a0b270488d9a7944ff5248905b4472e319773330e12eeaa9",
+        "sha256_in_prefix": "27782dedd6b70d35a0b270488d9a7944ff5248905b4472e319773330e12eeaa9",
+        "size_in_bytes": 749
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre16_version.3.gz",
+        "path_type": "hardlink",
+        "sha256": "67f6e27472f6b5e66dab45b50dd7003cb5d586b394d46295434aeb4eaf53ef21",
+        "sha256_in_prefix": "67f6e27472f6b5e66dab45b50dd7003cb5d586b394d46295434aeb4eaf53ef21",
+        "size_in_bytes": 388
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32.3.gz",
+        "path_type": "hardlink",
+        "sha256": "e3c0ddca4a6725d8791d4795e3d44a29be0c662a2b94f298261cdab2fa02c71f",
+        "sha256_in_prefix": "e3c0ddca4a6725d8791d4795e3d44a29be0c662a2b94f298261cdab2fa02c71f",
+        "size_in_bytes": 4356
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_assign_jit_stack.3.gz",
+        "path_type": "hardlink",
+        "sha256": "d1678b87b588fcda715784f99cd81ce473e7d3b0ca5bf5feeb8d4bfa57e6fb39",
+        "sha256_in_prefix": "d1678b87b588fcda715784f99cd81ce473e7d3b0ca5bf5feeb8d4bfa57e6fb39",
+        "size_in_bytes": 848
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_compile.3.gz",
+        "path_type": "hardlink",
+        "sha256": "0bbe2c304ccadaa2ed865d9d4a50954e94a767c12d7ed9d19957c4693916b560",
+        "sha256_in_prefix": "0bbe2c304ccadaa2ed865d9d4a50954e94a767c12d7ed9d19957c4693916b560",
+        "size_in_bytes": 1583
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_compile2.3.gz",
+        "path_type": "hardlink",
+        "sha256": "95b0dde3ce337c683e2621be68f4ddf21d1f0722f3a5db731f357769348e9765",
+        "sha256_in_prefix": "95b0dde3ce337c683e2621be68f4ddf21d1f0722f3a5db731f357769348e9765",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_config.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2a05f5e37a4141c5768fd581b0eafbfbf208631deb315490d121d4613da1ecf7",
+        "sha256_in_prefix": "2a05f5e37a4141c5768fd581b0eafbfbf208631deb315490d121d4613da1ecf7",
+        "size_in_bytes": 1240
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_copy_named_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "341978b6b603981b40748600ef82626d7769ab70d7aa9c8758fa4bf01b6be774",
+        "sha256_in_prefix": "341978b6b603981b40748600ef82626d7769ab70d7aa9c8758fa4bf01b6be774",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_copy_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "1eddc2450d283a1470b9ef597da8bf70df9b3ba0059563c39430434b90361cbb",
+        "sha256_in_prefix": "1eddc2450d283a1470b9ef597da8bf70df9b3ba0059563c39430434b90361cbb",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_dfa_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "14f9ba8e976a3a66f8c02f2e797f4cf21ff24bce7a36f6a48e323f672d07a827",
+        "sha256_in_prefix": "14f9ba8e976a3a66f8c02f2e797f4cf21ff24bce7a36f6a48e323f672d07a827",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7d089e45f60e9e6cf741f0a508dd52fd896e7d701fadd06cb921f345692786d6",
+        "sha256_in_prefix": "7d089e45f60e9e6cf741f0a508dd52fd896e7d701fadd06cb921f345692786d6",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_free_study.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2c1db9a54875a36ed211e0fce8d4c1a5f607c0e371cae3d10ac945b549c5789d",
+        "sha256_in_prefix": "2c1db9a54875a36ed211e0fce8d4c1a5f607c0e371cae3d10ac945b549c5789d",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_free_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "13d8434259ef7472b405d74b89f1484e5e8fd70b74acd5c0193bec06eb1f9c61",
+        "sha256_in_prefix": "13d8434259ef7472b405d74b89f1484e5e8fd70b74acd5c0193bec06eb1f9c61",
+        "size_in_bytes": 426
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_free_substring_list.3.gz",
+        "path_type": "hardlink",
+        "sha256": "5ce4dbb22a5f761d1480afdab62419130d2d4f127aed214d3a4fd330183f1249",
+        "sha256_in_prefix": "5ce4dbb22a5f761d1480afdab62419130d2d4f127aed214d3a4fd330183f1249",
+        "size_in_bytes": 435
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_fullinfo.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4b1d35592155f84317b517bfb326d0eb54e50bb4a72c81366e9c2a6cad69662d",
+        "sha256_in_prefix": "4b1d35592155f84317b517bfb326d0eb54e50bb4a72c81366e9c2a6cad69662d",
+        "size_in_bytes": 1557
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_get_named_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "37425fdd325c397aa2825c4354f6ef10aec4b25eb99bf3e487cdc65823ccbe69",
+        "sha256_in_prefix": "37425fdd325c397aa2825c4354f6ef10aec4b25eb99bf3e487cdc65823ccbe69",
+        "size_in_bytes": 783
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_get_stringnumber.3.gz",
+        "path_type": "hardlink",
+        "sha256": "055afe59302c9501001bc7bb61adb9216327ce2de3ed81ba72a54636c3879d4d",
+        "sha256_in_prefix": "055afe59302c9501001bc7bb61adb9216327ce2de3ed81ba72a54636c3879d4d",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_get_stringtable_entries.3.gz",
+        "path_type": "hardlink",
+        "sha256": "5becf13f6d2e57995d337c86ab727149987316097af8289067421b70c7cb5281",
+        "sha256_in_prefix": "5becf13f6d2e57995d337c86ab727149987316097af8289067421b70c7cb5281",
+        "size_in_bytes": 713
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_get_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "07d02847b47cff2affd7341a703604fd8c4fa546ebf47ec09d20eb0286184dfa",
+        "sha256_in_prefix": "07d02847b47cff2affd7341a703604fd8c4fa546ebf47ec09d20eb0286184dfa",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_get_substring_list.3.gz",
+        "path_type": "hardlink",
+        "sha256": "37dfc236445d1707bcc27479d1b6e84fdaecc77a0549f41fa889cbacbc8c1003",
+        "sha256_in_prefix": "37dfc236445d1707bcc27479d1b6e84fdaecc77a0549f41fa889cbacbc8c1003",
+        "size_in_bytes": 758
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_jit_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "810f60e8f5a848d3246dfa6da5bc08915a83ba85db8a238f02d25d67661f8a53",
+        "sha256_in_prefix": "810f60e8f5a848d3246dfa6da5bc08915a83ba85db8a238f02d25d67661f8a53",
+        "size_in_bytes": 1458
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_jit_stack_alloc.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7076ca60bbcc9a4b6b5094e7f4cb985ae471ca7e128dacb42dce8bc2a7ffd3fd",
+        "sha256_in_prefix": "7076ca60bbcc9a4b6b5094e7f4cb985ae471ca7e128dacb42dce8bc2a7ffd3fd",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_jit_stack_free.3.gz",
+        "path_type": "hardlink",
+        "sha256": "92d2dcb392e67d57c5b0220cde4bd4b0d1d9b3bed3fb3f148d2dd018e12c0563",
+        "sha256_in_prefix": "92d2dcb392e67d57c5b0220cde4bd4b0d1d9b3bed3fb3f148d2dd018e12c0563",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_maketables.3.gz",
+        "path_type": "hardlink",
+        "sha256": "1a1a181ad5ce17a669649557b85f45f2ee391e5f2ee63db83b0015e68ac33ea7",
+        "sha256_in_prefix": "1a1a181ad5ce17a669649557b85f45f2ee391e5f2ee63db83b0015e68ac33ea7",
+        "size_in_bytes": 496
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_pattern_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4ce028b75852446aa616ae631205574084829736c59437be8ea8c1b24b8594f9",
+        "sha256_in_prefix": "4ce028b75852446aa616ae631205574084829736c59437be8ea8c1b24b8594f9",
+        "size_in_bytes": 670
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_refcount.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a920601f285300a4dc1b45154afb24991a58343a6bb0c60e549368c01864c0b1",
+        "sha256_in_prefix": "a920601f285300a4dc1b45154afb24991a58343a6bb0c60e549368c01864c0b1",
+        "size_in_bytes": 471
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_study.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a38ffcbcb42d9a2e2e81eb34844388b5e0e12fcb1e8b4fa45a6a841b5a8a5d9d",
+        "sha256_in_prefix": "a38ffcbcb42d9a2e2e81eb34844388b5e0e12fcb1e8b4fa45a6a841b5a8a5d9d",
+        "size_in_bytes": 751
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_utf32_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2cf52621b094c47bea991184f24ee95dbbc557c955506629fdd587a8164e79bc",
+        "sha256_in_prefix": "2cf52621b094c47bea991184f24ee95dbbc557c955506629fdd587a8164e79bc",
+        "size_in_bytes": 748
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre32_version.3.gz",
+        "path_type": "hardlink",
+        "sha256": "67f6e27472f6b5e66dab45b50dd7003cb5d586b394d46295434aeb4eaf53ef21",
+        "sha256_in_prefix": "67f6e27472f6b5e66dab45b50dd7003cb5d586b394d46295434aeb4eaf53ef21",
+        "size_in_bytes": 388
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_assign_jit_stack.3.gz",
+        "path_type": "hardlink",
+        "sha256": "d1678b87b588fcda715784f99cd81ce473e7d3b0ca5bf5feeb8d4bfa57e6fb39",
+        "sha256_in_prefix": "d1678b87b588fcda715784f99cd81ce473e7d3b0ca5bf5feeb8d4bfa57e6fb39",
+        "size_in_bytes": 848
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_compile.3.gz",
+        "path_type": "hardlink",
+        "sha256": "0bbe2c304ccadaa2ed865d9d4a50954e94a767c12d7ed9d19957c4693916b560",
+        "sha256_in_prefix": "0bbe2c304ccadaa2ed865d9d4a50954e94a767c12d7ed9d19957c4693916b560",
+        "size_in_bytes": 1583
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_compile2.3.gz",
+        "path_type": "hardlink",
+        "sha256": "95b0dde3ce337c683e2621be68f4ddf21d1f0722f3a5db731f357769348e9765",
+        "sha256_in_prefix": "95b0dde3ce337c683e2621be68f4ddf21d1f0722f3a5db731f357769348e9765",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_config.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2a05f5e37a4141c5768fd581b0eafbfbf208631deb315490d121d4613da1ecf7",
+        "sha256_in_prefix": "2a05f5e37a4141c5768fd581b0eafbfbf208631deb315490d121d4613da1ecf7",
+        "size_in_bytes": 1240
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_copy_named_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "341978b6b603981b40748600ef82626d7769ab70d7aa9c8758fa4bf01b6be774",
+        "sha256_in_prefix": "341978b6b603981b40748600ef82626d7769ab70d7aa9c8758fa4bf01b6be774",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_copy_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "1eddc2450d283a1470b9ef597da8bf70df9b3ba0059563c39430434b90361cbb",
+        "sha256_in_prefix": "1eddc2450d283a1470b9ef597da8bf70df9b3ba0059563c39430434b90361cbb",
+        "size_in_bytes": 658
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_dfa_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "14f9ba8e976a3a66f8c02f2e797f4cf21ff24bce7a36f6a48e323f672d07a827",
+        "sha256_in_prefix": "14f9ba8e976a3a66f8c02f2e797f4cf21ff24bce7a36f6a48e323f672d07a827",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7d089e45f60e9e6cf741f0a508dd52fd896e7d701fadd06cb921f345692786d6",
+        "sha256_in_prefix": "7d089e45f60e9e6cf741f0a508dd52fd896e7d701fadd06cb921f345692786d6",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_free_study.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2c1db9a54875a36ed211e0fce8d4c1a5f607c0e371cae3d10ac945b549c5789d",
+        "sha256_in_prefix": "2c1db9a54875a36ed211e0fce8d4c1a5f607c0e371cae3d10ac945b549c5789d",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_free_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "13d8434259ef7472b405d74b89f1484e5e8fd70b74acd5c0193bec06eb1f9c61",
+        "sha256_in_prefix": "13d8434259ef7472b405d74b89f1484e5e8fd70b74acd5c0193bec06eb1f9c61",
+        "size_in_bytes": 426
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_free_substring_list.3.gz",
+        "path_type": "hardlink",
+        "sha256": "5ce4dbb22a5f761d1480afdab62419130d2d4f127aed214d3a4fd330183f1249",
+        "sha256_in_prefix": "5ce4dbb22a5f761d1480afdab62419130d2d4f127aed214d3a4fd330183f1249",
+        "size_in_bytes": 435
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_fullinfo.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4b1d35592155f84317b517bfb326d0eb54e50bb4a72c81366e9c2a6cad69662d",
+        "sha256_in_prefix": "4b1d35592155f84317b517bfb326d0eb54e50bb4a72c81366e9c2a6cad69662d",
+        "size_in_bytes": 1557
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_get_named_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "37425fdd325c397aa2825c4354f6ef10aec4b25eb99bf3e487cdc65823ccbe69",
+        "sha256_in_prefix": "37425fdd325c397aa2825c4354f6ef10aec4b25eb99bf3e487cdc65823ccbe69",
+        "size_in_bytes": 783
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_get_stringnumber.3.gz",
+        "path_type": "hardlink",
+        "sha256": "055afe59302c9501001bc7bb61adb9216327ce2de3ed81ba72a54636c3879d4d",
+        "sha256_in_prefix": "055afe59302c9501001bc7bb61adb9216327ce2de3ed81ba72a54636c3879d4d",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_get_stringtable_entries.3.gz",
+        "path_type": "hardlink",
+        "sha256": "5becf13f6d2e57995d337c86ab727149987316097af8289067421b70c7cb5281",
+        "sha256_in_prefix": "5becf13f6d2e57995d337c86ab727149987316097af8289067421b70c7cb5281",
+        "size_in_bytes": 713
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_get_substring.3.gz",
+        "path_type": "hardlink",
+        "sha256": "07d02847b47cff2affd7341a703604fd8c4fa546ebf47ec09d20eb0286184dfa",
+        "sha256_in_prefix": "07d02847b47cff2affd7341a703604fd8c4fa546ebf47ec09d20eb0286184dfa",
+        "size_in_bytes": 723
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_get_substring_list.3.gz",
+        "path_type": "hardlink",
+        "sha256": "37dfc236445d1707bcc27479d1b6e84fdaecc77a0549f41fa889cbacbc8c1003",
+        "sha256_in_prefix": "37dfc236445d1707bcc27479d1b6e84fdaecc77a0549f41fa889cbacbc8c1003",
+        "size_in_bytes": 758
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_jit_exec.3.gz",
+        "path_type": "hardlink",
+        "sha256": "810f60e8f5a848d3246dfa6da5bc08915a83ba85db8a238f02d25d67661f8a53",
+        "sha256_in_prefix": "810f60e8f5a848d3246dfa6da5bc08915a83ba85db8a238f02d25d67661f8a53",
+        "size_in_bytes": 1458
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_jit_stack_alloc.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7076ca60bbcc9a4b6b5094e7f4cb985ae471ca7e128dacb42dce8bc2a7ffd3fd",
+        "sha256_in_prefix": "7076ca60bbcc9a4b6b5094e7f4cb985ae471ca7e128dacb42dce8bc2a7ffd3fd",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_jit_stack_free.3.gz",
+        "path_type": "hardlink",
+        "sha256": "92d2dcb392e67d57c5b0220cde4bd4b0d1d9b3bed3fb3f148d2dd018e12c0563",
+        "sha256_in_prefix": "92d2dcb392e67d57c5b0220cde4bd4b0d1d9b3bed3fb3f148d2dd018e12c0563",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_maketables.3.gz",
+        "path_type": "hardlink",
+        "sha256": "1a1a181ad5ce17a669649557b85f45f2ee391e5f2ee63db83b0015e68ac33ea7",
+        "sha256_in_prefix": "1a1a181ad5ce17a669649557b85f45f2ee391e5f2ee63db83b0015e68ac33ea7",
+        "size_in_bytes": 496
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_pattern_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4ce028b75852446aa616ae631205574084829736c59437be8ea8c1b24b8594f9",
+        "sha256_in_prefix": "4ce028b75852446aa616ae631205574084829736c59437be8ea8c1b24b8594f9",
+        "size_in_bytes": 670
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_refcount.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a920601f285300a4dc1b45154afb24991a58343a6bb0c60e549368c01864c0b1",
+        "sha256_in_prefix": "a920601f285300a4dc1b45154afb24991a58343a6bb0c60e549368c01864c0b1",
+        "size_in_bytes": 471
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_study.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a38ffcbcb42d9a2e2e81eb34844388b5e0e12fcb1e8b4fa45a6a841b5a8a5d9d",
+        "sha256_in_prefix": "a38ffcbcb42d9a2e2e81eb34844388b5e0e12fcb1e8b4fa45a6a841b5a8a5d9d",
+        "size_in_bytes": 751
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_utf16_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "27782dedd6b70d35a0b270488d9a7944ff5248905b4472e319773330e12eeaa9",
+        "sha256_in_prefix": "27782dedd6b70d35a0b270488d9a7944ff5248905b4472e319773330e12eeaa9",
+        "size_in_bytes": 749
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_utf32_to_host_byte_order.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2cf52621b094c47bea991184f24ee95dbbc557c955506629fdd587a8164e79bc",
+        "sha256_in_prefix": "2cf52621b094c47bea991184f24ee95dbbc557c955506629fdd587a8164e79bc",
+        "size_in_bytes": 748
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcre_version.3.gz",
+        "path_type": "hardlink",
+        "sha256": "67f6e27472f6b5e66dab45b50dd7003cb5d586b394d46295434aeb4eaf53ef21",
+        "sha256_in_prefix": "67f6e27472f6b5e66dab45b50dd7003cb5d586b394d46295434aeb4eaf53ef21",
+        "size_in_bytes": 388
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcreapi.3.gz",
+        "path_type": "hardlink",
+        "sha256": "2d8a2881944666238219c1ff59a24d24e18d9818577118614073cc84009d463d",
+        "sha256_in_prefix": "2d8a2881944666238219c1ff59a24d24e18d9818577118614073cc84009d463d",
+        "size_in_bytes": 37101
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrebuild.3.gz",
+        "path_type": "hardlink",
+        "sha256": "627ef14ca268b9095855dcfe205a5ed11d8310e525cca55522866efae5c61956",
+        "sha256_in_prefix": "627ef14ca268b9095855dcfe205a5ed11d8310e525cca55522866efae5c61956",
+        "size_in_bytes": 7003
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrecallout.3.gz",
+        "path_type": "hardlink",
+        "sha256": "254b42dc96eff6389803da9fc9673ec7a774023e3fcbc1656ecd8b557806d1a2",
+        "sha256_in_prefix": "254b42dc96eff6389803da9fc9673ec7a774023e3fcbc1656ecd8b557806d1a2",
+        "size_in_bytes": 3808
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrecompat.3.gz",
+        "path_type": "hardlink",
+        "sha256": "f923abc1a6466df2b6b4550e9892f065674bfa25160657f48c4255dc8eef1a07",
+        "sha256_in_prefix": "f923abc1a6466df2b6b4550e9892f065674bfa25160657f48c4255dc8eef1a07",
+        "size_in_bytes": 3908
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrecpp.3.gz",
+        "path_type": "hardlink",
+        "sha256": "b816d7e15ba582c942dab5b0140e2f861d41f340a9b16c5e0b19b069997d304e",
+        "sha256_in_prefix": "b816d7e15ba582c942dab5b0140e2f861d41f340a9b16c5e0b19b069997d304e",
+        "size_in_bytes": 5074
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcredemo.3.gz",
+        "path_type": "hardlink",
+        "sha256": "59228b7eb9b061fd43ca221125c10d3d13243c03c330d47ace990fce05d9d5df",
+        "sha256_in_prefix": "59228b7eb9b061fd43ca221125c10d3d13243c03c330d47ace990fce05d9d5df",
+        "size_in_bytes": 4805
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrejit.3.gz",
+        "path_type": "hardlink",
+        "sha256": "8ead20f5140d22f06391ac29745a5f4e6cad30064472de6d0e11fb5e7d58e344",
+        "sha256_in_prefix": "8ead20f5140d22f06391ac29745a5f4e6cad30064472de6d0e11fb5e7d58e344",
+        "size_in_bytes": 6752
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrelimits.3.gz",
+        "path_type": "hardlink",
+        "sha256": "74bee6ec78bb63543753211a8a2656d4d0c9b864a8c1b28f91db471264611a88",
+        "sha256_in_prefix": "74bee6ec78bb63543753211a8a2656d4d0c9b864a8c1b28f91db471264611a88",
+        "size_in_bytes": 1295
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrematching.3.gz",
+        "path_type": "hardlink",
+        "sha256": "9a17726fff1689ca2e860434cc2256834a6f4f36bcf266342e60df47d45a0172",
+        "sha256_in_prefix": "9a17726fff1689ca2e860434cc2256834a6f4f36bcf266342e60df47d45a0172",
+        "size_in_bytes": 3638
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrepartial.3.gz",
+        "path_type": "hardlink",
+        "sha256": "8b392add374d553fae053246244f05a7f5706a3b4450d4d967c8032a34883931",
+        "sha256_in_prefix": "8b392add374d553fae053246244f05a7f5706a3b4450d4d967c8032a34883931",
+        "size_in_bytes": 7164
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrepattern.3.gz",
+        "path_type": "hardlink",
+        "sha256": "563710f2621714f6dddfd0e4eec3c79f653f7db317e19719bd058e66702a6e85",
+        "sha256_in_prefix": "563710f2621714f6dddfd0e4eec3c79f653f7db317e19719bd058e66702a6e85",
+        "size_in_bytes": 42581
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcreperform.3.gz",
+        "path_type": "hardlink",
+        "sha256": "ac0178380fc19ec7810dc512e2f2c2e6b9dd2f6afa695b54755a6a930abfa372",
+        "sha256_in_prefix": "ac0178380fc19ec7810dc512e2f2c2e6b9dd2f6afa695b54755a6a930abfa372",
+        "size_in_bytes": 3222
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcreposix.3.gz",
+        "path_type": "hardlink",
+        "sha256": "705e87c52cf1eaed46ebf3428ecb6a531cd8e2a8364f4503754632531a3acfd6",
+        "sha256_in_prefix": "705e87c52cf1eaed46ebf3428ecb6a531cd8e2a8364f4503754632531a3acfd6",
+        "size_in_bytes": 3886
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcreprecompile.3.gz",
+        "path_type": "hardlink",
+        "sha256": "fbcb2bcde1af643f6d625465a22725b318462347280a49f826677500bd00b7ec",
+        "sha256_in_prefix": "fbcb2bcde1af643f6d625465a22725b318462347280a49f826677500bd00b7ec",
+        "size_in_bytes": 2594
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcresample.3.gz",
+        "path_type": "hardlink",
+        "sha256": "d78eaef1ba8a5124a50c43a4bfde3f4f3a1a82c129f732b39cd30ff7f937c289",
+        "sha256_in_prefix": "d78eaef1ba8a5124a50c43a4bfde3f4f3a1a82c129f732b39cd30ff7f937c289",
+        "size_in_bytes": 1485
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcrestack.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a0489f4d20a2e33a59e3e4e916576d761f6378be140878ac294a5f5bb15a5159",
+        "sha256_in_prefix": "a0489f4d20a2e33a59e3e4e916576d761f6378be140878ac294a5f5bb15a5159",
+        "size_in_bytes": 3654
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcresyntax.3.gz",
+        "path_type": "hardlink",
+        "sha256": "da9af486d7352833a77b98f54356c32a4f1a7c09b61e67d691dfdd54dd3f9b22",
+        "sha256_in_prefix": "da9af486d7352833a77b98f54356c32a4f1a7c09b61e67d691dfdd54dd3f9b22",
+        "size_in_bytes": 4841
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/pcreunicode.3.gz",
+        "path_type": "hardlink",
+        "sha256": "39719e5b60a121af0497f69b3d0c50bcb729759738c7bd777ab594633c9b7265",
+        "sha256_in_prefix": "39719e5b60a121af0497f69b3d0c50bcb729759738c7bd777ab594633c9b7265",
+        "size_in_bytes": 3703
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "26d86b2fb428b9745de149057c7a24d75721272d33f16e504b0255691493a90c",
+  "size": 1292061,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-pcre-8.38-2.tar.bz2",
+  "version": "8.38"
+}

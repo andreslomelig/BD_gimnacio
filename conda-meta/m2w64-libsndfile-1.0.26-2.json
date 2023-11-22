@@ -1,0 +1,374 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-flac",
+    "m2w64-libvorbis",
+    "m2w64-speex",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libsndfile-1.0.26-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libsndfile-1.dll",
+    "Library/mingw-w64/bin/sndfile-cmp.exe",
+    "Library/mingw-w64/bin/sndfile-concat.exe",
+    "Library/mingw-w64/bin/sndfile-convert.exe",
+    "Library/mingw-w64/bin/sndfile-deinterleave.exe",
+    "Library/mingw-w64/bin/sndfile-info.exe",
+    "Library/mingw-w64/bin/sndfile-interleave.exe",
+    "Library/mingw-w64/bin/sndfile-metadata-get.exe",
+    "Library/mingw-w64/bin/sndfile-metadata-set.exe",
+    "Library/mingw-w64/bin/sndfile-play.exe",
+    "Library/mingw-w64/bin/sndfile-regtest.exe",
+    "Library/mingw-w64/bin/sndfile-salvage.exe",
+    "Library/mingw-w64/include/sndfile.h",
+    "Library/mingw-w64/include/sndfile.hh",
+    "Library/mingw-w64/lib/libsndfile.a",
+    "Library/mingw-w64/lib/libsndfile.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/sndfile.pc",
+    "Library/mingw-w64/share/doc/libsndfile/FAQ.html",
+    "Library/mingw-w64/share/doc/libsndfile/api.html",
+    "Library/mingw-w64/share/doc/libsndfile/bugs.html",
+    "Library/mingw-w64/share/doc/libsndfile/command.html",
+    "Library/mingw-w64/share/doc/libsndfile/dither.html",
+    "Library/mingw-w64/share/doc/libsndfile/embedded_files.html",
+    "Library/mingw-w64/share/doc/libsndfile/index.html",
+    "Library/mingw-w64/share/doc/libsndfile/libsndfile.css",
+    "Library/mingw-w64/share/doc/libsndfile/libsndfile.jpg",
+    "Library/mingw-w64/share/doc/libsndfile/lists.html",
+    "Library/mingw-w64/share/doc/libsndfile/new_file_type.HOWTO",
+    "Library/mingw-w64/share/doc/libsndfile/octave.html",
+    "Library/mingw-w64/share/doc/libsndfile/sndfile_info.html",
+    "Library/mingw-w64/share/doc/libsndfile/tutorial.html",
+    "Library/mingw-w64/share/doc/libsndfile/win32.html",
+    "Library/mingw-w64/share/man/man1/sndfile-cmp.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-concat.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-convert.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-deinterleave.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-info.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-interleave.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-metadata-get.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-metadata-set.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-play.1.gz",
+    "Library/mingw-w64/share/man/man1/sndfile-salvage.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-libsndfile-1.0.26-2.tar.bz2",
+  "license": "LGPL",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libsndfile-1.0.26-2",
+    "type": 1
+  },
+  "md5": "1db5c023cb3841a3db65f1a17af58123",
+  "name": "m2w64-libsndfile",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libsndfile-1.0.26-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libsndfile-1.dll",
+        "path_type": "hardlink",
+        "sha256": "087f852fc084fbd62e87153ad65ad3cd212403eec9a1d6dbaec56bf9463c60f8",
+        "sha256_in_prefix": "087f852fc084fbd62e87153ad65ad3cd212403eec9a1d6dbaec56bf9463c60f8",
+        "size_in_bytes": 516676
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-cmp.exe",
+        "path_type": "hardlink",
+        "sha256": "cced9dd02660d6df67934c2602e5be4167af5f6e71f2e7eb0a555fa52eb38402",
+        "sha256_in_prefix": "cced9dd02660d6df67934c2602e5be4167af5f6e71f2e7eb0a555fa52eb38402",
+        "size_in_bytes": 55068
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-concat.exe",
+        "path_type": "hardlink",
+        "sha256": "7e98b93c6edcc03e2689d88d92efe9242d0d98ae9d2b0015b1bfe6da35265ca2",
+        "sha256_in_prefix": "7e98b93c6edcc03e2689d88d92efe9242d0d98ae9d2b0015b1bfe6da35265ca2",
+        "size_in_bytes": 55087
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-convert.exe",
+        "path_type": "hardlink",
+        "sha256": "bd879141fd838314e197249fea3df83231d44fca9e002f1d6103548bffaac891",
+        "sha256_in_prefix": "bd879141fd838314e197249fea3df83231d44fca9e002f1d6103548bffaac891",
+        "size_in_bytes": 58746
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-deinterleave.exe",
+        "path_type": "hardlink",
+        "sha256": "5b6fb09d10babd206213d173369c19563cf1f850a841660953d392f3dc48b852",
+        "sha256_in_prefix": "5b6fb09d10babd206213d173369c19563cf1f850a841660953d392f3dc48b852",
+        "size_in_bytes": 55717
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-info.exe",
+        "path_type": "hardlink",
+        "sha256": "1c0932dfee30eaea9adce539c492e97aa09586ea6e7e8aa33206c065a55f43b8",
+        "sha256_in_prefix": "1c0932dfee30eaea9adce539c492e97aa09586ea6e7e8aa33206c065a55f43b8",
+        "size_in_bytes": 61365
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-interleave.exe",
+        "path_type": "hardlink",
+        "sha256": "1674b0c07653ba321834612cb7019843bbac2b9cdae63f3aac045409e72b8d65",
+        "sha256_in_prefix": "1674b0c07653ba321834612cb7019843bbac2b9cdae63f3aac045409e72b8d65",
+        "size_in_bytes": 55203
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-metadata-get.exe",
+        "path_type": "hardlink",
+        "sha256": "0c7e78fb6634b90f2ae68fba531ee73523daa18c8d6f115899d9657ac4f58986",
+        "sha256_in_prefix": "0c7e78fb6634b90f2ae68fba531ee73523daa18c8d6f115899d9657ac4f58986",
+        "size_in_bytes": 57183
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-metadata-set.exe",
+        "path_type": "hardlink",
+        "sha256": "cdb24a71736ef67338113bc61033c9b1414ed4f9e745483659d57503eb297117",
+        "sha256_in_prefix": "cdb24a71736ef67338113bc61033c9b1414ed4f9e745483659d57503eb297117",
+        "size_in_bytes": 58269
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-play.exe",
+        "path_type": "hardlink",
+        "sha256": "377fa7153fc2c74bf6a39f9092c8baae8ebccc6dc7ca813df9bdad97817b11d3",
+        "sha256_in_prefix": "377fa7153fc2c74bf6a39f9092c8baae8ebccc6dc7ca813df9bdad97817b11d3",
+        "size_in_bytes": 56047
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-regtest.exe",
+        "path_type": "hardlink",
+        "sha256": "842ae72d58a993ce9c9a36a0771efcbc90030860f6de2a6d0eaeb16cbe8935cb",
+        "sha256_in_prefix": "842ae72d58a993ce9c9a36a0771efcbc90030860f6de2a6d0eaeb16cbe8935cb",
+        "size_in_bytes": 22429
+      },
+      {
+        "_path": "Library/mingw-w64/bin/sndfile-salvage.exe",
+        "path_type": "hardlink",
+        "sha256": "b4e3eb72a64aa4a2c9483a2300193a2a0730e9faa968261687c6ce777653ade6",
+        "sha256_in_prefix": "b4e3eb72a64aa4a2c9483a2300193a2a0730e9faa968261687c6ce777653ade6",
+        "size_in_bytes": 54614
+      },
+      {
+        "_path": "Library/mingw-w64/include/sndfile.h",
+        "path_type": "hardlink",
+        "sha256": "bcb6aee505b501ed405e80ef72bf5f24e0c77680dd7cc7c9ab980bf34b285498",
+        "sha256_in_prefix": "bcb6aee505b501ed405e80ef72bf5f24e0c77680dd7cc7c9ab980bf34b285498",
+        "size_in_bytes": 28172
+      },
+      {
+        "_path": "Library/mingw-w64/include/sndfile.hh",
+        "path_type": "hardlink",
+        "sha256": "b2cad1781cad19124bef6885e09ebc276c5aac098cb02a05d003550bc0f22f1e",
+        "sha256_in_prefix": "b2cad1781cad19124bef6885e09ebc276c5aac098cb02a05d003550bc0f22f1e",
+        "size_in_bytes": 12615
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libsndfile.a",
+        "path_type": "hardlink",
+        "sha256": "6616e64bf04e6fdbf25f76dc4af9e9fbc109a76c2a8920718b47d203085cad53",
+        "sha256_in_prefix": "6616e64bf04e6fdbf25f76dc4af9e9fbc109a76c2a8920718b47d203085cad53",
+        "size_in_bytes": 655216
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libsndfile.dll.a",
+        "path_type": "hardlink",
+        "sha256": "64895795594d9435592b732a04db1939d9c123b4202741af90a81164134d80a4",
+        "sha256_in_prefix": "64895795594d9435592b732a04db1939d9c123b4202741af90a81164134d80a4",
+        "size_in_bytes": 26036
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/sndfile.pc",
+        "path_type": "hardlink",
+        "sha256": "037245457857d2223a394f8ebde2b63296c702190a76be6c0098ca05ce8836ae",
+        "sha256_in_prefix": "037245457857d2223a394f8ebde2b63296c702190a76be6c0098ca05ce8836ae",
+        "size_in_bytes": 379
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/FAQ.html",
+        "path_type": "hardlink",
+        "sha256": "e49ff161ae3c8a057d9dc744ed522129c5a54a7689ac0b478af1aa70de1dae59",
+        "sha256_in_prefix": "e49ff161ae3c8a057d9dc744ed522129c5a54a7689ac0b478af1aa70de1dae59",
+        "size_in_bytes": 31965
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/api.html",
+        "path_type": "hardlink",
+        "sha256": "e988bd047e7bdcf615ec3cd7995dc911dab7373b64b39994a4e4271a8cdd263f",
+        "sha256_in_prefix": "e988bd047e7bdcf615ec3cd7995dc911dab7373b64b39994a4e4271a8cdd263f",
+        "size_in_bytes": 30909
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/bugs.html",
+        "path_type": "hardlink",
+        "sha256": "e5933aff396214f53530671a574f89c49674dda7dc60819593590b9e946348ae",
+        "sha256_in_prefix": "e5933aff396214f53530671a574f89c49674dda7dc60819593590b9e946348ae",
+        "size_in_bytes": 2705
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/command.html",
+        "path_type": "hardlink",
+        "sha256": "a92ddd3fbb12cf219bdc92fa9fee45e1ad821ca877cf996a7a08939d744cff0f",
+        "sha256_in_prefix": "a92ddd3fbb12cf219bdc92fa9fee45e1ad821ca877cf996a7a08939d744cff0f",
+        "size_in_bytes": 50380
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/dither.html",
+        "path_type": "hardlink",
+        "sha256": "e4f22f85ca70d16f1040f733def7fa493d18eb2a10208006e79d456e8631c52f",
+        "sha256_in_prefix": "e4f22f85ca70d16f1040f733def7fa493d18eb2a10208006e79d456e8631c52f",
+        "size_in_bytes": 29751
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/embedded_files.html",
+        "path_type": "hardlink",
+        "sha256": "07c98fdc5c1d009c8ba2a2dda335816333b0d3424f472bbd4ddb3216a90a7301",
+        "sha256_in_prefix": "07c98fdc5c1d009c8ba2a2dda335816333b0d3424f472bbd4ddb3216a90a7301",
+        "size_in_bytes": 1441
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/index.html",
+        "path_type": "hardlink",
+        "sha256": "879d9cdaba1047fd57e2401e980918390bd33b71dc727c44708ef2cdb15fbb14",
+        "sha256_in_prefix": "879d9cdaba1047fd57e2401e980918390bd33b71dc727c44708ef2cdb15fbb14",
+        "size_in_bytes": 22131
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/libsndfile.css",
+        "path_type": "hardlink",
+        "sha256": "4bbad92cae20a52172ac2167aec4af88096095552f1485e9c3f690a3217c4e6e",
+        "sha256_in_prefix": "4bbad92cae20a52172ac2167aec4af88096095552f1485e9c3f690a3217c4e6e",
+        "size_in_bytes": 1728
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/libsndfile.jpg",
+        "path_type": "hardlink",
+        "sha256": "e8635d9344f17f6020488a33ed47cfa5e2ce648e893a0f9dd3ae97116efdfa6f",
+        "sha256_in_prefix": "e8635d9344f17f6020488a33ed47cfa5e2ce648e893a0f9dd3ae97116efdfa6f",
+        "size_in_bytes": 22043
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/lists.html",
+        "path_type": "hardlink",
+        "sha256": "9ba1f993e9970cf96b10a910d0e0231a17ec66b366d8cf6a1b03bd2ba3edd67e",
+        "sha256_in_prefix": "9ba1f993e9970cf96b10a910d0e0231a17ec66b366d8cf6a1b03bd2ba3edd67e",
+        "size_in_bytes": 1675
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/new_file_type.HOWTO",
+        "path_type": "hardlink",
+        "sha256": "cb94b006d5f774c46f45019067bbffa1ff9428fac100ae1c03902a8b1e85f8e4",
+        "sha256_in_prefix": "cb94b006d5f774c46f45019067bbffa1ff9428fac100ae1c03902a8b1e85f8e4",
+        "size_in_bytes": 4572
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/octave.html",
+        "path_type": "hardlink",
+        "sha256": "2ed121ae2a2665b393f49792fe7e4c4c75156639a8386b2aeba00a65e86d770d",
+        "sha256_in_prefix": "2ed121ae2a2665b393f49792fe7e4c4c75156639a8386b2aeba00a65e86d770d",
+        "size_in_bytes": 4056
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/sndfile_info.html",
+        "path_type": "hardlink",
+        "sha256": "13af279351a989604ef1e46ae37802e3660be2edbf7e1dfa6007523e9a3da05b",
+        "sha256_in_prefix": "13af279351a989604ef1e46ae37802e3660be2edbf7e1dfa6007523e9a3da05b",
+        "size_in_bytes": 1327
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/tutorial.html",
+        "path_type": "hardlink",
+        "sha256": "8c213d7f3350c014f74205f565826b5cb6c645202734ed21999beb1cd80ba0ed",
+        "sha256_in_prefix": "8c213d7f3350c014f74205f565826b5cb6c645202734ed21999beb1cd80ba0ed",
+        "size_in_bytes": 834
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libsndfile/win32.html",
+        "path_type": "hardlink",
+        "sha256": "070e2c8856d00179afaa7cc7b78338c3f73532253dbfe418e0f66c91a3e036a5",
+        "sha256_in_prefix": "070e2c8856d00179afaa7cc7b78338c3f73532253dbfe418e0f66c91a3e036a5",
+        "size_in_bytes": 1355
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-cmp.1.gz",
+        "path_type": "hardlink",
+        "sha256": "47d277d1bf91a5df2e1c17ac78a79ad5772e24f8601a7ec094dacaaf0cbf2448",
+        "sha256_in_prefix": "47d277d1bf91a5df2e1c17ac78a79ad5772e24f8601a7ec094dacaaf0cbf2448",
+        "size_in_bytes": 441
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-concat.1.gz",
+        "path_type": "hardlink",
+        "sha256": "65d346901f234c3dfd986e87966c35f65cab2d83fc0e199a1b687f7620c421a6",
+        "sha256_in_prefix": "65d346901f234c3dfd986e87966c35f65cab2d83fc0e199a1b687f7620c421a6",
+        "size_in_bytes": 429
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-convert.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a9baf1a55f0600897240d00994ed5d5e6af628d97e5a0a67c2d5ec392e4893a0",
+        "sha256_in_prefix": "a9baf1a55f0600897240d00994ed5d5e6af628d97e5a0a67c2d5ec392e4893a0",
+        "size_in_bytes": 1444
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-deinterleave.1.gz",
+        "path_type": "hardlink",
+        "sha256": "41b879fb460f5ec8438a9ab73d4b27c42dc871bc9975dbc5662327cc3fb7dcdc",
+        "sha256_in_prefix": "41b879fb460f5ec8438a9ab73d4b27c42dc871bc9975dbc5662327cc3fb7dcdc",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-info.1.gz",
+        "path_type": "hardlink",
+        "sha256": "e568dfe7d91d46d53f34bcccff8a0902c933b77ea2f0c2704428ebc1718ded19",
+        "sha256_in_prefix": "e568dfe7d91d46d53f34bcccff8a0902c933b77ea2f0c2704428ebc1718ded19",
+        "size_in_bytes": 460
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-interleave.1.gz",
+        "path_type": "hardlink",
+        "sha256": "41b879fb460f5ec8438a9ab73d4b27c42dc871bc9975dbc5662327cc3fb7dcdc",
+        "sha256_in_prefix": "41b879fb460f5ec8438a9ab73d4b27c42dc871bc9975dbc5662327cc3fb7dcdc",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-metadata-get.1.gz",
+        "path_type": "hardlink",
+        "sha256": "e9bc0b151587c41c5ea4ab96587313ff449376fc53f259556c6d0b1f9aa9dcc1",
+        "sha256_in_prefix": "e9bc0b151587c41c5ea4ab96587313ff449376fc53f259556c6d0b1f9aa9dcc1",
+        "size_in_bytes": 826
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-metadata-set.1.gz",
+        "path_type": "hardlink",
+        "sha256": "e9bc0b151587c41c5ea4ab96587313ff449376fc53f259556c6d0b1f9aa9dcc1",
+        "sha256_in_prefix": "e9bc0b151587c41c5ea4ab96587313ff449376fc53f259556c6d0b1f9aa9dcc1",
+        "size_in_bytes": 826
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-play.1.gz",
+        "path_type": "hardlink",
+        "sha256": "17e4603550f83d3935c24474823d9e7e3e5273fd79ad5a3ae875be248faca571",
+        "sha256_in_prefix": "17e4603550f83d3935c24474823d9e7e3e5273fd79ad5a3ae875be248faca571",
+        "size_in_bytes": 465
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/sndfile-salvage.1.gz",
+        "path_type": "hardlink",
+        "sha256": "b33df52bac7afc49c7fb2a937a00e23d0ce9848bce94b14c8507b8bd6fc76c3a",
+        "sha256_in_prefix": "b33df52bac7afc49c7fb2a937a00e23d0ce9848bce94b14c8507b8bd6fc76c3a",
+        "size_in_bytes": 477
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "df7e1db427caa7c2b264946c1ce3be1d19bc0ea932ce0dbf0293b1a9ee64aaa5",
+  "size": 561824,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libsndfile-1.0.26-2.tar.bz2",
+  "version": "1.0.26"
+}

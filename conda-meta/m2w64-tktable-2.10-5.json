@@ -1,0 +1,92 @@
+{
+  "build": "5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-tk",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-tktable-2.10-5",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/lib/Tktable2.10/README.txt",
+    "Library/mingw-w64/lib/Tktable2.10/Tktable210.dll",
+    "Library/mingw-w64/lib/Tktable2.10/html/tkTable.html",
+    "Library/mingw-w64/lib/Tktable2.10/license.txt",
+    "Library/mingw-w64/lib/Tktable2.10/pkgIndex.tcl",
+    "Library/mingw-w64/lib/Tktable2.10/tkTable.tcl",
+    "Library/mingw-w64/lib/Tktable2.10/tktable.py",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-tktable-2.10-5.tar.bz2",
+  "license": "custom",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-tktable-2.10-5",
+    "type": 1
+  },
+  "md5": "618350fa853744a49100039df342597b",
+  "name": "m2w64-tktable",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-tktable-2.10-5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/README.txt",
+        "path_type": "hardlink",
+        "sha256": "62d23455b356b97a12b5df0491f048059c2c8a93f8a3d669106368679ca59a60",
+        "sha256_in_prefix": "62d23455b356b97a12b5df0491f048059c2c8a93f8a3d669106368679ca59a60",
+        "size_in_bytes": 5048
+      },
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/Tktable210.dll",
+        "path_type": "hardlink",
+        "sha256": "99ac8fc491e1eb378a21868c1168492464207eb09370cfe7e3b8636f0a0b95e6",
+        "sha256_in_prefix": "99ac8fc491e1eb378a21868c1168492464207eb09370cfe7e3b8636f0a0b95e6",
+        "size_in_bytes": 197219
+      },
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/html/tkTable.html",
+        "path_type": "hardlink",
+        "sha256": "c9cb35d4e48f58ffd53c4b6b26905919bfb73dc8a58868ae2293cf3c34c45c49",
+        "sha256_in_prefix": "c9cb35d4e48f58ffd53c4b6b26905919bfb73dc8a58868ae2293cf3c34c45c49",
+        "size_in_bytes": 66891
+      },
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/license.txt",
+        "path_type": "hardlink",
+        "sha256": "450010d597a82621202d5c49691df11d343c5c5d3cf651026c2a94ddcf507b13",
+        "sha256_in_prefix": "450010d597a82621202d5c49691df11d343c5c5d3cf651026c2a94ddcf507b13",
+        "size_in_bytes": 2037
+      },
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/pkgIndex.tcl",
+        "path_type": "hardlink",
+        "sha256": "6d49cd8e4cd82cbfd8e0ee2d7e5e03c3b4324657289214e9d0e54d309f6efe1d",
+        "sha256_in_prefix": "6d49cd8e4cd82cbfd8e0ee2d7e5e03c3b4324657289214e9d0e54d309f6efe1d",
+        "size_in_bytes": 134
+      },
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/tkTable.tcl",
+        "path_type": "hardlink",
+        "sha256": "26b499467819147b70f12be9ce5ebc015a1f7c2bb3cea1b4cecdd9c5ef145283",
+        "sha256_in_prefix": "26b499467819147b70f12be9ce5ebc015a1f7c2bb3cea1b4cecdd9c5ef145283",
+        "size_in_bytes": 24094
+      },
+      {
+        "_path": "Library/mingw-w64/lib/Tktable2.10/tktable.py",
+        "path_type": "hardlink",
+        "sha256": "e3bcd602262f21da4948475bc0eabc68cf1e931c48cb3e43ee5a02667db82ab2",
+        "sha256_in_prefix": "e3bcd602262f21da4948475bc0eabc68cf1e931c48cb3e43ee5a02667db82ab2",
+        "size_in_bytes": 24086
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ec144dc5127c4763997f017b1b135b6ea7fe7c020a9e23b8d1768550b50d5d3c",
+  "size": 114365,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-tktable-2.10-5.tar.bz2",
+  "version": "2.10"
+}

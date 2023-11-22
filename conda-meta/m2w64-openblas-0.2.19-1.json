@@ -1,0 +1,150 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libgfortran",
+    "m2w64-gcc-libs",
+    "m2w64-libwinpthread-git",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-openblas-0.2.19-1",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libopenblas.dll",
+    "Library/mingw-w64/include/OpenBLAS/cblas.h",
+    "Library/mingw-w64/include/OpenBLAS/f77blas.h",
+    "Library/mingw-w64/include/OpenBLAS/lapacke.h",
+    "Library/mingw-w64/include/OpenBLAS/lapacke_config.h",
+    "Library/mingw-w64/include/OpenBLAS/lapacke_mangling.h",
+    "Library/mingw-w64/include/OpenBLAS/lapacke_utils.h",
+    "Library/mingw-w64/include/OpenBLAS/openblas_config.h",
+    "Library/mingw-w64/lib/cmake/openblas/OpenBLASConfig.cmake",
+    "Library/mingw-w64/lib/cmake/openblas/OpenBLASConfigVersion.cmake",
+    "Library/mingw-w64/lib/libopenblas.a",
+    "Library/mingw-w64/lib/libopenblas.dll.a",
+    "Library/mingw-w64/share/licenses/OpenBLAS/LICENSE",
+    "Library/mingw-w64/share/licenses/OpenBLAS/LICENSE-lapack",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-openblas-0.2.19-1.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-openblas-0.2.19-1",
+    "type": 1
+  },
+  "md5": "cff636619a468828475956cbd3d4873b",
+  "name": "m2w64-openblas",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-openblas-0.2.19-1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libopenblas.dll",
+        "path_type": "hardlink",
+        "sha256": "e300a46a52343d2ce9843cc51b5fb33676b72c1c5abb625b2a37982579b6bd9f",
+        "sha256_in_prefix": "e300a46a52343d2ce9843cc51b5fb33676b72c1c5abb625b2a37982579b6bd9f",
+        "size_in_bytes": 37278804
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/cblas.h",
+        "path_type": "hardlink",
+        "sha256": "df1694c28ad05c8a80b87da26c4ce15b1512680a403fa119cb3a99ad6304ac69",
+        "sha256_in_prefix": "df1694c28ad05c8a80b87da26c4ce15b1512680a403fa119cb3a99ad6304ac69",
+        "size_in_bytes": 45648
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/f77blas.h",
+        "path_type": "hardlink",
+        "sha256": "d7b491da4d47164b46bd5dec99b6f06c62b012831ce15bb3edfce6e442c4b51d",
+        "sha256_in_prefix": "d7b491da4d47164b46bd5dec99b6f06c62b012831ce15bb3edfce6e442c4b51d",
+        "size_in_bytes": 47356
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/lapacke.h",
+        "path_type": "hardlink",
+        "sha256": "e0b41f12a8f2584bc298e0318926360c9b2800694e5e17601f2ef36cd33ca413",
+        "sha256_in_prefix": "e0b41f12a8f2584bc298e0318926360c9b2800694e5e17601f2ef36cd33ca413",
+        "size_in_bytes": 1144601
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/lapacke_config.h",
+        "path_type": "hardlink",
+        "sha256": "2a7596043c0caef8ea666a3baf0ab95634d1295b7106e191b141f2b80181d231",
+        "sha256_in_prefix": "2a7596043c0caef8ea666a3baf0ab95634d1295b7106e191b141f2b80181d231",
+        "size_in_bytes": 4388
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/lapacke_mangling.h",
+        "path_type": "hardlink",
+        "sha256": "7d71fdee53a1e0cd01568aba2f152f2e1e4fbb849e84d740e3b031e819fbfa22",
+        "sha256_in_prefix": "7d71fdee53a1e0cd01568aba2f152f2e1e4fbb849e84d740e3b031e819fbfa22",
+        "size_in_bytes": 474
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/lapacke_utils.h",
+        "path_type": "hardlink",
+        "sha256": "c78943d31c047cc66ffe2e317e46f9aeeca6343723c4b7045c1bc7b49b7205b9",
+        "sha256_in_prefix": "c78943d31c047cc66ffe2e317e46f9aeeca6343723c4b7045c1bc7b49b7205b9",
+        "size_in_bytes": 33161
+      },
+      {
+        "_path": "Library/mingw-w64/include/OpenBLAS/openblas_config.h",
+        "path_type": "hardlink",
+        "sha256": "b345dfe403f63e5d9e821e542d367a03e0e8defd261beee8522419c17ac03095",
+        "sha256_in_prefix": "b345dfe403f63e5d9e821e542d367a03e0e8defd261beee8522419c17ac03095",
+        "size_in_bytes": 4660
+      },
+      {
+        "_path": "Library/mingw-w64/lib/cmake/openblas/OpenBLASConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "ace5304d33eba111f02e2164aa87180f50b88cdda1255bfc66c2c907786edf5a",
+        "sha256_in_prefix": "ace5304d33eba111f02e2164aa87180f50b88cdda1255bfc66c2c907786edf5a",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "Library/mingw-w64/lib/cmake/openblas/OpenBLASConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "a96e04bd80d1c2297f7229274b5e87224bc4bed84f8ebbe8a1a43a45f51e35de",
+        "sha256_in_prefix": "a96e04bd80d1c2297f7229274b5e87224bc4bed84f8ebbe8a1a43a45f51e35de",
+        "size_in_bytes": 285
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libopenblas.a",
+        "path_type": "hardlink",
+        "sha256": "47301867fcafa1ce632ca5adbf5c78f250aabcf9e0f3414596b3ec8f24bb60cb",
+        "sha256_in_prefix": "47301867fcafa1ce632ca5adbf5c78f250aabcf9e0f3414596b3ec8f24bb60cb",
+        "size_in_bytes": 50126950
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libopenblas.dll.a",
+        "path_type": "hardlink",
+        "sha256": "9af6fad15a43543cf7c3873e045e8076bc7fb23ffd6ec1d398b9a11144fec240",
+        "sha256_in_prefix": "9af6fad15a43543cf7c3873e045e8076bc7fb23ffd6ec1d398b9a11144fec240",
+        "size_in_bytes": 5805142
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/OpenBLAS/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "190b5a9c8d9723fe958ad33916bd7346d96fab3c5ea90832bb02d854f620fcff",
+        "sha256_in_prefix": "190b5a9c8d9723fe958ad33916bd7346d96fab3c5ea90832bb02d854f620fcff",
+        "size_in_bytes": 1548
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/OpenBLAS/LICENSE-lapack",
+        "path_type": "hardlink",
+        "sha256": "37e64a498894ac7c3b070023e3689e954a8ecf8a23b90968d09a455f1b4f7b35",
+        "sha256_in_prefix": "37e64a498894ac7c3b070023e3689e954a8ecf8a23b90968d09a455f1b4f7b35",
+        "size_in_bytes": 2266
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bbaac8d1671ad111c47e31c60a6671632a4e7aecc20160c7e32bc5fb51649b52",
+  "size": 14719167,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-openblas-0.2.19-1.tar.bz2",
+  "version": "0.2.19"
+}

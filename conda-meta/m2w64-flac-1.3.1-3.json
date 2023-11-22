@@ -1,0 +1,429 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "m2w64-libogg",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-flac-1.3.1-3",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/flac.exe",
+    "Library/mingw-w64/bin/libFLAC++-6.dll",
+    "Library/mingw-w64/bin/libFLAC-8.dll",
+    "Library/mingw-w64/bin/metaflac.exe",
+    "Library/mingw-w64/include/FLAC++/all.h",
+    "Library/mingw-w64/include/FLAC++/decoder.h",
+    "Library/mingw-w64/include/FLAC++/encoder.h",
+    "Library/mingw-w64/include/FLAC++/export.h",
+    "Library/mingw-w64/include/FLAC++/metadata.h",
+    "Library/mingw-w64/include/FLAC/all.h",
+    "Library/mingw-w64/include/FLAC/assert.h",
+    "Library/mingw-w64/include/FLAC/callback.h",
+    "Library/mingw-w64/include/FLAC/export.h",
+    "Library/mingw-w64/include/FLAC/format.h",
+    "Library/mingw-w64/include/FLAC/metadata.h",
+    "Library/mingw-w64/include/FLAC/ordinals.h",
+    "Library/mingw-w64/include/FLAC/stream_decoder.h",
+    "Library/mingw-w64/include/FLAC/stream_encoder.h",
+    "Library/mingw-w64/lib/libFLAC++.a",
+    "Library/mingw-w64/lib/libFLAC++.dll.a",
+    "Library/mingw-w64/lib/libFLAC.a",
+    "Library/mingw-w64/lib/libFLAC.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/flac++.pc",
+    "Library/mingw-w64/lib/pkgconfig/flac.pc",
+    "Library/mingw-w64/share/aclocal/libFLAC++.m4",
+    "Library/mingw-w64/share/aclocal/libFLAC.m4",
+    "Library/mingw-w64/share/doc/flac-1.3.1/FLAC.tag",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/changelog.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/developers.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_bugs.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_example_code.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_format_overview.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_tools.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_tools_flac.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_tools_metaflac.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/faq.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/favicon.ico",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/features.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/flac.css",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/format.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/id.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/images/logo.svg",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/images/logo130.gif",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/index.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/license.html",
+    "Library/mingw-w64/share/doc/flac-1.3.1/html/ogg_mapping.html",
+    "Library/mingw-w64/share/man/man1/flac.1.gz",
+    "Library/mingw-w64/share/man/man1/metaflac.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-flac-1.3.1-3.tar.bz2",
+  "license": "custom:Xiph, LGPL, GPL, FDL",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-flac-1.3.1-3",
+    "type": 1
+  },
+  "md5": "8518616ac231bdb940a35d04f49f4b26",
+  "name": "m2w64-flac",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-flac-1.3.1-3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/flac.exe",
+        "path_type": "hardlink",
+        "sha256": "267a732ba3079ea063564175d28bca9d76ad098cd48c2697bd07248254bcd7e1",
+        "sha256_in_prefix": "267a732ba3079ea063564175d28bca9d76ad098cd48c2697bd07248254bcd7e1",
+        "size_in_bytes": 320156
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libFLAC++-6.dll",
+        "path_type": "hardlink",
+        "sha256": "227411c30be1054f135c83ffffbfe086ba245c2762519849ed44d34bc33fa582",
+        "sha256_in_prefix": "227411c30be1054f135c83ffffbfe086ba245c2762519849ed44d34bc33fa582",
+        "size_in_bytes": 94999
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libFLAC-8.dll",
+        "path_type": "hardlink",
+        "sha256": "a72a5aca9e263895d6c7706d341c734633ed31f105c01b2ba8019251ed9a646a",
+        "sha256_in_prefix": "a72a5aca9e263895d6c7706d341c734633ed31f105c01b2ba8019251ed9a646a",
+        "size_in_bytes": 531331
+      },
+      {
+        "_path": "Library/mingw-w64/bin/metaflac.exe",
+        "path_type": "hardlink",
+        "sha256": "141e245c822123af93d8e6b6d3cc5a796d5d797e0bb98328d929f9000622b41c",
+        "sha256_in_prefix": "141e245c822123af93d8e6b6d3cc5a796d5d797e0bb98328d929f9000622b41c",
+        "size_in_bytes": 195319
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC++/all.h",
+        "path_type": "hardlink",
+        "sha256": "81f3489f8edb42444837331d991c0275b6353f7a1f56aec43fe0798f508108b0",
+        "sha256_in_prefix": "81f3489f8edb42444837331d991c0275b6353f7a1f56aec43fe0798f508108b0",
+        "size_in_bytes": 1976
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC++/decoder.h",
+        "path_type": "hardlink",
+        "sha256": "1c8a925bec4f4e7888219c1a1275de187ddfd7a87c88e87503c23b8a982dbae5",
+        "sha256_in_prefix": "1c8a925bec4f4e7888219c1a1275de187ddfd7a87c88e87503c23b8a982dbae5",
+        "size_in_bytes": 12772
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC++/encoder.h",
+        "path_type": "hardlink",
+        "sha256": "e80ee4f5825d89ae6cef628c8e9e233d23afb2fd3c5190e46b417cb1c8c11a5e",
+        "sha256_in_prefix": "e80ee4f5825d89ae6cef628c8e9e233d23afb2fd3c5190e46b417cb1c8c11a5e",
+        "size_in_bytes": 15414
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC++/export.h",
+        "path_type": "hardlink",
+        "sha256": "cfe1a4afb7c089dc43880578e48e47e835122929b13779fd42d5b89d651b465b",
+        "sha256_in_prefix": "cfe1a4afb7c089dc43880578e48e47e835122929b13779fd42d5b89d651b465b",
+        "size_in_bytes": 3001
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC++/metadata.h",
+        "path_type": "hardlink",
+        "sha256": "e30d6f4525765bbebe22f762e12e9e1e5215e6fd8e98d37e9bce896957bc22f7",
+        "sha256_in_prefix": "e30d6f4525765bbebe22f762e12e9e1e5215e6fd8e98d37e9bce896957bc22f7",
+        "size_in_bytes": 51182
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/all.h",
+        "path_type": "hardlink",
+        "sha256": "b7350fa238fca477de644ef5d4cf4f15fb66915dccd92719586ece52a7579019",
+        "sha256_in_prefix": "b7350fa238fca477de644ef5d4cf4f15fb66915dccd92719586ece52a7579019",
+        "size_in_bytes": 15980
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/assert.h",
+        "path_type": "hardlink",
+        "sha256": "08c4425643c773cd1647d94c6a7418d7b4ee77fe907b8790269bc0e8e464961a",
+        "sha256_in_prefix": "08c4425643c773cd1647d94c6a7418d7b4ee77fe907b8790269bc0e8e464961a",
+        "size_in_bytes": 2000
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/callback.h",
+        "path_type": "hardlink",
+        "sha256": "fad4d7c7e9ad4d5442060ec8267ca6e2487cf45ead3ecad062c3d1d596c5640d",
+        "sha256_in_prefix": "fad4d7c7e9ad4d5442060ec8267ca6e2487cf45ead3ecad062c3d1d596c5640d",
+        "size_in_bytes": 7233
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/export.h",
+        "path_type": "hardlink",
+        "sha256": "728275328a3dffe16a89041e76bca5c294cd61463f69a66616f64f88cb97cb2f",
+        "sha256_in_prefix": "728275328a3dffe16a89041e76bca5c294cd61463f69a66616f64f88cb97cb2f",
+        "size_in_bytes": 3204
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/format.h",
+        "path_type": "hardlink",
+        "sha256": "0848744f86e2d10516fa4e5fcf235acaf34dba0264a4571b27f56b3cf0460a57",
+        "sha256_in_prefix": "0848744f86e2d10516fa4e5fcf235acaf34dba0264a4571b27f56b3cf0460a57",
+        "size_in_bytes": 40477
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/metadata.h",
+        "path_type": "hardlink",
+        "sha256": "f19674a0ee6f8d6b7859122f4b0ca2057c7d3c3e32ac8a56e849bf379a169d36",
+        "sha256_in_prefix": "f19674a0ee6f8d6b7859122f4b0ca2057c7d3c3e32ac8a56e849bf379a169d36",
+        "size_in_bytes": 99372
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/ordinals.h",
+        "path_type": "hardlink",
+        "sha256": "3a77caec31272b2b2b7cb3b74f347845c64a1d0df508a4cfc7ed1207262d5665",
+        "sha256_in_prefix": "3a77caec31272b2b2b7cb3b74f347845c64a1d0df508a4cfc7ed1207262d5665",
+        "size_in_bytes": 2666
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/stream_decoder.h",
+        "path_type": "hardlink",
+        "sha256": "baa8bbe2cf88eae3ccb75641813bdb5ee797bcf94b57daacbcb53deaaa6d575e",
+        "sha256_in_prefix": "baa8bbe2cf88eae3ccb75641813bdb5ee797bcf94b57daacbcb53deaaa6d575e",
+        "size_in_bytes": 70473
+      },
+      {
+        "_path": "Library/mingw-w64/include/FLAC/stream_encoder.h",
+        "path_type": "hardlink",
+        "sha256": "08f02c73e507b02904e698aa261c968eccb22c04defe70796e5f700f4caf9818",
+        "sha256_in_prefix": "08f02c73e507b02904e698aa261c968eccb22c04defe70796e5f700f4caf9818",
+        "size_in_bytes": 82345
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libFLAC++.a",
+        "path_type": "hardlink",
+        "sha256": "2cedd8023d4391b78eadb5d82d8828bf654777310a9195a08f13d530138ad242",
+        "sha256_in_prefix": "2cedd8023d4391b78eadb5d82d8828bf654777310a9195a08f13d530138ad242",
+        "size_in_bytes": 116190
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libFLAC++.dll.a",
+        "path_type": "hardlink",
+        "sha256": "aa14629ee66cfa57a430a3d14a9802756f5b9e4762c47204de706669b7a81732",
+        "sha256_in_prefix": "aa14629ee66cfa57a430a3d14a9802756f5b9e4762c47204de706669b7a81732",
+        "size_in_bytes": 351148
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libFLAC.a",
+        "path_type": "hardlink",
+        "sha256": "35fbc4896cb304a12f5fd16362ea4dfb8e24d0f516c62106cfbb42275f363c4f",
+        "sha256_in_prefix": "35fbc4896cb304a12f5fd16362ea4dfb8e24d0f516c62106cfbb42275f363c4f",
+        "size_in_bytes": 665798
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libFLAC.dll.a",
+        "path_type": "hardlink",
+        "sha256": "947f2feabf7888cc4ce28ff28bc0a915ea76fe45c2d2fcf6403c4483a2f0a279",
+        "sha256_in_prefix": "947f2feabf7888cc4ce28ff28bc0a915ea76fe45c2d2fcf6403c4483a2f0a279",
+        "size_in_bytes": 336134
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/flac++.pc",
+        "path_type": "hardlink",
+        "sha256": "1d38b426b082a7966373dc66f984d22e1848f5478424330cec67410cfb695ee5",
+        "sha256_in_prefix": "1d38b426b082a7966373dc66f984d22e1848f5478424330cec67410cfb695ee5",
+        "size_in_bytes": 253
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/flac.pc",
+        "path_type": "hardlink",
+        "sha256": "2a1eb755d77e5f5d190cbec60131bb0a3b37d6be97bf5e9c3470310dd5b9533d",
+        "sha256_in_prefix": "2a1eb755d77e5f5d190cbec60131bb0a3b37d6be97bf5e9c3470310dd5b9533d",
+        "size_in_bytes": 256
+      },
+      {
+        "_path": "Library/mingw-w64/share/aclocal/libFLAC++.m4",
+        "path_type": "hardlink",
+        "sha256": "5d49d6eb062e9f426cadc9522bca91e6c62a1dc2f2d2ae099bdc320c1fd4f179",
+        "sha256_in_prefix": "5d49d6eb062e9f426cadc9522bca91e6c62a1dc2f2d2ae099bdc320c1fd4f179",
+        "size_in_bytes": 4554
+      },
+      {
+        "_path": "Library/mingw-w64/share/aclocal/libFLAC.m4",
+        "path_type": "hardlink",
+        "sha256": "4a49a7636eb34b303567b2dd89a463e9df11429090e663f4455b86275e53e694",
+        "sha256_in_prefix": "4a49a7636eb34b303567b2dd89a463e9df11429090e663f4455b86275e53e694",
+        "size_in_bytes": 4423
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/FLAC.tag",
+        "path_type": "hardlink",
+        "sha256": "1d8bbeb8fe49ffa2b0a8d4987b256c089037aa502b2027af81b1303e3910a27e",
+        "sha256_in_prefix": "1d8bbeb8fe49ffa2b0a8d4987b256c089037aa502b2027af81b1303e3910a27e",
+        "size_in_bytes": 456208
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/changelog.html",
+        "path_type": "hardlink",
+        "sha256": "f0abd384cbde3cf246ec2dcd0dab7570b8750c047614130d6a88b19cfc9d102e",
+        "sha256_in_prefix": "f0abd384cbde3cf246ec2dcd0dab7570b8750c047614130d6a88b19cfc9d102e",
+        "size_in_bytes": 79868
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/developers.html",
+        "path_type": "hardlink",
+        "sha256": "1ff1fa8e95873420fe15fd5c588a6abbeba56b4b52593960ab326e505ce48595",
+        "sha256_in_prefix": "1ff1fa8e95873420fe15fd5c588a6abbeba56b4b52593960ab326e505ce48595",
+        "size_in_bytes": 5874
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation.html",
+        "path_type": "hardlink",
+        "sha256": "ee7429c6f155356407acda7c322556402d69f881df1a1402e00e236904b91233",
+        "sha256_in_prefix": "ee7429c6f155356407acda7c322556402d69f881df1a1402e00e236904b91233",
+        "size_in_bytes": 5049
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_bugs.html",
+        "path_type": "hardlink",
+        "sha256": "ca7bcace14c40a1f8ac8c9920569d9822d28fc921e561e0b93ca4b8481df6fcd",
+        "sha256_in_prefix": "ca7bcace14c40a1f8ac8c9920569d9822d28fc921e561e0b93ca4b8481df6fcd",
+        "size_in_bytes": 3282
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_example_code.html",
+        "path_type": "hardlink",
+        "sha256": "94050a4d4424fa4f74fb122cb7b149b7e234fa26742da2effcaff69057ee80f0",
+        "sha256_in_prefix": "94050a4d4424fa4f74fb122cb7b149b7e234fa26742da2effcaff69057ee80f0",
+        "size_in_bytes": 2857
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_format_overview.html",
+        "path_type": "hardlink",
+        "sha256": "70775cc57756aed7abadc645dc946c3870fb45a64ed7c93714be018d2adf5a17",
+        "sha256_in_prefix": "70775cc57756aed7abadc645dc946c3870fb45a64ed7c93714be018d2adf5a17",
+        "size_in_bytes": 11078
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_tools.html",
+        "path_type": "hardlink",
+        "sha256": "e0c5d52c8ef641dc9239b3e44768ba476a6cfd89be0f9eeb1f174af0ac101bbc",
+        "sha256_in_prefix": "e0c5d52c8ef641dc9239b3e44768ba476a6cfd89be0f9eeb1f174af0ac101bbc",
+        "size_in_bytes": 3580
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_tools_flac.html",
+        "path_type": "hardlink",
+        "sha256": "58bf93bb49770b1dc37a50e80c4a19159c52015142cd366b4005907b04905eb4",
+        "sha256_in_prefix": "58bf93bb49770b1dc37a50e80c4a19159c52015142cd366b4005907b04905eb4",
+        "size_in_bytes": 74395
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/documentation_tools_metaflac.html",
+        "path_type": "hardlink",
+        "sha256": "7eb2c22ececa9cbf996c3e01b0aea77f3800929c710bc004857dace1a217349f",
+        "sha256_in_prefix": "7eb2c22ececa9cbf996c3e01b0aea77f3800929c710bc004857dace1a217349f",
+        "size_in_bytes": 28272
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/faq.html",
+        "path_type": "hardlink",
+        "sha256": "a4302d0cf45bd83987bfa6c7edbe12963e558be07e52439c8f10f1214ab9aacb",
+        "sha256_in_prefix": "a4302d0cf45bd83987bfa6c7edbe12963e558be07e52439c8f10f1214ab9aacb",
+        "size_in_bytes": 29775
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/favicon.ico",
+        "path_type": "hardlink",
+        "sha256": "d98ff724c308cf6484d8f1398c3ad4e612b970fb1e21427f154dc6eadbca041b",
+        "sha256_in_prefix": "d98ff724c308cf6484d8f1398c3ad4e612b970fb1e21427f154dc6eadbca041b",
+        "size_in_bytes": 1406
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/features.html",
+        "path_type": "hardlink",
+        "sha256": "f7c609979afec83a1a05a6f9bc5277752bed766f4bbb065eb5ad9a266082c76b",
+        "sha256_in_prefix": "f7c609979afec83a1a05a6f9bc5277752bed766f4bbb065eb5ad9a266082c76b",
+        "size_in_bytes": 8537
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/flac.css",
+        "path_type": "hardlink",
+        "sha256": "fbaa15b9fd3eed14767b8b25e61f11825b47ccf6a2c72b97395de314a929c0c4",
+        "sha256_in_prefix": "fbaa15b9fd3eed14767b8b25e61f11825b47ccf6a2c72b97395de314a929c0c4",
+        "size_in_bytes": 3046
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/format.html",
+        "path_type": "hardlink",
+        "sha256": "eb4dff2743122c2206a4c14ce84c7f996d0f06e1ebc33a821e28b7ba72682a9f",
+        "sha256_in_prefix": "eb4dff2743122c2206a4c14ce84c7f996d0f06e1ebc33a821e28b7ba72682a9f",
+        "size_in_bytes": 69514
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/id.html",
+        "path_type": "hardlink",
+        "sha256": "26a7971ad3745c328d0a6411eb73f658d48b9da87c94676f183718e2a9fbadbf",
+        "sha256_in_prefix": "26a7971ad3745c328d0a6411eb73f658d48b9da87c94676f183718e2a9fbadbf",
+        "size_in_bytes": 8881
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/images/logo.svg",
+        "path_type": "hardlink",
+        "sha256": "ee6c4bb1202576a7ec339bed17fa7f05e0452c9d2244976ef0b6ec273177c590",
+        "sha256_in_prefix": "ee6c4bb1202576a7ec339bed17fa7f05e0452c9d2244976ef0b6ec273177c590",
+        "size_in_bytes": 31371
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/images/logo130.gif",
+        "path_type": "hardlink",
+        "sha256": "42d50acd99b09ff7d49a902807e4d8750c0dd363f24120d3a3de32f730148f40",
+        "sha256_in_prefix": "42d50acd99b09ff7d49a902807e4d8750c0dd363f24120d3a3de32f730148f40",
+        "size_in_bytes": 3895
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/index.html",
+        "path_type": "hardlink",
+        "sha256": "1f972522c429aab8dea677a09d6a7d933f539da68984aea15b4e4e5645b2103a",
+        "sha256_in_prefix": "1f972522c429aab8dea677a09d6a7d933f539da68984aea15b4e4e5645b2103a",
+        "size_in_bytes": 4229
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/license.html",
+        "path_type": "hardlink",
+        "sha256": "d9103387060a121a13584907675af63b426af7cceb5757179438f2ed01987539",
+        "sha256_in_prefix": "d9103387060a121a13584907675af63b426af7cceb5757179438f2ed01987539",
+        "size_in_bytes": 5221
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/flac-1.3.1/html/ogg_mapping.html",
+        "path_type": "hardlink",
+        "sha256": "95c6308f355c053108683c8fa1635cbf5fc626d5a27f6cd5f5cb904ea7131d76",
+        "sha256_in_prefix": "95c6308f355c053108683c8fa1635cbf5fc626d5a27f6cd5f5cb904ea7131d76",
+        "size_in_bytes": 9334
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/flac.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a824976ebe5761812fdde672ff500d363dedeef42d11cdabdb90d0398d6a8106",
+        "sha256_in_prefix": "a824976ebe5761812fdde672ff500d363dedeef42d11cdabdb90d0398d6a8106",
+        "size_in_bytes": 8433
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/metaflac.1.gz",
+        "path_type": "hardlink",
+        "sha256": "7a3f3fa8e9e918d5a5e44c2c6855b481c4ffa1d48b376e2e55661cce7310c8c5",
+        "sha256_in_prefix": "7a3f3fa8e9e918d5a5e44c2c6855b481c4ffa1d48b376e2e55661cce7310c8c5",
+        "size_in_bytes": 4347
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5cb00e7d7a2b7495a4f3d93bfeb65d8070b9a05a74bad5e4229a5aae227ecf14",
+  "size": 892709,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-flac-1.3.1-3.tar.bz2",
+  "version": "1.3.1"
+}

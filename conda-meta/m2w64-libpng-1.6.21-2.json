@@ -1,0 +1,205 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "m2w64-zlib",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libpng-1.6.21-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libpng-config",
+    "Library/mingw-w64/bin/libpng16-16.dll",
+    "Library/mingw-w64/bin/libpng16-config",
+    "Library/mingw-w64/bin/png-fix-itxt.exe",
+    "Library/mingw-w64/bin/pngfix.exe",
+    "Library/mingw-w64/include/libpng16/png.h",
+    "Library/mingw-w64/include/libpng16/pngconf.h",
+    "Library/mingw-w64/include/libpng16/pnglibconf.h",
+    "Library/mingw-w64/include/png.h",
+    "Library/mingw-w64/include/pngconf.h",
+    "Library/mingw-w64/include/pnglibconf.h",
+    "Library/mingw-w64/lib/libpng.a",
+    "Library/mingw-w64/lib/libpng.dll.a",
+    "Library/mingw-w64/lib/libpng16.a",
+    "Library/mingw-w64/lib/libpng16.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/libpng.pc",
+    "Library/mingw-w64/lib/pkgconfig/libpng16.pc",
+    "Library/mingw-w64/share/licenses/libpng/LICENSE",
+    "Library/mingw-w64/share/man/man3/libpng.3.gz",
+    "Library/mingw-w64/share/man/man3/libpngpf.3.gz",
+    "Library/mingw-w64/share/man/man5/png.5.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-libpng-1.6.21-2.tar.bz2",
+  "license": "custom",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libpng-1.6.21-2",
+    "type": 1
+  },
+  "md5": "1ba351551d947ba6adfd885c63ef2c8e",
+  "name": "m2w64-libpng",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-libpng-1.6.21-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libpng-config",
+        "path_type": "hardlink",
+        "sha256": "2cdafbdf0c0f49d0ed6c47f75c8b160e6ad429ed9ec4edea8047d14ca5c0268a",
+        "sha256_in_prefix": "2cdafbdf0c0f49d0ed6c47f75c8b160e6ad429ed9ec4edea8047d14ca5c0268a",
+        "size_in_bytes": 2317
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libpng16-16.dll",
+        "path_type": "hardlink",
+        "sha256": "6a117a613ba19ab85cfc501bbe66bae3360208edc7f2a0805e7ac30815c7e804",
+        "sha256_in_prefix": "6a117a613ba19ab85cfc501bbe66bae3360208edc7f2a0805e7ac30815c7e804",
+        "size_in_bytes": 228495
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libpng16-config",
+        "path_type": "hardlink",
+        "sha256": "2cdafbdf0c0f49d0ed6c47f75c8b160e6ad429ed9ec4edea8047d14ca5c0268a",
+        "sha256_in_prefix": "2cdafbdf0c0f49d0ed6c47f75c8b160e6ad429ed9ec4edea8047d14ca5c0268a",
+        "size_in_bytes": 2317
+      },
+      {
+        "_path": "Library/mingw-w64/bin/png-fix-itxt.exe",
+        "path_type": "hardlink",
+        "sha256": "31f72c676c7749dbe95bc209d15707465e00d3f7a4da42a012e8bbdd4fd8a968",
+        "sha256_in_prefix": "31f72c676c7749dbe95bc209d15707465e00d3f7a4da42a012e8bbdd4fd8a968",
+        "size_in_bytes": 22368
+      },
+      {
+        "_path": "Library/mingw-w64/bin/pngfix.exe",
+        "path_type": "hardlink",
+        "sha256": "9ec7ade4030d56044516d13faba8a22e16487f52353ae979cb7f84e143ed6f2b",
+        "sha256_in_prefix": "9ec7ade4030d56044516d13faba8a22e16487f52353ae979cb7f84e143ed6f2b",
+        "size_in_bytes": 82324
+      },
+      {
+        "_path": "Library/mingw-w64/include/libpng16/png.h",
+        "path_type": "hardlink",
+        "sha256": "61e6b46d4c8792b43d5c767db914aaa248870338fbc79495d2ed6e47fdf286d9",
+        "sha256_in_prefix": "61e6b46d4c8792b43d5c767db914aaa248870338fbc79495d2ed6e47fdf286d9",
+        "size_in_bytes": 140496
+      },
+      {
+        "_path": "Library/mingw-w64/include/libpng16/pngconf.h",
+        "path_type": "hardlink",
+        "sha256": "49e0abd7bc6a7761c2b0f9fe54f8b6d9ba8e239bfb028da140e519d81a8df57f",
+        "sha256_in_prefix": "49e0abd7bc6a7761c2b0f9fe54f8b6d9ba8e239bfb028da140e519d81a8df57f",
+        "size_in_bytes": 22873
+      },
+      {
+        "_path": "Library/mingw-w64/include/libpng16/pnglibconf.h",
+        "path_type": "hardlink",
+        "sha256": "69b87abe89cea29ec772a2fe88b11d5bcba5ac2c2182b1c7988f8549c164693a",
+        "sha256_in_prefix": "69b87abe89cea29ec772a2fe88b11d5bcba5ac2c2182b1c7988f8549c164693a",
+        "size_in_bytes": 7341
+      },
+      {
+        "_path": "Library/mingw-w64/include/png.h",
+        "path_type": "hardlink",
+        "sha256": "61e6b46d4c8792b43d5c767db914aaa248870338fbc79495d2ed6e47fdf286d9",
+        "sha256_in_prefix": "61e6b46d4c8792b43d5c767db914aaa248870338fbc79495d2ed6e47fdf286d9",
+        "size_in_bytes": 140496
+      },
+      {
+        "_path": "Library/mingw-w64/include/pngconf.h",
+        "path_type": "hardlink",
+        "sha256": "49e0abd7bc6a7761c2b0f9fe54f8b6d9ba8e239bfb028da140e519d81a8df57f",
+        "sha256_in_prefix": "49e0abd7bc6a7761c2b0f9fe54f8b6d9ba8e239bfb028da140e519d81a8df57f",
+        "size_in_bytes": 22873
+      },
+      {
+        "_path": "Library/mingw-w64/include/pnglibconf.h",
+        "path_type": "hardlink",
+        "sha256": "69b87abe89cea29ec772a2fe88b11d5bcba5ac2c2182b1c7988f8549c164693a",
+        "sha256_in_prefix": "69b87abe89cea29ec772a2fe88b11d5bcba5ac2c2182b1c7988f8549c164693a",
+        "size_in_bytes": 7341
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpng.a",
+        "path_type": "hardlink",
+        "sha256": "612b333299182e8c14fe893dd589081ba3b4639d7cb0bbcfe0e40ee76198f983",
+        "sha256_in_prefix": "612b333299182e8c14fe893dd589081ba3b4639d7cb0bbcfe0e40ee76198f983",
+        "size_in_bytes": 266232
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpng.dll.a",
+        "path_type": "hardlink",
+        "sha256": "f91c6d02698bbe70b7a18a15cb0cada28e77fdbc7e60d9061161c34a055a2301",
+        "sha256_in_prefix": "f91c6d02698bbe70b7a18a15cb0cada28e77fdbc7e60d9061161c34a055a2301",
+        "size_in_bytes": 168680
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpng16.a",
+        "path_type": "hardlink",
+        "sha256": "612b333299182e8c14fe893dd589081ba3b4639d7cb0bbcfe0e40ee76198f983",
+        "sha256_in_prefix": "612b333299182e8c14fe893dd589081ba3b4639d7cb0bbcfe0e40ee76198f983",
+        "size_in_bytes": 266232
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libpng16.dll.a",
+        "path_type": "hardlink",
+        "sha256": "f91c6d02698bbe70b7a18a15cb0cada28e77fdbc7e60d9061161c34a055a2301",
+        "sha256_in_prefix": "f91c6d02698bbe70b7a18a15cb0cada28e77fdbc7e60d9061161c34a055a2301",
+        "size_in_bytes": 168680
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpng.pc",
+        "path_type": "hardlink",
+        "sha256": "06f055c26b7f6cce1a252d07345d005edae87bfa28240b854eb82d4e38f7aae8",
+        "sha256_in_prefix": "06f055c26b7f6cce1a252d07345d005edae87bfa28240b854eb82d4e38f7aae8",
+        "size_in_bytes": 240
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/libpng16.pc",
+        "path_type": "hardlink",
+        "sha256": "06f055c26b7f6cce1a252d07345d005edae87bfa28240b854eb82d4e38f7aae8",
+        "sha256_in_prefix": "06f055c26b7f6cce1a252d07345d005edae87bfa28240b854eb82d4e38f7aae8",
+        "size_in_bytes": 240
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/libpng/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "4462192e1ef93606072e508259fc0ffaa7c959c4092086c08e40d85b29a287e2",
+        "sha256_in_prefix": "4462192e1ef93606072e508259fc0ffaa7c959c4092086c08e40d85b29a287e2",
+        "size_in_bytes": 4197
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/libpng.3.gz",
+        "path_type": "hardlink",
+        "sha256": "7d4cad72ad8bb12859b1665af07b71412765463fc55f881d82b864fdf5537a47",
+        "sha256_in_prefix": "7d4cad72ad8bb12859b1665af07b71412765463fc55f881d82b864fdf5537a47",
+        "size_in_bytes": 78249
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/libpngpf.3.gz",
+        "path_type": "hardlink",
+        "sha256": "22267d3680c608a1a114b1617adbd7b707ebe6794607caa67e81bca7a463eb09",
+        "sha256_in_prefix": "22267d3680c608a1a114b1617adbd7b707ebe6794607caa67e81bca7a463eb09",
+        "size_in_bytes": 465
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man5/png.5.gz",
+        "path_type": "hardlink",
+        "sha256": "a08a0566e38de37303c82502ffe88e71074bbf5223c11c95e0bbe5f12c681abf",
+        "sha256_in_prefix": "a08a0566e38de37303c82502ffe88e71074bbf5223c11c95e0bbe5f12c681abf",
+        "size_in_bytes": 1163
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "50b982563ac48118d67bcf30db41a3c773f749f88836b7f6b4706137cf3bd64f",
+  "size": 408749,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libpng-1.6.21-2.tar.bz2",
+  "version": "1.6.21"
+}

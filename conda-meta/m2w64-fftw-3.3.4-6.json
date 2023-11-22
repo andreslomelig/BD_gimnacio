@@ -1,0 +1,292 @@
+{
+  "build": "6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-fftw-3.3.4-6",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/fftw-wisdom-to-conf",
+    "Library/mingw-w64/bin/fftw-wisdom.exe",
+    "Library/mingw-w64/bin/fftwf-wisdom.exe",
+    "Library/mingw-w64/bin/fftwl-wisdom.exe",
+    "Library/mingw-w64/bin/fftwq-wisdom.exe",
+    "Library/mingw-w64/bin/libfftw3-3.dll",
+    "Library/mingw-w64/bin/libfftw3f-3.dll",
+    "Library/mingw-w64/bin/libfftw3l-3.dll",
+    "Library/mingw-w64/include/fftw3.f",
+    "Library/mingw-w64/include/fftw3.f03",
+    "Library/mingw-w64/include/fftw3.h",
+    "Library/mingw-w64/include/fftw3l.f03",
+    "Library/mingw-w64/include/fftw3q.f03",
+    "Library/mingw-w64/lib/libfftw3.a",
+    "Library/mingw-w64/lib/libfftw3.dll.a",
+    "Library/mingw-w64/lib/libfftw3f.a",
+    "Library/mingw-w64/lib/libfftw3f.dll.a",
+    "Library/mingw-w64/lib/libfftw3l.a",
+    "Library/mingw-w64/lib/libfftw3l.dll.a",
+    "Library/mingw-w64/lib/libfftw3q.a",
+    "Library/mingw-w64/lib/pkgconfig/fftw3.pc",
+    "Library/mingw-w64/lib/pkgconfig/fftw3f.pc",
+    "Library/mingw-w64/lib/pkgconfig/fftw3l.pc",
+    "Library/mingw-w64/lib/pkgconfig/fftw3q.pc",
+    "Library/mingw-w64/share/info/fftw3.info-1.gz",
+    "Library/mingw-w64/share/info/fftw3.info-2.gz",
+    "Library/mingw-w64/share/info/fftw3.info.gz",
+    "Library/mingw-w64/share/man/man1/fftw-wisdom-to-conf.1.gz",
+    "Library/mingw-w64/share/man/man1/fftw-wisdom.1.gz",
+    "Library/mingw-w64/share/man/man1/fftwf-wisdom.1.gz",
+    "Library/mingw-w64/share/man/man1/fftwl-wisdom.1.gz",
+    "Library/mingw-w64/share/man/man1/fftwq-wisdom.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-fftw-3.3.4-6.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-fftw-3.3.4-6",
+    "type": 1
+  },
+  "md5": "eb6f89f924889b30c03790f854c4a81d",
+  "name": "m2w64-fftw",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\m2w64-fftw-3.3.4-6.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/fftw-wisdom-to-conf",
+        "path_type": "hardlink",
+        "sha256": "526cfaed79cf5d4964d08419d6fd000ebe0d95e3a57cd07d97e430fde5a6bfa7",
+        "sha256_in_prefix": "526cfaed79cf5d4964d08419d6fd000ebe0d95e3a57cd07d97e430fde5a6bfa7",
+        "size_in_bytes": 2279
+      },
+      {
+        "_path": "Library/mingw-w64/bin/fftw-wisdom.exe",
+        "path_type": "hardlink",
+        "sha256": "fe31ed3679264feab43cb33cb5fdaa33a01902d701db736292d51d00d5319463",
+        "sha256_in_prefix": "fe31ed3679264feab43cb33cb5fdaa33a01902d701db736292d51d00d5319463",
+        "size_in_bytes": 106552
+      },
+      {
+        "_path": "Library/mingw-w64/bin/fftwf-wisdom.exe",
+        "path_type": "hardlink",
+        "sha256": "1321a33335daecbca39c1f1060553705fbf88cdb71fef564a7ca173b86363588",
+        "sha256_in_prefix": "1321a33335daecbca39c1f1060553705fbf88cdb71fef564a7ca173b86363588",
+        "size_in_bytes": 106606
+      },
+      {
+        "_path": "Library/mingw-w64/bin/fftwl-wisdom.exe",
+        "path_type": "hardlink",
+        "sha256": "c523d6a26bcfe4fc906c1223bc2d60b8d22f5d9a84323313c7c555616058ba7a",
+        "sha256_in_prefix": "c523d6a26bcfe4fc906c1223bc2d60b8d22f5d9a84323313c7c555616058ba7a",
+        "size_in_bytes": 106606
+      },
+      {
+        "_path": "Library/mingw-w64/bin/fftwq-wisdom.exe",
+        "path_type": "hardlink",
+        "sha256": "96095be97ffd23a529a307f6f0848abb9b16ddd8ffd28e237d4a62da330082af",
+        "sha256_in_prefix": "96095be97ffd23a529a307f6f0848abb9b16ddd8ffd28e237d4a62da330082af",
+        "size_in_bytes": 3306947
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libfftw3-3.dll",
+        "path_type": "hardlink",
+        "sha256": "72f59d2f434cbaa5c863740434e6c83773fedfd9f60f62750d52cdb9e6bb8402",
+        "sha256_in_prefix": "72f59d2f434cbaa5c863740434e6c83773fedfd9f60f62750d52cdb9e6bb8402",
+        "size_in_bytes": 2195313
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libfftw3f-3.dll",
+        "path_type": "hardlink",
+        "sha256": "61a115fca2cd42424962e1a3d66366e5827ff4f741ece2a17c01e8070b0dc037",
+        "sha256_in_prefix": "61a115fca2cd42424962e1a3d66366e5827ff4f741ece2a17c01e8070b0dc037",
+        "size_in_bytes": 2217329
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libfftw3l-3.dll",
+        "path_type": "hardlink",
+        "sha256": "00752e1f29230bead17597877a5ff97c8f76c46a57932833d1954cd96576d2ae",
+        "sha256_in_prefix": "00752e1f29230bead17597877a5ff97c8f76c46a57932833d1954cd96576d2ae",
+        "size_in_bytes": 924529
+      },
+      {
+        "_path": "Library/mingw-w64/include/fftw3.f",
+        "path_type": "hardlink",
+        "sha256": "1f8a5c9a48f3e3726b667970907d22e3cb0cb9fdf8ec8be7521fb798fd3befc6",
+        "sha256_in_prefix": "1f8a5c9a48f3e3726b667970907d22e3cb0cb9fdf8ec8be7521fb798fd3befc6",
+        "size_in_bytes": 2447
+      },
+      {
+        "_path": "Library/mingw-w64/include/fftw3.f03",
+        "path_type": "hardlink",
+        "sha256": "d027338eeca9fada15e5eec32f35f2dcfe644125aa20bd07eb990aa134035383",
+        "sha256_in_prefix": "d027338eeca9fada15e5eec32f35f2dcfe644125aa20bd07eb990aa134035383",
+        "size_in_bytes": 54273
+      },
+      {
+        "_path": "Library/mingw-w64/include/fftw3.h",
+        "path_type": "hardlink",
+        "sha256": "8065447638c2cc8451c415248a89c74de4c5f2d1abbac9966454d7aef1b6839d",
+        "sha256_in_prefix": "8065447638c2cc8451c415248a89c74de4c5f2d1abbac9966454d7aef1b6839d",
+        "size_in_bytes": 17900
+      },
+      {
+        "_path": "Library/mingw-w64/include/fftw3l.f03",
+        "path_type": "hardlink",
+        "sha256": "a4eef3d5bd3df2c328241ba899687ccd35374a2db9bc34b38b2364bcf32f9e0f",
+        "sha256_in_prefix": "a4eef3d5bd3df2c328241ba899687ccd35374a2db9bc34b38b2364bcf32f9e0f",
+        "size_in_bytes": 26820
+      },
+      {
+        "_path": "Library/mingw-w64/include/fftw3q.f03",
+        "path_type": "hardlink",
+        "sha256": "f3dc224c65b6c7f74248325eeab85edf2a91079dde774fe4f9e0d8ea49f0fd11",
+        "sha256_in_prefix": "f3dc224c65b6c7f74248325eeab85edf2a91079dde774fe4f9e0d8ea49f0fd11",
+        "size_in_bytes": 25413
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3.a",
+        "path_type": "hardlink",
+        "sha256": "547871d33f337fb9a974bedd9eaf261f0f6637bb81ee60bd044135b7c67dd037",
+        "sha256_in_prefix": "547871d33f337fb9a974bedd9eaf261f0f6637bb81ee60bd044135b7c67dd037",
+        "size_in_bytes": 3583524
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3.dll.a",
+        "path_type": "hardlink",
+        "sha256": "add2fbe5ec4a867bdb0f81deacd6b6c14f8803224affe6160fc7499702bf94b2",
+        "sha256_in_prefix": "add2fbe5ec4a867bdb0f81deacd6b6c14f8803224affe6160fc7499702bf94b2",
+        "size_in_bytes": 147060
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3f.a",
+        "path_type": "hardlink",
+        "sha256": "5369fde0015ed231e8fdcf21939afa93b6ccea5b7edb26176d15f5478e16f3f9",
+        "sha256_in_prefix": "5369fde0015ed231e8fdcf21939afa93b6ccea5b7edb26176d15f5478e16f3f9",
+        "size_in_bytes": 3614822
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3f.dll.a",
+        "path_type": "hardlink",
+        "sha256": "acdf2fc864cee45e4d3fccd7b89d08135ce4f37ed2d5c096f4f73da68d5b7f5d",
+        "sha256_in_prefix": "acdf2fc864cee45e4d3fccd7b89d08135ce4f37ed2d5c096f4f73da68d5b7f5d",
+        "size_in_bytes": 147434
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3l.a",
+        "path_type": "hardlink",
+        "sha256": "c9ce371c41dd35b94be1d4465581e94de981eda46796f1ece563cc9d84895f94",
+        "sha256_in_prefix": "c9ce371c41dd35b94be1d4465581e94de981eda46796f1ece563cc9d84895f94",
+        "size_in_bytes": 1549144
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3l.dll.a",
+        "path_type": "hardlink",
+        "sha256": "a9c16d6066314ba7e2912e489ecf1489c99fdd83c4109bc0a04cb59d1ac23d80",
+        "sha256_in_prefix": "a9c16d6066314ba7e2912e489ecf1489c99fdd83c4109bc0a04cb59d1ac23d80",
+        "size_in_bytes": 147434
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libfftw3q.a",
+        "path_type": "hardlink",
+        "sha256": "76ea9bbdefc4bd71e5e9537cfd4a3d33fc628b771324f23e079f57617a8f862e",
+        "sha256_in_prefix": "76ea9bbdefc4bd71e5e9537cfd4a3d33fc628b771324f23e079f57617a8f862e",
+        "size_in_bytes": 4463884
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/fftw3.pc",
+        "path_type": "hardlink",
+        "sha256": "a06f5c51dea91b4ef5a24c59d5357c0b8e53f0fbc58ed111cdc974525632617b",
+        "sha256_in_prefix": "a06f5c51dea91b4ef5a24c59d5357c0b8e53f0fbc58ed111cdc974525632617b",
+        "size_in_bytes": 233
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/fftw3f.pc",
+        "path_type": "hardlink",
+        "sha256": "20aa530852b6ba9b8ec5c4a9c02b41abd346d2fa4c4f1c54341977be0371ba4a",
+        "sha256_in_prefix": "20aa530852b6ba9b8ec5c4a9c02b41abd346d2fa4c4f1c54341977be0371ba4a",
+        "size_in_bytes": 234
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/fftw3l.pc",
+        "path_type": "hardlink",
+        "sha256": "88bcd2ed45d3d74065ea18fa8af4c6316305529c7e80f9d8fcd83b025c55ce25",
+        "sha256_in_prefix": "88bcd2ed45d3d74065ea18fa8af4c6316305529c7e80f9d8fcd83b025c55ce25",
+        "size_in_bytes": 234
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/fftw3q.pc",
+        "path_type": "hardlink",
+        "sha256": "97e0b8036d2c81e7049008ff3fed79e1293824e02ef361e9cfdf63c61f9b58f6",
+        "sha256_in_prefix": "97e0b8036d2c81e7049008ff3fed79e1293824e02ef361e9cfdf63c61f9b58f6",
+        "size_in_bytes": 244
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/fftw3.info-1.gz",
+        "path_type": "hardlink",
+        "sha256": "64c9482f89c88f4d569c31c4d90566fbb6db6a9944aff98b8a0d15fa57fc6861",
+        "sha256_in_prefix": "64c9482f89c88f4d569c31c4d90566fbb6db6a9944aff98b8a0d15fa57fc6861",
+        "size_in_bytes": 84216
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/fftw3.info-2.gz",
+        "path_type": "hardlink",
+        "sha256": "e829eda103aa68ed726ef3ed4072bd3c88052054996cb5217fe9caab5f6caf66",
+        "sha256_in_prefix": "e829eda103aa68ed726ef3ed4072bd3c88052054996cb5217fe9caab5f6caf66",
+        "size_in_bytes": 7569
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/fftw3.info.gz",
+        "path_type": "hardlink",
+        "sha256": "ec4bc9f18fb2a14b613ad68a2185faf785f12f77ff8a5b60abad3d484ca543d1",
+        "sha256_in_prefix": "ec4bc9f18fb2a14b613ad68a2185faf785f12f77ff8a5b60abad3d484ca543d1",
+        "size_in_bytes": 2408
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/fftw-wisdom-to-conf.1.gz",
+        "path_type": "hardlink",
+        "sha256": "8d0c0d629fb66cc2a1346d91fa4c161d3385407a68bd2e42e7ac9ef6c995541d",
+        "sha256_in_prefix": "8d0c0d629fb66cc2a1346d91fa4c161d3385407a68bd2e42e7ac9ef6c995541d",
+        "size_in_bytes": 1737
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/fftw-wisdom.1.gz",
+        "path_type": "hardlink",
+        "sha256": "3fb97607c966e66913299ff532a51894b64b24d8c43f7137f1cf1a2bc7291c65",
+        "sha256_in_prefix": "3fb97607c966e66913299ff532a51894b64b24d8c43f7137f1cf1a2bc7291c65",
+        "size_in_bytes": 3040
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/fftwf-wisdom.1.gz",
+        "path_type": "hardlink",
+        "sha256": "ad86fda25edeb614a96088dfe74916aa98e112217c570c29a9df41cf16545523",
+        "sha256_in_prefix": "ad86fda25edeb614a96088dfe74916aa98e112217c570c29a9df41cf16545523",
+        "size_in_bytes": 3043
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/fftwl-wisdom.1.gz",
+        "path_type": "hardlink",
+        "sha256": "462f3be1c039d71578ee391b931006b10c17bf88519ff9837c7cfdc4b183aa51",
+        "sha256_in_prefix": "462f3be1c039d71578ee391b931006b10c17bf88519ff9837c7cfdc4b183aa51",
+        "size_in_bytes": 3043
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/fftwq-wisdom.1.gz",
+        "path_type": "hardlink",
+        "sha256": "44bdb8f88a415957cf8999331db75b1d1616cb3f7e99dc953469a898f94c7cca",
+        "sha256_in_prefix": "44bdb8f88a415957cf8999331db75b1d1616cb3f7e99dc953469a898f94c7cca",
+        "size_in_bytes": 3044
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e9df90ded9ac00cfd63b58874b3c932290a94677110fa271ca6b377cd8ae7654",
+  "size": 5651630,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-fftw-3.3.4-6.tar.bz2",
+  "version": "3.3.4"
+}

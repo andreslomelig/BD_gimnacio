@@ -1,0 +1,34 @@
+{
+  "build": "anacondar_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/r/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\andre\\anaconda3\\pkgs\\_r-mutex-1.0.0-anacondar_1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "_r-mutex-1.0.0-anacondar_1.conda",
+  "legacy_bz2_md5": "45030d7fe37cee88e5f45f22dbd7f864",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\andre\\anaconda3\\pkgs\\_r-mutex-1.0.0-anacondar_1",
+    "type": 1
+  },
+  "md5": "adc4374fcca98042b32f8e7c9855aede",
+  "name": "_r-mutex",
+  "package_tarball_full_path": "C:\\Users\\andre\\anaconda3\\pkgs\\_r-mutex-1.0.0-anacondar_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ab4e212872c997ecbb4b34849afc47eb12dcac808e7ca26eed512487a3d33121",
+  "size": 3002,
+  "subdir": "win-64",
+  "timestamp": 1519529757366,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/r/win-64/_r-mutex-1.0.0-anacondar_1.conda",
+  "version": "1.0.0"
+}
