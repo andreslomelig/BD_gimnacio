@@ -6,7 +6,7 @@ import cv2
 from PIL import Image, ImageTk
 import face_recognition
 import util
-
+import matplotlib.pylab as plt
 
 class App:
     def __init__(self):
@@ -46,6 +46,8 @@ class App:
 
         self.most_recent_capture_arr = frame
         img_ = cv2.cvtColor(self.most_recent_capture_arr, cv2.COLOR_BGR2RGB)
+
+
         self.most_recent_capture_pil = Image.fromarray(img_)
         imgtk = ImageTk.PhotoImage(image=self.most_recent_capture_pil)
         self._label.imgtk = imgtk
