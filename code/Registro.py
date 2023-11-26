@@ -15,14 +15,7 @@ class App:
         self.main_window = tk.Tk()
         self.main_window.geometry("1200x520+350+100")
 
-        self.idact = 1
-
-
-        self.login_button_main_window = util.get_button(self.main_window, 'login', 'green', self.login)
-        self.login_button_main_window.place(x=750, y=200)
-
-        self.logout_button_main_window = util.get_button(self.main_window, 'logout', 'red', self.logout)
-        self.logout_button_main_window.place(x=750, y=300)
+        self.idact = 26
 
         self.register_new_user_button_main_window = util.get_button(self.main_window, 'register new user', 'gray',
                                                                     self.register_new_user, fg='black')
@@ -107,13 +100,10 @@ class App:
         os.remove(unknow_img_path)
         
 
-    def logout(self):
-        pass
-
 
     def register_new_user(self):
         self.register_new_user_window = tk.Toplevel(self.main_window)
-        self.register_new_user_window.geometry("1200x520+370+120")
+        self.register_new_user_window.geometry("1200x700+370+120")
 
         self.accept_button_register_new_user_window = util.get_button(self.register_new_user_window, 'Accept', 'green', self.accept_register_new_user)
         self.accept_button_register_new_user_window.place(x=750, y=300)
@@ -129,8 +119,45 @@ class App:
         self.entry_text_register_new_user = util.get_entry_text(self.register_new_user_window)
         self.entry_text_register_new_user.place(x=750, y=150)
 
-        self.text_label_register_new_user = util.get_text_label(self.register_new_user_window, 'Please, \ninput username:')
+        self.text_label_register_new_user = util.get_text_label(self.register_new_user_window, 'Please, \ninput Name:')
         self.text_label_register_new_user.place(x=750, y=70)
+        '''
+        self.entry_text_register_new_user2 = util.get_entry_text(self.register_new_user_window)
+        self.entry_text_register_new_user2.place(x=750, y=580)
+
+        self.text_label_register_new_user2 = util.get_text_label(self.register_new_user_window, 'Please, \ninput Age:')
+        self.text_label_register_new_user2.place(x=750, y=500)
+        
+        self.entry_text_register_new_user4 = util.get_entry_text(self.register_new_user_window)
+        self.entry_text_register_new_user4.place(x=750, y=470)
+
+        self.text_label_register_new_user3 = util.get_text_label(self.register_new_user_window, 'Please, \ninput phone:')
+        self.text_label_register_new_user3.place(x=750, y=550)
+
+        self.entry_text_register_new_user5 = util.get_entry_text(self.register_new_user_window)
+        self.entry_text_register_new_user5.place(x=750, y=630)
+
+        self.text_label_register_new_user5 = util.get_text_label(self.register_new_user_window, 'Please, \ninput Email:')
+        self.text_label_register_new_user5.place(x=750, y=710)
+
+        self.entry_text_register_new_user6 = util.get_entry_text(self.register_new_user_window)
+        self.entry_text_register_new_user6.place(x=750, y=790)
+
+        self.text_label_register_new_user6 = util.get_text_label(self.register_new_user_window, 'Please, \ninput Email:')
+        self.text_label_register_new_user6.place(x=750, y=870)
+
+        self.entry_text_register_new_user7 = util.get_entry_text(self.register_new_user_window)
+        self.entry_text_register_new_user7.place(x=750, y=950)
+
+        self.text_label_register_new_user7 = util.get_text_label(self.register_new_user_window, 'Please, \ninput Birth Date:')
+        self.text_label_register_new_user7.place(x=750, y=1030)
+
+        self.entry_text_register_new_user8 = util.get_entry_text(self.register_new_user_window)
+        self.entry_text_register_new_user8.place(x=750, y=1110)
+
+        self.text_label_register_new_user8 = util.get_text_label(self.register_new_user_window, 'Please, \ninput Home Adress:')
+        self.text_label_register_new_user8.place(x=750, y=1190)
+        '''
 
     def try_again_register_new_user(self):
         self.register_new_user_window.destroy()
